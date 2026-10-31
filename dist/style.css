@@ -23,3 +23,6 @@
 
 .hub-grid-new .hub-card.american-english{background:#e0f0eb}.hub-grid-new .hub-card.american-english h2 em{color:#0d6b64}
 .hub-grid-new .hub-card.memorize{background:#e1ecfb}.hub-grid-new .hub-card.memorize h2 em{color:#1a5fbd}
+.hub-grid-new .hub-card{position:relative}
+.hub-card>a.hub-link::after{content:'';position:absolute;inset:0;border-radius:inherit}
+.hub-card>.hub-repo{position:relative;z-index:1}
