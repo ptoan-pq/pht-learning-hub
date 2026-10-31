@@ -1,6 +1,6 @@
 # PHT Learning Hub — website học cá nhân
 
-Trang chủ `/` gom năm lộ trình: [Học lái xe Virginia](/driving/), [PQ Buddhist English](https://ptoan-pq.github.io/pq-buddhist-english/) và [Cẩm nang điện ảnh](https://ptoan-pq.github.io/cam-nang-dien-anh/). Bộ học DMV cũ được giữ nguyên dưới `/driving/`, với các trang bài học, ôn thi, hiểu sâu và tiến độ.
+Trang chủ `/` gom sáu lộ trình: [Học lái xe Virginia](/driving/), [PQ Buddhist English](https://ptoan-pq.github.io/pq-buddhist-english/) và [Cẩm nang điện ảnh](https://ptoan-pq.github.io/cam-nang-dien-anh/). Bộ học DMV cũ được giữ nguyên dưới `/driving/`, với các trang bài học, ôn thi, hiểu sâu và tiến độ.
 
 **Website public:** https://ptoan-pq.github.io/pht-learning-hub/
 
@@ -67,6 +67,10 @@ Kiểm tra bao gồm lưu lựa chọn dở, chấm đúng một lần, nhập t
 ## Sống Mỹ — tiếng Anh và văn hóa Hoa Kỳ
 
 Mục Sống Mỹ trên trang chủ và thanh điều hướng mở [website GitHub Pages](https://ptoan-pq.github.io/song-my-english-campus/): 43 chủ đề, 195 khối bài đọc có bản dịch và 645 câu luyện tập tương tác. Mã nguồn ở [repo song-my-english-campus](https://github.com/ptoan-pq/song-my-english-campus). Tiến độ Sống Mỹ được lưu riêng tại website đó.
+
+## Thuộc Lòng
+
+Thẻ Thuộc Lòng trên trang chủ mở [website GitHub Pages](https://ptoan-pq.github.io/thuoc-long/) để học thuộc kinh, thơ và lời thoại. Mã nguồn ở [repo thuoc-long](https://github.com/ptoan-pq/thuoc-long). Bài học và tiến độ được lưu riêng trong trình duyệt tại website đó.
 
 ## GitHub và triển khai public
 
