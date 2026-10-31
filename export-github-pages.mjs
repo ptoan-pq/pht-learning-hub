@@ -3,7 +3,8 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 const output=process.argv[2];
 if(!output||!path.isAbsolute(output))throw Error('Pass a new absolute output directory.');
-const base='/pht-learning-hub';
+const base=process.argv[3]||'/pht-learning-hub';
+assert.match(base,/^\/[a-z0-9-]+$/,'Use a single repository path prefix.');
 mkdirSync(output,{recursive:false});
 cpSync('dist',output,{recursive:true});
 function visit(dir){for(const entry of readdirSync(dir,{withFileTypes:true})){
