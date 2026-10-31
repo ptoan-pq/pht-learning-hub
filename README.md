@@ -73,7 +73,7 @@ Mục Sống Mỹ trên trang chủ và thanh điều hướng mở [website Git
 - Mã nguồn: https://github.com/ptoan-pq/pht-learning-hub
 - Website: https://ptoan-pq.github.io/pht-learning-hub/
 - Website tĩnh chạy trên GitHub Pages, không cần tài khoản GPT, API key hoặc dịch vụ OpenAI.
-- Mỗi lần đẩy lên `main`, GitHub Actions dựng dữ liệu, chạy kiểm tra, xuất website với đường dẫn `/pht-learning-hub/` rồi triển khai.
+- Nhánh `main` lưu mã nguồn; nhánh `gh-pages` chứa bản xuất website. GitHub Pages tự triển khai mỗi khi nhánh `gh-pages` được cập nhật.
 
 ```sh
 node build.mjs
@@ -81,6 +81,6 @@ node test.mjs
 node export-github-pages.mjs /absolute/new-output-directory
 ```
 
-Để kiểm tra bản GitHub Pages tại máy, đặt thư mục xuất dưới đường dẫn `pht-learning-hub` của máy chủ HTTP rồi mở `/pht-learning-hub/`. Thư mục xuất phải mới mỗi lần chạy. Dữ liệu học và âm thanh đã được lưu trong repo. Các phòng tiếng Anh, điện ảnh và Sống Mỹ liên kết tới website GitHub Pages riêng.
+Để kiểm tra bản GitHub Pages tại máy, đặt thư mục xuất dưới đường dẫn `pht-learning-hub` của máy chủ HTTP rồi mở `/pht-learning-hub/`. Thư mục xuất phải mới mỗi lần chạy. Sau khi kiểm tra, commit toàn bộ bản xuất vào nhánh `gh-pages` và push lên GitHub để cập nhật web public. Dữ liệu học và âm thanh đã được lưu trong repo. Các phòng tiếng Anh, điện ảnh và Sống Mỹ liên kết tới website GitHub Pages riêng.
 
 Khi chuyển từ địa chỉ cũ, vào **Tiến độ** ở web cũ để xuất JSON, rồi nhập tại **Tiến độ** của web mới. Tiến độ không tự chuyển giữa các tên miền.

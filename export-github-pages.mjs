@@ -19,6 +19,8 @@ function visit(dir){for(const entry of readdirSync(dir,{withFileTypes:true})){
   text=text.replace("history.pushState({},'',path)",`history.pushState({},'',path.startsWith('${base}/')?path:'${base}'+path)`);
   text=text.replace("path.startsWith(new URL(a.href).pathname.replace",`path.startsWith(new URL(a.href).pathname.slice('${base}'.length).replace`);
   text=text.replace(".src=`/assets/",`.src=\`${base}/assets/`);
+  text=text.replace('href="${state.active?',`href="${base}\${state.active?`);
+  text=text.replace('href="${a.mode===',`href="${base}\${a.mode===`);
   assert.ok(text.includes(`fetch('${base}/data/course.json')`));
  }
  writeFileSync(file,text);
