@@ -92,3 +92,11 @@ Khi chuyển từ địa chỉ cũ, vào **Tiến độ** ở web cũ để xu�
 ## Thư viện Nikāya
 
 Thẻ Nikāya và thanh điều hướng mở https://ptoan-pq.github.io/thu-vien-nikaya/. Thư viện có danh sách kinh gọn, tóm lược theo từng mục và liên kết nguyên văn BuddhaSasana. Biểu tượng bánh xe trong thư viện đưa về trang chủ thư viện.
+
+Điều hướng trong Hub chỉ chặn các link thuộc thư mục của chính Hub; những website GitHub Pages khác cùng tên miền phải được mở bằng điều hướng trình duyệt. `qa-navigation.cjs` chạy handler click thật trên bản xuất và bắt lỗi Nikāya bị đưa đến trang “Trang này chưa có”, đồng thời kiểm tra bài học nội bộ vẫn mở được:
+
+```sh
+node qa-navigation.cjs /absolute/export-directory https://ptoan-pq.github.io/pht-learning-hub/app.mjs
+```
+
+Trang `/thu-vien-nikaya/` dưới Hub chỉ chuyển tiếp về website thư viện để khôi phục địa chỉ lỗi của bản điều hướng cũ.
