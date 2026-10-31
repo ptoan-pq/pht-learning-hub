@@ -1,0 +1,769 @@
+[
+  {
+    "id": "L13",
+    "sections": [
+      {
+        "title": "Lùi xe và mở cửa an toàn",
+        "blocks": [
+          {
+            "headingEn": "Backing",
+            "headingVi": "Lùi xe",
+            "paragraphs": [
+              "Sai lầm thường gặp nhất khi lùi xe là không nhìn cả hai bên phía sau. Gương không cho bạn thấy toàn bộ khu vực này. Để quan sát được nhiều nhất, hãy xoay người và đầu sang phải, nhìn ra ngoài qua kính sau. Lùi chậm và liếc nhanh về từng bên để kiểm tra người đi bộ và xe đang tiến đến."
+            ]
+          },
+          {
+            "headingEn": "Parking",
+            "headingVi": "Đỗ xe",
+            "paragraphs": [
+              "Khi đỗ trên đường công cộng, đưa xe ra xa dòng xe đang lưu thông nhất có thể. Nếu đỗ trên lề đường, tấp xe vào sâu trong phần lề nhất có thể. Nếu đỗ cạnh bó vỉa (curb), hãy đỗ sát bó vỉa; không được cách bó vỉa quá 1 foot. Trên đường hai chiều, đỗ ở phía bên phải đường. Trên đường một chiều, có thể đỗ ở một trong hai bên."
+            ]
+          },
+          {
+            "headingEn": "Before opening a door",
+            "headingVi": "Trước khi mở cửa xe",
+            "paragraphs": [
+              "Khi ra khỏi xe, chú ý các phương tiện và người đang lưu thông. Trước khi mở cửa, quan sát ô tô khác, người đi xe đạp và người đi bộ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Đỗ xe trên dốc",
+        "blocks": [
+          {
+            "headingEn": "With a curb",
+            "headingVi": "Có bó vỉa",
+            "paragraphs": [
+              "Nếu có bó vỉa: xoay bánh trước để ngăn xe lăn ra phần đường đang có xe chạy."
+            ]
+          },
+          {
+            "headingEn": "Without a curb",
+            "headingVi": "Không có bó vỉa",
+            "paragraphs": [
+              "Nếu không có bó vỉa: xoay bánh trước sao cho nếu xe bị lăn, phần đuôi xe sẽ lăn ra xa dòng xe đang lưu thông."
+            ]
+          },
+          {
+            "headingEn": "Uphill — no curb",
+            "headingVi": "Đỗ hướng lên dốc — không có bó vỉa",
+            "paragraphs": [
+              "Xoay bánh trước sang phải."
+            ]
+          },
+          {
+            "headingEn": "Downhill — no curb",
+            "headingVi": "Đỗ hướng xuống dốc — không có bó vỉa",
+            "paragraphs": [
+              "Xoay bánh trước sang phải."
+            ]
+          },
+          {
+            "headingEn": "Uphill — with curb",
+            "headingVi": "Đỗ hướng lên dốc — có bó vỉa",
+            "paragraphs": [
+              "Xoay bánh trước sang trái."
+            ]
+          },
+          {
+            "headingEn": "Downhill — with curb",
+            "headingVi": "Đỗ hướng xuống dốc — có bó vỉa",
+            "paragraphs": [
+              "Xoay bánh trước sang phải."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vị trí không được đỗ",
+        "blocks": [
+          {
+            "headingEn": "Where you may not park",
+            "headingVi": "Những nơi không được đỗ xe",
+            "paragraphs": [
+              "Bạn không được đỗ xe:",
+              "• Bên cạnh một xe khác đang đỗ, tạo thành hai hàng xe đỗ song song (double parking).",
+              "• Trên lối qua đường cho người đi bộ (crosswalk) hoặc vỉa hè (sidewalk).",
+              "• Trước lối xe ra vào (driveway).",
+              "• Trong khu vực cấm đỗ được đánh dấu bằng bó vỉa sơn vàng hoặc biển No Parking.",
+              "• Trong chỗ đỗ dành riêng cho người khuyết tật.",
+              "• Trong lối tiếp cận có vạch sọc nằm cạnh chỗ đỗ dành riêng cho người khuyết tật.",
+              "• Trên phần mặt đường cứng khi đường không có bó vỉa.",
+              "• Trong phạm vi 15 feet tính từ trụ nước chữa cháy (fire hydrant).",
+              "• Trong phạm vi 20 feet tính từ giao lộ.",
+              "• Trong làn xe đạp.",
+              "• Trong phạm vi 15 feet tính từ lối vào trạm cứu hỏa, cứu thương hoặc cứu hộ.",
+              "• Trong phạm vi 500 feet tính từ nơi xe cứu hỏa hoặc thiết bị chữa cháy đang dừng để ứng phó báo động.",
+              "• Trong phạm vi 50 feet tính từ chỗ giao cắt với đường sắt.",
+              "• Theo cách gây cản trở hoặc tạo nguy hiểm cho xe khác trong một làn giao thông được chỉ định."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Đèn chiếu gần, chiếu xa và thời điểm bật",
+        "blocks": [
+          {
+            "headingEn": "Headlights in bad weather",
+            "headingVi": "Đèn chiếu sáng khi thời tiết xấu",
+            "paragraphs": [
+              "Luật Virginia yêu cầu người lái bật đèn chiếu sáng phía trước khi thời tiết xấu như mưa, sương mù, tuyết hoặc mưa tuyết làm tầm nhìn giảm còn 500 feet. Bạn phải bật đèn bất cứ khi nào dùng gạt mưa vì thời tiết xấu. Bật đèn mọi lúc, kể cả ban ngày, giúp xe bạn dễ được nhìn thấy hơn."
+            ]
+          },
+          {
+            "headingEn": "From sunset to sunrise",
+            "headingVi": "Từ lúc mặt trời lặn đến lúc mặt trời mọc",
+            "paragraphs": [
+              "Khi mặt trời lặn, ngay lúc ánh sáng bắt đầu yếu đi, hãy bật đèn để người khác dễ nhìn thấy xe bạn hơn. Bạn phải bật đèn trong khoảng thời gian từ mặt trời lặn đến mặt trời mọc."
+            ]
+          },
+          {
+            "headingEn": "Low beams",
+            "headingVi": "Đèn chiếu gần — low beams",
+            "paragraphs": [
+              "Dùng đèn chiếu gần (đèn cốt) khi lái trong thành phố và thị trấn, trừ những con đường không có đèn đường. Chuyển sang đèn cốt bất cứ khi nào gặp xe ngược chiều để tránh làm chói mắt người lái xe đó. Khi đi sau xe khác, dùng đèn cốt nếu cách xe phía trước trong phạm vi 200 feet."
+            ]
+          },
+          {
+            "headingEn": "High beams and oncoming traffic",
+            "headingVi": "Đèn chiếu xa và xe ngược chiều",
+            "paragraphs": [
+              "Dùng đèn chiếu xa (đèn pha) trên đường bộ, trừ khi có xe khác đang đi ngược chiều tiến đến trong phạm vi 500 feet. Nếu xe ngược chiều bật đèn pha, tránh nhìn thẳng vào ánh đèn chói. Liếc về phía mép đường, rồi nhanh chóng nhìn lại phía trước để xác định vị trí xe đó. Tiếp tục quan sát như vậy cho đến khi hai xe đã đi qua nhau. Dù người lái kia không hạ đèn pha, bạn cũng đừng bật đèn pha của mình để đáp lại."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sương, mưa, tuyết và băng",
+        "blocks": [
+          {
+            "headingEn": "Hazardous conditions",
+            "headingVi": "Điều kiện lái xe nguy hiểm",
+            "paragraphs": [
+              "Việc lái xe trở nên nguy hiểm khi tầm nhìn giảm hoặc mặt đường có mưa, tuyết hay băng phủ. Khi tầm nhìn kém đi và đường trở nên nguy hiểm, việc đầu tiên bạn nên làm là giảm tốc. Tăng khoảng đệm an toàn quanh xe (space cushion) bằng cách giữ khoảng cách theo sau gấp đôi bình thường; xem thêm mục Duy trì khoảng đệm an toàn. Bật đèn chiếu sáng phía trước."
+            ]
+          },
+          {
+            "headingEn": "Fog",
+            "headingVi": "Sương mù",
+            "paragraphs": [
+              "Sương mù phản chiếu ánh sáng và có thể phản ánh đèn của chính xe bạn trở lại mắt bạn. Khi sương dày, dùng đèn cốt và dựa vào vạch mép đường để định hướng. Ngay cả sương nhẹ cũng làm giảm tầm nhìn và khả năng ước lượng khoảng cách, vì vậy hãy giảm tốc."
+            ]
+          },
+          {
+            "headingEn": "Rain",
+            "headingVi": "Mưa",
+            "paragraphs": [
+              "Lái xe trong mưa lớn có thể nguy hiểm như trong sương mù, nhất là khi có gió. Khi mưa, xe phía sau và xe trong vùng điểm mù đặc biệt khó nhìn thấy.",
+              "Dùng đèn cốt để vừa nhìn rõ hơn vừa giúp người khác nhìn thấy bạn. Khi mưa nhỏ hoặc mưa phùn, bật gạt mưa để cải thiện tầm nhìn. Khi chỉ có vài hạt mưa, gạt mưa có thể làm kính bị lem và khó nhìn hơn, vì vậy hãy bảo đảm xe có nước rửa kính.",
+              "Trong nửa giờ đầu khi mưa bắt đầu, đường dễ trơn hơn do dầu trên mặt đường hòa với nước. Đi thận trọng qua vùng nước đọng và tránh đi qua nếu có thể. Nước đọng có thể khiến lốp trượt trên lớp nước (hydroplane) hoặc làm xe mất kiểm soát theo cách khác."
+            ]
+          },
+          {
+            "headingEn": "Snow and ice",
+            "headingVi": "Tuyết và băng",
+            "paragraphs": [
+              "Trước khi lái, dọn hết tuyết và băng trên toàn bộ xe, kể cả nóc, nắp ca-pô và phía sau. Tuyết hoặc băng còn trên xe có thể văng ra khi xe chạy và gây nguy hiểm cho người lái khác. Dọn sạch tuyết, băng trên tất cả kính, gương và đèn trước, đèn sau để bạn nhìn được và có thể báo hiệu với người lái khác.",
+              "Trang bị lốp đi tuyết dùng mọi thời tiết hoặc xích bọc lốp để giúp ngăn trượt và rút ngắn quãng đường dừng. Lái trên tuyết bị nén chặt tương tự lái trên băng. Khi phanh, đạp nhẹ; giảm tốc trước khi dừng hoặc rẽ.",
+              "Khi đang đi trên mặt trơn và cần dừng, nhả chân ga rồi phanh nhẹ. Xe có độ bám và khả năng điều khiển tốt nhất khi bánh trước vẫn đang lăn. Giữ tốc độ chậm, đều thay vì phanh mạnh sẽ giúp bạn kiểm soát xe.",
+              "Chú ý băng trên cầu và ở nơi râm mát. Mặt cầu đóng băng trước các phần mặt đường khác."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L14",
+    "sections": [
+      {
+        "title": "Tránh đối đầu với người lái hung hăng",
+        "blocks": [
+          {
+            "headingEn": "Aggressive driving",
+            "headingVi": "Lái xe hung hăng — aggressive driving",
+            "paragraphs": [
+              "Luật Virginia định nghĩa hành vi lái xe nguy hiểm này là có ý định quấy rối, đe dọa, gây thương tích hoặc cản trở người khác trong khi thực hiện một hay nhiều vi phạm giao thông, chẳng hạn không dừng hoặc không nhường đường, tránh né thiết bị điều khiển giao thông, hoặc không nhường cho xe đang vượt."
+            ]
+          },
+          {
+            "headingEn": "Recognize the behavior and protect yourself",
+            "headingVi": "Nhận biết hành vi và tự bảo vệ mình",
+            "paragraphs": [
+              "Khi cầm lái, những người lái hung hăng này trút giận lên người khác trên đường. Họ dễ bực bội nhưng ít quan tâm đến người cùng tham gia giao thông. Họ vi phạm luật bằng cách vượt biển STOP và đèn đỏ, chạy quá tốc độ, bám đuôi, lạng qua lại giữa các dòng xe, vượt bên phải kể cả trên lề và phần đường không trải mặt, đổi làn sai hoặc không an toàn, đồng thời có thể dùng cử chỉ tay, nét mặt, la hét, bóp còi và nháy đèn.",
+              "Hãy tự bảo vệ mình. Nếu gặp người lái hung hăng, tránh đường cho họ. Đừng thách thức bằng cách tăng tốc hoặc cố dùng các thao tác lái để lấn át họ. Tránh giao tiếp bằng mắt và phớt lờ cử chỉ, tiếng la hét của họ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mất tập trung và thiết bị cầm tay",
+        "blocks": [
+          {
+            "headingEn": "Distracted driving",
+            "headingVi": "Lái xe mất tập trung",
+            "paragraphs": [
+              "Lái xe đòi hỏi bạn tập trung hoàn toàn. Nhiều việc có thể làm người lái xao nhãng: đổi nhạc, podcast hoặc GPS; nói chuyện với hành khách; nhìn những việc xung quanh bên ngoài; ăn uống; dùng điện thoại và các việc khác. Khi đang đi trên đường, người lái không nên dùng điện thoại, máy tính hoặc thiết bị gây xao nhãng khác, trừ để báo va chạm hay tình huống khẩn cấp. Trước khi làm việc có thể gây mất tập trung, hãy tấp vào và dừng xe ở vị trí an toàn."
+            ]
+          },
+          {
+            "headingEn": "Handheld devices and navigation",
+            "headingVi": "Thiết bị cầm tay và chỉ đường",
+            "paragraphs": [
+              "Luật Virginia cấm người lái cầm điện thoại hoặc bất kỳ thiết bị liên lạc không dây nào khác khi đang lái, trừ tình huống khẩn cấp của người lái hoặc khi xe đã đỗ hay dừng hợp pháp. Có thể dùng điện thoại hoặc thiết bị viễn thông khác để chỉ đường, miễn là người lái không nhập thông tin hoặc cầm thiết bị trong lúc lái."
+            ]
+          },
+          {
+            "headingEn": "Precautions before driving",
+            "headingVi": "Các bước phòng ngừa trước khi lái",
+            "paragraphs": [
+              "Đừng để tình trạng này xảy ra với bạn. Hãy thực hiện những biện pháp sau:",
+              "• Luôn giữ mắt nhìn đường và tay trên vô-lăng.",
+              "• Cài đặt hoặc điều chỉnh các bộ điều khiển của xe và các thiết bị khác ngay khi vào xe, trước khi bắt đầu lái.",
+              "• Không sử dụng điện thoại."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Buồn ngủ: nhận biết và xử lý",
+        "blocks": [
+          {
+            "headingEn": "Signs of drowsy driving",
+            "headingVi": "Dấu hiệu lái xe khi buồn ngủ",
+            "paragraphs": [
+              "Ngáp liên tục, đầu gật gù, mí mắt nặng, khó nhớ vài dặm đường vừa đi qua, bỏ lỡ biển báo hoặc lối ra, đổi làn ngoài ý định, chạy chệch ra khỏi đường hoặc đè lên dải tạo rung đều là dấu hiệu buồn ngủ khi lái. Lái xe trong tình trạng buồn ngủ làm tăng nguy cơ va chạm, vì bạn gặp khó khăn khi phải cùng lúc xử lý thông tin phức tạp đến từ nhiều phía. Bạn có thể quyết định bất cẩn, khó tập trung hoặc thật sự ngủ gục khi đang lái."
+            ]
+          },
+          {
+            "headingEn": "Before a trip",
+            "headingVi": "Trước chuyến đi",
+            "paragraphs": [
+              "Để tránh buồn ngủ khi lái:",
+              "• Ngủ đủ và ngủ có chất lượng trước chuyến đi.",
+              "• Tránh đồ uống có cồn và những bữa ăn nặng bụng.",
+              "• Chú ý những thuốc có thể làm suy giảm khả năng lái xe."
+            ]
+          },
+          {
+            "headingEn": "Rest and reliable prevention",
+            "headingVi": "Nghỉ ngơi và cách phòng ngừa đáng tin cậy",
+            "paragraphs": [
+              "Hạn chế lái đường dài. Ít nhất cứ mỗi hai giờ, dừng lại để nghỉ.",
+              "• Dừng ở nơi an toàn và chợp mắt. Chỉ ngủ 10 đến 20 phút cũng có thể tạo khác biệt đáng kể.",
+              "• Nếu có thể, đi cùng người khác và đổi người lái khi cần. Luôn để người đã nghỉ ngơi đầy đủ cầm lái.",
+              "• Tránh lái từ 10 giờ tối đến 6 giờ sáng.",
+              "Hạ cửa kính, nhai kẹo cao su, mở nhạc lớn hoặc dùng caffeine, nước tăng lực hay chất kích thích khác không ngăn được buồn ngủ khi lái và không phải cách đáng tin cậy để giữ tỉnh táo. Lái khi buồn ngủ là một dạng lái xe trong tình trạng khả năng bị suy giảm, khiến người lái và mọi người khác trên đường có nguy cơ bị tổn hại.",
+              "Nếu thấy người khác lái xe trong trạng thái buồn ngủ, tìm nơi an toàn để dừng hoặc nhờ hành khách gọi cơ quan thực thi pháp luật. Bạn cần mô tả được vị trí, chiếc xe và hành vi đã quan sát."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rượu và ngưỡng BAC",
+        "blocks": [
+          {
+            "headingEn": "BAC and impaired driving",
+            "headingVi": "Nồng độ cồn trong máu và lái xe bị suy giảm khả năng",
+            "paragraphs": [
+              "Về pháp lý, người lái từ 21 tuổi trở lên được xem là lái xe dưới ảnh hưởng của rượu hoặc chất gây ảnh hưởng (driving under the influence — DUI) nếu nồng độ cồn trong máu (blood alcohol content — BAC) từ 0.08% trở lên. Nếu khả năng lái bị suy giảm, bạn vẫn có thể bị kết tội DUI dù BAC thấp hơn 0.08%.",
+              "Nếu dưới 21 tuổi, bạn có thể bị kết tội sử dụng rượu trái phép khi BAC ít nhất 0.02% nhưng dưới 0.08%. Nếu BAC từ 0.08% trở lên, bạn có thể bị kết tội DUI. Nếu khả năng lái bị suy giảm vì ảnh hưởng của bất kỳ loại thuốc hoặc chất nào, bạn có thể chịu các hình phạt như khi lái dưới ảnh hưởng của rượu."
+            ]
+          },
+          {
+            "headingEn": "Even one drink can affect driving",
+            "headingVi": "Chỉ một đồ uống có cồn cũng có thể ảnh hưởng việc lái",
+            "paragraphs": [
+              "Chỉ một đồ uống có cồn cũng có thể ảnh hưởng khả năng lái, vì ngay một lượng cồn nhỏ đã tác động đến chức năng của não, đặc biệt là thị giác, khả năng phán đoán và phối hợp động tác."
+            ]
+          },
+          {
+            "headingEn": "Only time reduces intoxication",
+            "headingVi": "Chỉ thời gian mới làm giảm tình trạng say",
+            "paragraphs": [
+              "Chỉ thời gian mới có thể làm giảm tình trạng say. Cà phê, tắm nước lạnh hoặc tập thể dục không làm bạn tỉnh rượu. Những vụ va chạm liên quan đến rượu không phải chuyện ngẫu nhiên không thể tránh; chúng có thể được ngăn ngừa. Cách duy nhất để tránh rủi ro do uống rượu rồi lái là quyết định trước khi bắt đầu uống rằng mình sẽ không lái xe. Hãy nhớ rằng rượu ảnh hưởng khả năng phán đoán. Sau một hoặc hai đồ uống có cồn, việc quyết định không lái sẽ khó hơn rất nhiều."
+            ]
+          },
+          {
+            "headingEn": "Plan a sober ride",
+            "headingVi": "Sắp xếp trước chuyến về với người lái tỉnh táo",
+            "paragraphs": [
+              "Khi dự một buổi gặp gỡ có sử dụng rượu, hãy tính trước cách về nhà an toàn với người lái tỉnh táo: dùng phương tiện khác hoặc có một người không uống rượu cầm lái."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Thuốc và cannabis cũng ảnh hưởng khả năng lái",
+        "blocks": [
+          {
+            "headingEn": "Alcohol combined with medication",
+            "headingVi": "Kết hợp rượu với thuốc hoặc chất khác",
+            "paragraphs": [
+              "Kết hợp rượu với các loại thuốc hoặc chất khác thường làm tác dụng của cả hai tăng lên nhiều lần và có thể gây hậu quả nghiêm trọng cho khả năng lái. Một đồ uống có cồn khi bạn đang dùng một loại thuốc khác — kể cả aspirin, thuốc dị ứng hoặc thuốc cảm — có thể ảnh hưởng việc lái như uống nhiều đồ uống có cồn."
+            ]
+          },
+          {
+            "headingEn": "Prescription drugs, other medicines and cannabis",
+            "headingVi": "Thuốc kê đơn, các thuốc khác và cần sa",
+            "paragraphs": [
+              "Hầu như bất kỳ loại thuốc hoặc chất nào cũng có thể làm giảm khả năng lái an toàn. Không chỉ chất bất hợp pháp mới gây vấn đề. Nhiều thuốc không kê đơn và thuốc kê đơn trị đau đầu, dị ứng phấn hoa, cảm lạnh, dị ứng hoặc tình trạng thần kinh có thể gây buồn ngủ và chóng mặt. Các dạng thuốc này gồm si-rô, thuốc nhỏ, thuốc xịt, viên thuốc và viên nén. Chúng thường làm giảm sự tỉnh táo và làm chậm phản ứng của người lái.",
+              "Mặc dù việc sở hữu cần sa và sản phẩm cần sa của người trên 21 tuổi là hợp pháp theo đoạn nguồn này, lái xe dưới ảnh hưởng của cần sa vẫn bất hợp pháp. Hút hoặc sử dụng cần sa sẽ ảnh hưởng cách bạn lái.",
+              "Đọc nhãn trước khi dùng bất kỳ thuốc hoặc dược phẩm nào. Tìm các cảnh báo về tác dụng phụ. Nếu chưa rõ tác dụng của một thuốc, hãy hỏi dược sĩ hoặc bác sĩ. Hãy nhớ rằng dù tác dụng khác nhau giữa các người dùng, không có thuốc nào hoàn toàn vô hại."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Khi có va chạm hoặc gặp động vật lớn",
+        "blocks": [
+          {
+            "headingEn": "Responsibilities after a crash",
+            "headingVi": "Trách nhiệm sau va chạm",
+            "paragraphs": [
+              "Nếu có liên quan đến va chạm giao thông, bạn phải:",
+              "• Dừng tại hiện trường hoặc gần hiện trường nhất có thể mà không cản trở giao thông. Người lái phải lập tức đưa xe ra khỏi đường nếu xe có thể di chuyển, không ai bị thương và người lái có thể làm việc đó an toàn.",
+              "• Cẩn thận khi ra khỏi xe. Nếu có thể, giữ xe của bạn nằm giữa bạn và dòng xe đang chạy.",
+              "• Giúp trong khả năng của mình nếu có người bị thương. Đừng cố đưa người bị thương ra khỏi xe bị nạn, trừ khi bạn đã được đào tạo y tế cần thiết hoặc có nguy hiểm tức thời như hỏa hoạn.",
+              "• Báo cảnh sát sớm nhất có thể. Va chạm xe cơ giới gây thiệt hại tài sản, thương tích hoặc tử vong phải được báo cảnh sát.",
+              "• Trao đổi thông tin với những người liên quan sớm nhất có thể. Hãy lấy đầy đủ: tên, địa chỉ và số bằng lái của các người lái khác; biển số các xe khác; tên và địa chỉ của người bị thương; tên và địa chỉ từng nhân chứng; tên, địa chỉ và số hợp đồng bảo hiểm của các chủ xe khác.",
+              "• Thông báo ngay cho công ty bảo hiểm của bạn."
+            ]
+          },
+          {
+            "headingEn": "Damage to an unattended vehicle or property",
+            "headingVi": "Làm hư hại xe không có người trông hoặc tài sản khác",
+            "paragraphs": [
+              "Bạn phải có nỗ lực hợp lý để tìm chủ của xe không có người trông hoặc tài sản khác bị hư hại do va chạm. Nếu không tìm được ai, để lại giấy nhắn tại hiện trường ở nơi dễ thấy. Ghi tên, số điện thoại của bạn, ngày giờ va chạm và mô tả hư hại. Bạn cũng phải báo cảnh sát trong vòng 24 giờ."
+            ]
+          },
+          {
+            "headingEn": "Deer and large animals",
+            "headingVi": "Hươu và động vật lớn",
+            "paragraphs": [
+              "Để tránh đâm phải hươu hoặc động vật lớn khác:",
+              "• Chú ý lúc chạng vạng và rạng sáng, nhất là vào mùa thu.",
+              "• Giảm tốc nếu thấy động vật lớn ở gần hoặc đang qua đường. Chúng thường đi thành đàn nên có thể còn những con khác ở gần.",
+              "• Bóp còi để xua con vật đi.",
+              "• Nếu không thể tránh va chạm với hươu hoặc động vật khác, đừng đánh lái tránh gấp. Phanh chắc, giữ nguyên làn và dừng xe có kiểm soát.",
+              "Nếu đâm phải động vật lớn, báo cho cơ quan thực thi pháp luật."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Khi cảnh sát dừng xe",
+        "blocks": [
+          {
+            "headingEn": "Traffic stops",
+            "headingVi": "Khi bị cảnh sát yêu cầu dừng xe",
+            "paragraphs": [
+              "Nếu bị cảnh sát yêu cầu dừng xe:",
+              "• Giữ bình tĩnh.",
+              "• Tấp xe vào bên đường ở vị trí an toàn và đỗ lại.",
+              "• Ở trong xe. Đừng bước ra trừ khi cảnh sát yêu cầu.",
+              "• Bật đèn cảnh báo nguy hiểm (flashers).",
+              "• Nếu bị dừng ban đêm, bật đèn trong khoang xe.",
+              "• Tắt động cơ, radio và mọi thiết bị có thể cản trở việc trao đổi với cảnh sát.",
+              "• Hạ kính để nói chuyện với cảnh sát. Vì an toàn, cảnh sát có thể đến từ phía người lái hoặc phía hành khách.",
+              "• Giữ dây an toàn ở trạng thái đã cài và yêu cầu hành khách cũng làm như vậy.",
+              "• Để hai tay ở vị trí dễ thấy, tốt nhất trên vô-lăng. Yêu cầu hành khách cũng để tay ở vị trí dễ thấy.",
+              "• Đừng có động tác khiến cảnh sát nghĩ rằng bạn đang giấu hoặc với lấy thứ gì.",
+              "• Mang đủ giấy tờ phù hợp: bằng lái còn hiệu lực, giấy đăng ký xe và giấy chứng nhận bảo hiểm. Nếu được yêu cầu xuất trình, nói cho cảnh sát giấy tờ ở đâu rồi từ từ lấy, giữ một tay trên vô-lăng.",
+              "• Nếu cảnh sát đi xe không có dấu hiệu nhận diện hoặc không mặc đồng phục, bạn được phép đề nghị xem giấy tờ xác nhận danh tính của họ.",
+              "• Trả lời đầy đủ và rõ ràng. Nếu không đồng ý với cảnh sát, đừng tranh luận quan điểm ngay lúc đó; bạn sẽ có cơ hội trình bày tại tòa.",
+              "• Bạn sẽ được yêu cầu ký giấy ghi vi phạm (citation). Hãy ký; chữ ký không có nghĩa thừa nhận có tội. Từ chối ký có thể dẫn đến việc bị bắt, hoặc bạn có thể bị yêu cầu đến đồn cảnh sát."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L15",
+    "sections": [
+      {
+        "title": "Ai phải cài dây và cài thế nào?",
+        "blocks": [
+          {
+            "headingEn": "Who must wear a safety belt",
+            "headingVi": "Ai phải thắt dây an toàn?",
+            "paragraphs": [
+              "Theo luật Virginia, người lái và mọi hành khách, ở cả ghế trước lẫn ghế sau, đều phải thắt dây an toàn. Người lái chở bất kỳ ai dưới 18 tuổi phải bảo đảm người đó được giữ an toàn đúng cách bằng dây an toàn, ghế nâng (booster seat) hoặc ghế an toàn trẻ em, bất kể trẻ ngồi ở vị trí nào trong xe."
+            ]
+          },
+          {
+            "headingEn": "Correct belt placement",
+            "headingVi": "Đặt dây an toàn đúng vị trí",
+            "paragraphs": [
+              "Đặt phần dây ngang hông (lap belt) ở thấp, áp vào đùi. Đeo phần dây qua vai (shoulder belt) qua vai và ngang ngực. Không bao giờ để dây vai ra sau lưng hoặc luồn dưới cánh tay. Cả dây vai lẫn dây hông nên ôm sát. Phụ nữ mang thai an toàn hơn nhiều khi cài dây với phần ngang hông nằm thấp nhất có thể trên vùng xương chậu."
+            ]
+          },
+          {
+            "headingEn": "Medical waiver",
+            "headingVi": "Miễn trừ vì lý do y khoa",
+            "paragraphs": [
+              "Ngoại lệ: bác sĩ có giấy phép hành nghề có thể cho miễn yêu cầu thắt dây nếu việc sử dụng dây không hợp lý do tình trạng thể chất hoặc y khoa của người lái hay hành khách. Người được miễn phải mang theo văn bản có chữ ký của bác sĩ, xác định người được miễn và lý do miễn."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Túi khí bổ sung cho dây an toàn",
+        "blocks": [
+          {
+            "headingEn": "Air bags and safety belts",
+            "headingVi": "Túi khí và dây an toàn",
+            "paragraphs": [
+              "Khi được sử dụng đúng cách cùng dây an toàn, túi khí đỡ người lái và hành khách khi cơ thể lao về phía trước trong va chạm ở phía đầu xe. Lớp đệm của túi khí giúp đầu, cổ và ngực không đập vào trụ vô-lăng hoặc bảng táp-lô, đồng thời giảm lực va đập."
+            ]
+          },
+          {
+            "headingEn": "Seating position and children",
+            "headingVi": "Tư thế ngồi và trẻ em",
+            "paragraphs": [
+              "Nếu xe có túi khí:",
+              "• Luôn cài dây an toàn và yêu cầu mọi hành khách cài dây.",
+              "• Lùi ghế để khoảng cách từ bạn đến vô-lăng ít nhất là mười inches.",
+              "• Nếu vô-lăng có thể điều chỉnh, nghiêng nó xuống. Cách này hướng túi khí về ngực thay vì đầu và cổ.",
+              "• Trẻ từ 12 tuổi trở xuống an toàn hơn khi cài dây ở ghế sau."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ghế trẻ em, hướng quay và tuổi",
+        "blocks": [
+          {
+            "headingEn": "Child safety seats",
+            "headingVi": "Ghế an toàn trẻ em",
+            "paragraphs": [
+              "Mọi trẻ dưới 8 tuổi phải được giữ an toàn đúng cách trong ghế an toàn trẻ em hoặc ghế nâng khi đi trên xe được sản xuất sau ngày 1 tháng 1 năm 1968. Theo cách diễn đạt của đoạn nguồn, trẻ nên ngồi quay mặt về phía sau từ khi sinh đến 2 tuổi, hoặc trong khoảng thời gian nhà sản xuất ghế cho phép.",
+              "Nếu xe không có ghế sau, có thể đặt ghế trẻ em quay về phía sau trên ghế hành khách trước nếu xe không có túi khí bên hành khách hoặc túi khí đó đã được tắt. Trẻ nên ngồi quay mặt về phía trước trong ghế an toàn trẻ em hoặc ghế nâng cho đến ít nhất 8 tuổi, hoặc cho đến khi dây an toàn vừa đúng với cơ thể."
+            ]
+          },
+          {
+            "headingEn": "Medical waiver for a child restraint",
+            "headingVi": "Miễn trừ yêu cầu ghế giữ trẻ vì lý do y khoa",
+            "paragraphs": [
+              "Bác sĩ có giấy phép hành nghề có thể cho miễn yêu cầu của luật về thiết bị giữ an toàn cho trẻ nếu việc sử dụng thiết bị đó không hợp lý do cân nặng, thể trạng hoặc lý do y khoa khác của trẻ. Người chịu trách nhiệm chở trẻ phải mang văn bản có chữ ký của bác sĩ, xác định trẻ được miễn và nêu căn cứ miễn."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Đánh giá vừa dây và các điều cần tránh",
+        "blocks": [
+          {
+            "headingEn": "Criteria for sitting without a booster seat",
+            "headingVi": "Các tiêu chí để ngồi không cần ghế nâng",
+            "paragraphs": [
+              "Các tiêu chí để ngồi không cần ghế nâng:",
+              "• Dây ngang hông ôm sát phần trên của đùi.",
+              "• Dây vai ôm sát vai và ngực.",
+              "• Trẻ đủ cao để ngồi mà không khom hoặc trượt người xuống.",
+              "• Đầu gối có thể gập tự nhiên ở mép ghế xe.",
+              "• Trẻ có thể ngồi lùi hết vào trong, lưng tựa sát lưng ghế.",
+              "• Hai bàn chân có thể đặt phẳng trên sàn xe.",
+              "• Trẻ có thể giữ tư thế này suốt chuyến đi."
+            ]
+          },
+          {
+            "headingEn": "When traveling with children",
+            "headingVi": "Khi đi cùng trẻ em",
+            "paragraphs": [
+              "Khi đi cùng trẻ em:",
+              "• Chỗ an toàn nhất để lắp ghế an toàn trẻ em là giữa hàng ghế sau.",
+              "• Nhiều đợt kiểm tra ghế an toàn trẻ em được tổ chức ở các địa phương khắp Virginia. Hãy tham gia một đợt để bảo đảm ghế của trẻ được lắp đúng. Xem www.vdh.virginia.gov để biết thêm thông tin.",
+              "• Không bao giờ bế trẻ ngồi trên đùi khi đi xe. Khi va chạm, trẻ có thể bị ép giữa cơ thể bạn và bảng táp-lô hoặc lưng ghế phía trước.",
+              "• Trước khi lái, bảo đảm mọi cửa xe đã đóng và khóa chắc. Nếu xe có khóa an toàn trẻ em, hãy bật khóa. Đừng để trẻ chơi với tay nắm cửa hoặc ổ khóa. Nếu cần mở cửa, đưa xe ra khỏi đường và dừng hẳn trước.",
+              "• Không bao giờ cho trẻ ngồi trong khoang hành lý của xe hatchback, xe station wagon hoặc xe van.",
+              "• Không bao giờ để cửa hậu của xe hatchback mở khi trẻ đang ngồi ở hàng ghế sau.",
+              "• Chở trẻ dưới 16 tuổi trong thùng xe pickup là bất hợp pháp, kể cả khi thùng có mui che (camper shell)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L16",
+    "sections": [
+      {
+        "title": "Suspension khác revocation",
+        "blocks": [
+          {
+            "headingEn": "Suspension",
+            "headingVi": "Tạm đình chỉ quyền lái — suspension",
+            "paragraphs": [
+              "Nếu bằng lái bị tạm đình chỉ (suspension), đặc quyền lái xe của bạn bị rút lại trong một thời gian. Khi hết thời hạn đình chỉ, bạn có thể nộp các khoản phí cần thiết để khôi phục bằng. Bạn cũng sẽ phải xuất trình bằng chứng về việc hiện diện hợp pháp tại Hoa Kỳ (legal presence), nghĩa là bạn là công dân Hoa Kỳ hoặc được chính phủ liên bang cho phép có mặt hợp pháp tại Hoa Kỳ.",
+              "Trong thời gian đình chỉ, nếu bằng đã hết hạn từ một năm trở lên, bạn phải xuất trình bằng chứng hiện diện hợp pháp và vượt qua bài thi kiến thức hai phần, thi thực hành và kiểm tra thị lực để được khôi phục đặc quyền lái xe."
+            ]
+          },
+          {
+            "headingEn": "Revocation",
+            "headingVi": "Thu hồi, chấm dứt quyền lái — revocation",
+            "paragraphs": [
+              "Thu hồi (revocation) nghĩa là đặc quyền lái xe đã bị chấm dứt. Quyền này có thể được khôi phục nếu sau khi hết thời hạn thu hồi, bạn xin cấp lại bằng và xuất trình bằng chứng hiện diện hợp pháp. Khi xin lại, bạn phải đạt kiểm tra thị lực, bài thi kiến thức hai phần và thi thực hành, đồng thời nộp các khoản phí cần thiết."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Các hành vi dẫn đến mất quyền lái",
+        "blocks": [
+          {
+            "headingEn": "Offenses for which suspension or revocation will follow conviction",
+            "headingVi": "Các tội mà khi bị kết án sẽ dẫn đến đình chỉ hoặc thu hồi quyền lái",
+            "paragraphs": [
+              "Tòa án hoặc DMV sẽ đình chỉ hoặc thu hồi đặc quyền lái xe nếu bạn bị kết án về bất kỳ hành vi nào sau đây:",
+              "• Lái xe cơ giới dưới ảnh hưởng của rượu hoặc thuốc, chất gây ảnh hưởng khác (DUI).",
+              "• Làm người khác bị thương do lái xe cơ giới dưới ảnh hưởng của rượu hoặc các chất đó.",
+              "• Lái xe cơ giới trong khi quyền lái đang bị đình chỉ hoặc thu hồi vì DUI.",
+              "• Lái xe cơ giới không được lắp thiết bị khóa khởi động kiểm tra nồng độ cồn (ignition interlock) khi tòa hoặc DMV yêu cầu phải có thiết bị này.",
+              "• Khai báo sai sự thật với DMV.",
+              "• Không dừng và không xác định danh tính của mình tại hiện trường va chạm có người bị thương hoặc tử vong.",
+              "• Phạm tội làm chết người thuộc nhóm voluntary manslaughter hoặc involuntary manslaughter do việc lái xe cơ giới.",
+              "• Phạm tội vô ý làm chết người (involuntary manslaughter) do lái xe cơ giới dưới ảnh hưởng của rượu.",
+              "• Phạm tội về ma túy liên quan đến xe cơ giới.",
+              "• Phạm trọng tội có sử dụng xe cơ giới.",
+              "• Thi bằng lái thay người khác hoặc xuất hiện thay người khác để gia hạn bằng.",
+              "• Bỏ chạy, trốn tránh cảnh sát."
+            ]
+          },
+          {
+            "headingEn": "Offenses for which the court may suspend or revoke",
+            "headingVi": "Các tội mà tòa có thể đình chỉ hoặc thu hồi quyền lái",
+            "paragraphs": [
+              "Tòa có thể đình chỉ hoặc thu hồi đặc quyền lái xe nếu bạn bị kết án về các hành vi sau:",
+              "• Lái xe liều lĩnh (reckless driving) hoặc hung hăng (aggressive driving)."
+            ]
+          },
+          {
+            "headingEn": "Additional offenses in the court-may list",
+            "headingVi": "Các hành vi khác trong danh sách tòa có thể xử lý",
+            "paragraphs": [
+              "• Lái xe cơ giới mà không có bằng lái còn hiệu lực.",
+              "• Lái xe khi bằng đang bị thu hồi hoặc đình chỉ do một bản án không liên quan đến DUI.",
+              "• Từ chối xét nghiệm máu hoặc hơi thở khi bị cáo buộc lái xe dưới ảnh hưởng của rượu hoặc các chất gây ảnh hưởng khác."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Điểm trừ và Driver Improvement",
+        "blocks": [
+          {
+            "headingEn": "Demerit points",
+            "headingVi": "Điểm trừ — demerit points",
+            "paragraphs": [
+              "Nếu bạn là cư dân Virginia, DMV có trách nhiệm lưu hồ sơ lái xe bao gồm mọi bản án được tòa chuyển đến. Khi một bản án được đưa vào hồ sơ, DMV ghi điểm trừ (demerit points) cho các vi phạm giao thông và vi phạm khi xe đang lưu thông. DMV cũng theo dõi hồ sơ để biết bạn nhận bao nhiêu điểm trừ trong khoảng 12 tháng và 24 tháng. Mỗi bản án có thể bị ghi ba, bốn hoặc sáu điểm trừ."
+            ]
+          },
+          {
+            "headingEn": "Under age 18",
+            "headingVi": "Dưới 18 tuổi",
+            "paragraphs": [
+              "Nếu bị kết án về vi phạm giao thông bị ghi điểm trừ, hoặc vi phạm về dây an toàn/thiết bị giữ trẻ, mà bạn thực hiện khi dưới 18 tuổi, DMV sẽ yêu cầu hoàn thành khóa cải thiện kỹ năng lái xe (driver improvement clinic). Nếu không hoàn thành trong vòng 90 ngày, DMV sẽ đình chỉ quyền lái cho đến khi bạn hoàn thành khóa học và nộp phí khôi phục.",
+              "Sau lần kết án thứ hai đối với vi phạm thuộc nhóm trên mà bạn thực hiện khi dưới 18 tuổi, DMV sẽ đình chỉ quyền lái trong 90 ngày. Lần kết án thứ ba sẽ dẫn đến thu hồi quyền lái trong một năm hoặc đến khi bạn đủ 18 tuổi, tùy thời hạn nào dài hơn."
+            ]
+          },
+          {
+            "headingEn": "Ages 18 and 19",
+            "headingVi": "18 hoặc 19 tuổi",
+            "paragraphs": [
+              "DMV sẽ yêu cầu bạn hoàn thành khóa cải thiện kỹ năng lái xe nếu bị kết án về vi phạm bị ghi điểm trừ hoặc vi phạm dây an toàn/thiết bị giữ trẻ mà bạn thực hiện khi 18 hoặc 19 tuổi."
+            ]
+          },
+          {
+            "headingEn": "Age 18 or older",
+            "headingVi": "Từ 18 tuổi trở lên",
+            "paragraphs": [
+              "DMV sẽ yêu cầu bạn hoàn thành khóa cải thiện kỹ năng lái xe nếu tích lũy 12 điểm trừ trong 12 tháng hoặc 18 điểm trừ trong 24 tháng. Nếu không hoàn thành khóa trong vòng 90 ngày, DMV sẽ đình chỉ quyền lái của bạn."
+            ]
+          },
+          {
+            "headingEn": "Suspension thresholds",
+            "headingVi": "Các ngưỡng dẫn đến đình chỉ",
+            "paragraphs": [
+              "Nếu nhận 18 điểm trừ trong 12 tháng hoặc 24 điểm trừ trong 24 tháng, DMV sẽ đình chỉ quyền lái trong 90 ngày và yêu cầu bạn hoàn thành khóa cải thiện kỹ năng lái xe."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DUI và đình chỉ hành chính",
+        "blocks": [
+          {
+            "headingEn": "Alcohol and implied consent",
+            "headingVi": "Rượu và sự đồng ý ngầm định — implied consent",
+            "paragraphs": [
+              "Nếu bị bắt vì uống rượu rồi lái xe, các hình phạt rất nghiêm khắc. Nếu cảnh sát có căn cứ xác đáng để dừng bạn và nghi bạn đã uống rượu hoặc dùng thuốc, chất gây ảnh hưởng, họ sẽ yêu cầu xét nghiệm hơi thở hoặc máu. Theo luật về sự đồng ý ngầm định (implied consent), khi lái xe cơ giới trên đường công cộng của Virginia, bạn đồng ý thực hiện xét nghiệm hơi thở khi được yêu cầu.",
+              "Nếu liên quan đến va chạm xe cơ giới và cảnh sát có căn cứ xác đáng, bạn có thể bị bắt vì DUI trong vòng ba giờ sau va chạm, ở bất kỳ địa điểm nào và không cần lệnh bắt."
+            ]
+          },
+          {
+            "headingEn": "Administrative license suspension",
+            "headingVi": "Đình chỉ bằng lái theo thủ tục hành chính",
+            "paragraphs": [
+              "Nếu bạn từ chối xét nghiệm hơi thở hoặc nồng độ cồn trong máu (BAC) từ 0.08% trở lên khi đang lái, và cơ quan thực thi pháp luật cáo buộc bạn lái xe dưới ảnh hưởng của rượu hoặc thuốc, chất gây ảnh hưởng, đặc quyền lái xe của bạn sẽ tự động bị đình chỉ:",
+              "• Bảy ngày đối với vi phạm lần đầu.",
+              "• 60 ngày hoặc đến khi ra xét xử, tùy mốc nào đến trước, đối với vi phạm lần thứ hai.",
+              "• Cho đến khi ra xét xử đối với vi phạm DUI lần thứ ba.",
+              "Nếu bị kết tội DUI, tòa và DMV sẽ áp dụng đình chỉ hoặc thu hồi cùng các hình phạt khác, ngoài việc đình chỉ hành chính. Nếu có nhiều bản án DUI, các thời hạn đình chỉ hoặc thu hồi sẽ được thi hành nối tiếp nhau."
+            ]
+          },
+          {
+            "headingEn": "Transporting a juvenile while under the influence",
+            "headingVi": "Chở người chưa thành niên khi lái dưới ảnh hưởng của rượu hoặc chất khác",
+            "paragraphs": [
+              "Bị kết tội DUI khi trong xe có hành khách từ 17 tuổi trở xuống vào lúc vi phạm sẽ bị thêm thời hạn tù bắt buộc năm ngày, ngoài mọi khoản phạt và án tù khác. Bạn còn có thể bị phạt thêm ít nhất $500 và tối đa $1,000. Vi phạm DUI lần thứ hai khi trong xe có người chưa thành niên sẽ bị thêm yêu cầu thực hiện 80 giờ phục vụ cộng đồng, ngoài mọi khoản phạt và án tù khác."
+            ]
+          },
+          {
+            "headingEn": "Alcohol violations under age 21",
+            "headingVi": "Vi phạm về rượu khi dưới 21 tuổi",
+            "paragraphs": [
+              "Mua hoặc sử dụng rượu: nếu dưới 21 tuổi, bạn không được mua, sở hữu hoặc sử dụng rượu. Nếu bị kết án vì lái xe sau khi sử dụng rượu trái phép và BAC ít nhất 0.02% nhưng dưới 0.08%, hình phạt của tòa sẽ gồm:",
+              "• Đình chỉ đặc quyền lái xe một năm tính từ ngày kết án; và",
+              "• Phạt tiền bắt buộc tối thiểu $500; hoặc yêu cầu hoàn thành ít nhất 50 giờ phục vụ cộng đồng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Learner’s permit và người hướng dẫn",
+        "noteVi": "Bản PDF đã lưu không thống nhất về tuổi: phần thi thực hành ở trang PDF 6 dùng mốc 18 tuổi, còn phần giấy phép học lái ở trang PDF 33 dùng mốc 19 tuổi. Hãy đọc phần thi trong đúng ngữ cảnh và kiểm tra yêu cầu DMV hiện hành khi làm hồ sơ; không ghép hai đoạn thành một quy tắc tuổi mới.",
+        "blocks": [
+          {
+            "headingEn": "Who must accompany a learner",
+            "headingVi": "Ai phải đi cùng người học lái?",
+            "paragraphs": [
+              "Giấy phép học lái (learner’s permit) cho phép bạn lái xe cơ giới khi có người có bằng lái từ 21 tuổi trở lên ngồi ở ghế hành khách phía trước. Người đi cùng phải có bằng lái còn hiệu lực, tỉnh táo và có khả năng hỗ trợ bạn trong lúc lái.",
+              "Người có bằng lái đi cùng được phép ở tuổi 18, 19 hoặc 20 nếu người đó là người giám hộ hợp pháp; anh, chị, em ruột; anh, chị, em cùng cha hoặc cùng mẹ; hoặc anh, chị, em kế của bạn."
+            ]
+          },
+          {
+            "headingEn": "The age wording in the permit section",
+            "headingVi": "Cách ghi tuổi trong phần giấy phép học lái",
+            "paragraphs": [
+              "Theo đoạn ở phần giấy phép học lái: nếu từ 19 tuổi trở lên, bạn phải giữ giấy phép học lái trong 60 ngày hoặc xuất trình chứng chỉ hoàn thành khóa giáo dục lái xe để xin bằng lái."
+            ]
+          },
+          {
+            "headingEn": "The age wording in the road-skills section",
+            "headingVi": "Cách ghi tuổi trong phần thi thực hành",
+            "paragraphs": [
+              "Theo đoạn ở phần thi thực hành: người nộp hồ sơ từ 18 tuổi trở lên phải giữ giấy phép học lái trong 60 ngày trước lần thi thực hành đầu tiên, hoặc hoàn thành khóa giáo dục lái xe tại một trường dạy lái được DMV hoặc Bộ Giáo dục chấp thuận."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bằng thông thường, CDL và giấy dịch quốc tế",
+        "blocks": [
+          {
+            "headingEn": "Driver’s license",
+            "headingVi": "Bằng lái thông thường",
+            "paragraphs": [
+              "Bằng lái cho phép bạn điều khiển xe hoặc xe tải nhỏ có trọng lượng dưới 26,001 pounds và thuộc diện được miễn yêu cầu bằng lái thương mại (commercial driver’s license — CDL)."
+            ]
+          },
+          {
+            "headingEn": "Commercial driver’s license",
+            "headingVi": "Bằng lái thương mại — CDL",
+            "paragraphs": [
+              "Bằng lái thương mại (CDL) cho phép điều khiển xe đầu kéo rơ-moóc, xe buýt chở khách, xe bồn, xe buýt trường học dành cho 16 người trở lên kể cả người lái, hoặc xe chở vật liệu nguy hiểm."
+            ]
+          },
+          {
+            "headingEn": "International driver’s license",
+            "headingVi": "Giấy phép lái xe quốc tế theo cách gọi trong nguồn",
+            "paragraphs": [
+              "Giấy được gọi là bằng lái quốc tế không phải một bằng lái có hiệu lực và tự nó không cho phép bạn lái xe. Nó chỉ là bản dịch ra tiếng nước ngoài của bằng lái còn hiệu lực mà bạn đang có, dùng khi đi ra ngoài Hoa Kỳ. AAA tại địa phương cấp loại giấy này, trừ cho người đang bị đình chỉ hoặc thu hồi quyền lái.",
+              "Nếu đến Hoa Kỳ từ một nước khác để thăm viếng, bạn có thể lái bằng bằng lái do nước mình cấp. Bằng đó nên đi kèm bản dịch. Những bằng lái quốc tế do doanh nghiệp tư nhân quảng cáo bán không có giá trị và không cho phép bạn lái xe cơ giới hợp pháp. Bán bất kỳ giấy tờ nào tự nhận là bằng lái là tội nhẹ cấp 1 (Class 1 misdemeanor)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Đổi địa chỉ, chuyển đến Virginia và kiểm tra xe",
+        "blocks": [
+          {
+            "headingEn": "Address changes and moving to Virginia",
+            "headingVi": "Đổi địa chỉ và chuyển đến Virginia",
+            "paragraphs": [
+              "Nếu chuyển chỗ ở, bạn phải thông báo DMV trong vòng 30 ngày. Bưu điện sẽ không chuyển tiếp bằng lái đến địa chỉ khác. Nếu DMV không có địa chỉ đúng của bạn, bưu điện sẽ gửi trả bằng về DMV.",
+              "Nếu mới trở thành cư dân Virginia và có lái xe, bạn phải lấy bằng lái Virginia trong vòng 60 ngày sau khi chuyển đến."
+            ]
+          },
+          {
+            "headingEn": "Vehicle registration",
+            "headingVi": "Đăng ký xe",
+            "paragraphs": [
+              "Làm giấy chứng nhận quyền sở hữu (title), đăng ký xe và lấy biển số Virginia trong vòng 30 ngày sau khi chuyển đến Virginia. Biển số phải được gắn ở cả đầu và đuôi xe. Tem ghi tháng, năm đăng ký hết hạn phải được dán vào chỗ quy định trên biển, trừ xe dùng biển vĩnh viễn.",
+              "Bạn phải mang giấy đăng ký xe khi điều khiển xe. Bạn cũng phải đăng ký xe ở chính quyền địa phương nếu địa phương yêu cầu. Hãy kiểm tra với chính quyền thành phố hoặc quận của mình."
+            ]
+          },
+          {
+            "headingEn": "Safety inspection",
+            "headingVi": "Kiểm định an toàn",
+            "paragraphs": [
+              "Xe phải qua kiểm định an toàn hằng năm và có tem kiểm định còn hiệu lực. Tại một số địa phương, xe còn phải qua kiểm tra khí thải."
+            ]
+          },
+          {
+            "headingEn": "Tire inspection interval",
+            "headingVi": "Khi nào kiểm tra lốp?",
+            "paragraphs": [
+              "Mỗi tháng một lần, hoặc trước chuyến đi đường dài, hãy dùng phép kiểm tra bằng đồng penny (penny test) để kiểm tra lốp có bị mòn hay hư hại không."
+            ]
+          },
+          {
+            "headingEn": "Recommended tire pressure",
+            "headingVi": "Áp suất lốp khuyến nghị",
+            "paragraphs": [
+              "Trước khi vào xe, kiểm tra áp suất lốp bằng đồng hồ đo. Mức PSI khuyến nghị (pounds per square inch — pound trên mỗi inch vuông) được ghi trong sách hướng dẫn xe hoặc trên khung cửa phía người lái."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bảo hiểm và tài liệu cần đối chiếu",
+        "noteVi": "Nguồn đã lưu có các đoạn bảo hiểm cũ: trang PDF 31 và 36 vẫn nhắc khoản phí xe không có bảo hiểm $500 và các mức bảo hiểm ghi thời điểm năm 2022. Giữ các đoạn trích này để đối chiếu nguồn, không coi chúng là yêu cầu hiện hành hoặc dùng để chấm điểm. Đoạn trích dưới đây dừng ngay trước bảng mức bảo hiểm. Hãy kiểm tra thông tin bảo hiểm DMV hiện hành trước khi đăng ký xe hoặc mua hợp đồng bảo hiểm. Những phần còn lại nói về bầu cử và hiến tặng, mỗi việc có điều kiện đủ tư cách riêng. Trang đáp án đề mẫu được giữ tách khỏi bài học.",
+        "blocks": [
+          {
+            "headingEn": "Saved insurance wording — see the warning above",
+            "headingVi": "Cách ghi bảo hiểm trong bản lưu — đọc cảnh báo ở trên",
+            "paragraphs": [
+              "Bản lưu ghi: để đăng ký xe và lấy biển số, bạn phải có bảo hiểm trách nhiệm hoặc nộp khoản phí xe không có bảo hiểm $500. Mua bảo hiểm cho xe từ công ty được phép kinh doanh ở Virginia. Tối thiểu, hợp đồng bảo hiểm phải cung cấp các mức bảo hiểm trách nhiệm sau đây:"
+            ]
+          },
+          {
+            "headingEn": "Insurance information may require further verification",
+            "headingVi": "Thông tin bảo hiểm có thể cần xác minh thêm",
+            "paragraphs": [
+              "Trong một số trường hợp, yêu cầu bảo hiểm trách nhiệm có thể cao hơn. Xem dmv.virginia.gov để biết thêm về Chương trình xác minh bảo hiểm (Insurance Verification Program) và các chứng nhận trách nhiệm tài chính (Financial Responsibility Certifications) của DMV."
+            ]
+          },
+          {
+            "headingEn": "Applying to register to vote",
+            "headingVi": "Đăng ký bầu cử",
+            "paragraphs": [
+              "Bạn có thể xin đăng ký bầu cử hoặc đổi địa chỉ nhận thư trong hồ sơ cử tri tại bất kỳ văn phòng DMV nào. Ghi lựa chọn của bạn vào phần đăng ký cử tri trong đơn xin bằng lái. Để đăng ký bầu cử ở Virginia, bạn phải là công dân Hoa Kỳ, cư dân Virginia và đủ ít nhất 18 tuổi vào kỳ tổng tuyển cử kế tiếp. Nếu từng bị kết án trọng tội hoặc bị tuyên là không đủ năng lực tinh thần, bạn phải được tòa circuit court khôi phục quyền bầu cử."
+            ]
+          },
+          {
+            "headingEn": "Organ, eye and tissue donation",
+            "headingVi": "Hiến tặng nội tạng, mắt và mô",
+            "paragraphs": [
+              "Để đăng ký hiến tặng và cứu người, đánh dấu yes trong đơn xin bằng lái, giấy phép học lái hoặc thẻ căn cước. Để biết thêm về hiến nội tạng, mắt và mô hoặc đăng ký trực tuyến, truy cập www.donatelifevirginia.org.",
+              "Nếu từ 18 tuổi trở lên, quyết định hiến tặng mà bạn đã đăng ký sẽ được tôn trọng thực hiện. Nếu dưới 18 tuổi, bạn có thể thể hiện mong muốn bằng cách đánh dấu yes; theo luật, cha mẹ và người giám hộ phải đưa ra quyết định cuối cùng. Dù ở tuổi nào, bạn cũng nên cho gia đình và bạn bè biết quyết định hiến tặng của mình."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

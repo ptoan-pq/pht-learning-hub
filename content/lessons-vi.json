@@ -1,0 +1,331 @@
+[
+  {
+    "id":"L01",
+    "intro":"Đọc tín hiệu theo màu, cách sáng và hướng áp dụng. Bắt đầu bằng việc hiểu mình phải làm gì, rồi mới ghi nhớ tên tiếng Anh. Phần thi và thị lực giúp bạn biết các bước DMV yêu cầu.",
+    "sections":[
+      {"title":"Kỳ thi lý thuyết gồm hai phần","body":["Phần đầu kiểm tra biển báo: phải đúng cả 10 câu mới được làm phần kiến thức chung. Phần kiến thức chung yêu cầu ít nhất 80% đúng. Câu hỏi dựa vào sổ tay này; bộ câu công khai trên website là tài liệu luyện tập.","Chỉ được thi một lần trong mỗi ngày làm việc. Người dưới 18 tuổi thi trượt phải chờ đủ 15 ngày; ví dụ trượt ngày 1 tháng 1 thì sớm nhất thi lại ngày 17. Nếu trượt ba lần, phải đáp ứng yêu cầu học bổ sung trước lần thứ tư; điều kiện khóa học khác nhau theo tuổi và việc đã học lý thuyết driver education hay chưa."],"pdfPage":5},
+      {"title":"Thi thực hành và kiểm tra thị lực","body":["Xe dùng thi thực hành phải đáp ứng yêu cầu đăng kiểm, biển số, đăng ký và các thiết bị an toàn hoạt động. Người từ 18 tuổi có thể giữ learner’s permit đủ 60 ngày hoặc hoàn thành khóa driver education được chấp thuận trước lần thi thực hành đầu tiên. Thi thực hành trượt phải chờ hai ngày để thi lại; sau ba lần trượt tại DMV phải hoàn thành phần học thực hành được yêu cầu.","Vision screening kiểm tra thị lực đạt tiêu chuẩn lái xe. Bằng không hạn chế yêu cầu thị lực 20/40 hoặc tốt hơn ở một hoặc cả hai mắt và trường nhìn ngang ít nhất 110 độ. Nếu cần kính để qua kiểm tra, phải đeo khi lái xe; ký hiệu C ghi hạn chế này trên bằng. Tiêu chuẩn chỉ lái ban ngày và trường hợp thị lực đặc biệt có điều kiện riêng trong trang nguồn."],"pdfPage":6},
+      {"title":"Đèn đỏ tròn, rẽ khi đỏ và mũi tên đỏ","body":["Đèn đỏ tròn: dừng hẳn tại stop line; nếu không có vạch thì dừng trước khi vào giao lộ hoặc trước crosswalk. Có thể rẽ phải sau khi dừng, nhìn hai phía và nhường người đi bộ cùng các xe khác, trừ khi có biển No Turn on Red hoặc mũi tên đỏ theo hướng rẽ.","Chỉ được rẽ trái khi đèn đỏ tròn từ một đường một chiều sang một đường một chiều khác; vẫn phải dừng hẳn, quan sát và nhường đường, đồng thời tuân theo biển cấm. Red arrow cấm đi theo hướng mũi tên khi nó còn đỏ, trừ khi có biển tại giao lộ ghi rõ Right on Red Arrow After Stop hoặc Left on Red Arrow After Stop. Khi cảnh sát điều khiển giao thông, làm theo hiệu lệnh của cảnh sát."],"pdfPage":7,"image":"sources/images/2redLight.jpg"},
+      {"title":"Đèn nhấp nháy và đèn vàng","body":["Flashing red yêu cầu dừng hẳn, nhường xe và người đi bộ rồi mới đi khi đường trống. Tại đường sắt có đèn đỏ nhấp nháy, phải dừng ngay cả khi chưa thấy tàu. Flashing red arrow cũng yêu cầu dừng, nhường xe ngược chiều và người đi bộ rồi mới đi theo hướng mũi tên nếu thông thoáng.","Vàng sáng liên tục báo đèn sắp đổi: nếu chưa vào giao lộ thì dừng, hoặc đi qua thận trọng nếu dừng không an toàn; nếu đã trong giao lộ thì tiếp tục qua cẩn thận. Không tăng tốc để tranh đèn. Vàng nhấp nháy nghĩa là giảm tốc và đi thận trọng. Mũi tên vàng nhấp nháy cho phép rẽ khi trống, sau khi nhường xe ngược chiều và người đi bộ."],"pdfPage":7,"image":"sources/images/2yellowFlash.jpg"},
+      {"title":"Đèn xanh, đèn hỏng và tín hiệu trên làn","body":["Đèn xanh hoặc mũi tên xanh cho phép đi khi phía trước thông thoáng. Nếu rẽ mà không có mũi tên xanh, phải nhường xe ngược chiều và người đi bộ. Nếu đèn đổi xanh khi người đi bộ còn trên đường, chờ họ qua trước khi rẽ.","Giao lộ mất điện, không hiện bất kỳ đèn nào: dừng và xử lý như all-way stop, trừ khi người có thẩm quyền đang điều khiển hoặc có biển STOP di động. Trên làn, red X cấm vào; yellow X hoặc mũi tên vàng chéo xuống yêu cầu rời làn sớm nhất khi an toàn; mũi tên xanh xuống cho phép dùng làn. Làn có mũi tên rẽ trái một hoặc hai hướng chỉ được vào để rẽ theo hướng chỉ."],"pdfPage":8,"image":"sources/images/2redX.jpg"},
+      {"title":"Pedestrian Hybrid Beacon — PHB","body":["PHB ở giao lộ không có đèn thông thường cảnh báo người lái khi có người qua crosswalk. Trình tự: đèn vàng dưới nhấp nháy khi người đi bộ kích hoạt; vàng sáng liên tục để chuẩn bị dừng; hai đèn đỏ trên sáng liên tục thì người lái phải dừng.","Cuối chu kỳ, hai đèn đỏ luân phiên nhấp nháy trong lúc tín hiệu đi bộ đếm ngược. Chỉ đi tiếp thận trọng khi crosswalk đã thông thoáng. Nhìn cả màu và cách sáng, vì đỏ sáng liên tục và đỏ luân phiên là hai giai đoạn khác nhau."],"pdfPage":8}
+    ],
+    "terms":[
+      {"en":"Complete stop","vi":"Dừng hẳn","example":"Xe phải đứng yên; bò chậm qua vạch vẫn chưa phải dừng hẳn.","pdfPage":7},
+      {"en":"Yield the right-of-way","vi":"Nhường quyền đi trước","example":"Chờ người đi bộ và xe có quyền đi trước đi qua, rồi mới rẽ khi trống.","pdfPage":7},
+      {"en":"Flashing / solid","vi":"Nhấp nháy / sáng liên tục","example":"Cùng màu đỏ nhưng cách xử lý phụ thuộc đèn sáng liên tục hay nhấp nháy.","pdfPage":7},
+      {"en":"Pedestrian Hybrid Beacon (PHB)","vi":"Cụm đèn hỗ trợ người đi bộ","example":"Hai đèn đỏ ở trên, một đèn vàng ở dưới; đọc từng giai đoạn của chu kỳ.","pdfPage":8}
+    ],
+    "pitfalls":[
+      {"wrong":"Đèn xanh nghĩa là được rẽ ngay.","right":"Chỉ đi khi thông thoáng; khi không có mũi tên xanh vẫn nhường xe ngược chiều và người đi bộ.","pdfPage":8},
+      {"wrong":"Quy tắc rẽ phải khi đèn đỏ tròn áp dụng hệt cho mũi tên đỏ.","right":"Mũi tên đỏ cấm đi theo hướng đó; chỉ áp dụng ngoại lệ nếu có biển cho phép rẽ sau khi dừng.","pdfPage":7},
+      {"wrong":"Đèn giao thông chỉ áp dụng cho ô tô.","right":"Đèn áp dụng cho người lái xe, mô tô, xe đạp, moped và người đi bộ.","pdfPage":7}
+    ]
+  },
+  {
+    "id":"L02",
+    "intro":"Màu và hình cho bạn biết loại thông điệp trước khi đọc được chữ. Đây là cách nhận diện sớm khi còn xa hoặc tầm nhìn kém.",
+    "sections":[
+      {"title":"Đọc màu để đoán loại thông tin","body":["Đỏ phối trắng thường truyền đạt dừng, nhường hoặc điều cấm. Đen phối trắng thường là thông tin quy định như giới hạn tốc độ, cấm vượt, cấm rẽ. Vàng phối đen cảnh báo nguy cơ; vàng xanh nổi bật phối đen báo khu trường học, người đi bộ hoặc xe đạp.","Xanh lá và trắng cung cấp hướng đi; xanh dương và trắng chỉ dịch vụ cho người đi đường; nâu và trắng chỉ điểm lịch sử hoặc văn hóa. Cam và đen dùng ở khu thi công; hồng và đen cảnh báo khu có sự cố. Cả khu thi công và sự cố có thể đi kèm biển quy định đen trắng."],"pdfPage":8},
+      {"title":"Bát giác STOP và tam giác YIELD","body":["Biển bát giác tám cạnh luôn có nghĩa STOP. Dừng hẳn tại biển, vạch dừng, crosswalk hoặc curb theo vị trí thực tế rồi chờ đường trống. Nếu có bảng All Way hoặc 4 Way thì xe từ mọi hướng đều phải dừng; khi đến cùng lúc, tài xế bên trái nhường bên phải.","Tam giác YIELD yêu cầu giảm tốc khi đến giao lộ và sẵn sàng dừng. Để xe, người đi bộ hoặc xe đạp đi qua an toàn trước khi mình đi tiếp. Yield không bảo đảm rằng chỉ cần chạy chậm là đủ."],"pdfPage":8,"image":"sources/images/2triangleYield.jpg"},
+      {"title":"Hình chữ nhật, hình thoi và ngũ giác","body":["Biển chữ nhật đứng thường chỉ dẫn hoặc thông báo quy định; chữ nhật ngang thường chỉ hướng hay cung cấp thông tin. Hình thoi cảnh báo điều kiện đặc biệt hoặc nguy hiểm phía trước: giảm tốc, chú ý và sẵn sàng dừng.","Ngũ giác năm cạnh đánh dấu khu trường học hoặc chỗ học sinh qua đường. Có thể có hai biển đi cùng nhau để xác định vị trí crosswalk. Hãy nhận cả hình lẫn mũi tên phụ, thay vì chỉ nhớ một màu hoặc một từ."],"pdfPage":9,"image":"sources/images/2schoolZone.jpg"}
+    ],
+    "terms":[
+      {"en":"Sign shape","vi":"Hình dạng biển","example":"Nhận ra tám cạnh của STOP ngay cả khi chữ chưa rõ.","pdfPage":8},
+      {"en":"Regulatory sign","vi":"Biển quy định","example":"Biển đen trắng có thể nêu tốc độ tối đa hoặc hành động bị cấm.","pdfPage":9},
+      {"en":"Warning sign","vi":"Biển cảnh báo","example":"Biển hình thoi báo nguy cơ phía trước để bạn chuẩn bị giảm tốc.","pdfPage":9}
+    ],
+    "pitfalls":[
+      {"wrong":"Chỉ cần đọc chữ trên biển.","right":"Màu và hình giúp nhận diện từ xa hoặc trong sương trước khi đọc được chữ.","pdfPage":8},
+      {"wrong":"Hình thoi và ngũ giác cùng chỉ một loại cảnh báo.","right":"Hình thoi báo nguy cơ; ngũ giác nhận diện trường học hoặc chỗ học sinh qua đường.","pdfPage":9}
+    ]
+  },
+  {
+    "id":"L03",
+    "intro":"Biển quy định nói điều bạn phải tuân theo. Ghép biểu tượng với hướng, làn và điều kiện thực tế để chọn đúng hành động.",
+    "sections":[
+      {"title":"Giới hạn tốc độ có điều kiện","body":["Speed Limit nêu tốc độ tối đa hợp pháp khi thời tiết tốt. Một số biển điện tử thay đổi theo thời tiết hoặc giao thông. Trong mưa, tuyết hoặc băng, vẫn có thể bị xử lý vì chạy quá nhanh so với điều kiện dù tốc độ thấp hơn hoặc bằng con số trên biển."],"pdfPage":9,"image":"sources/images/2speedLimit.jpg"},
+      {"title":"Cấm vào, sai chiều và đường một chiều","body":["Do Not Enter và Wrong Way cho biết không được chạy theo hướng đang định đi. Đi qua biển là đi ngược chiều và có nguy cơ va chạm đối đầu; giảm tốc ngay, tấp vào và quay lại thận trọng. Biển One Way chỉ chiều lưu thông bằng mũi tên.","Vòng tròn đỏ có gạch chéo nghĩa là NO: nhìn ký hiệu bên trong để biết điều bị cấm. No Left Turn cấm rẽ trái; theo sổ tay Virginia, quay đầu được xem như hai lần rẽ trái nên cũng bị cấm tại nơi có biển này. No U-Turn cấm quay đầu; No Right Turn cấm rẽ phải."],"pdfPage":9,"image":"sources/images/2doNotenter.jpg"},
+      {"title":"Biển gắn với tín hiệu và hành động vượt","body":["No Turn on Red yêu cầu chờ xanh mới rẽ. Left Turn Yield on Green nhắc rằng người rẽ trái khi đèn xanh không có quyền đi trước xe ngược chiều: dừng, quan sát và nhường rồi đi thận trọng.","Do Not Pass bắt đầu vùng cấm vượt; không được vượt xe phía trước trong làn của mình chỉ vì thấy đường trống. Keep Right chỉ phía phải của đảo giao thông, dải phân cách hoặc vật cản mà xe phải đi theo."],"pdfPage":9,"image":"sources/images/2leftTurnyield.jpg"},
+      {"title":"Đọc biển theo làn và quyền sử dụng","body":["Lane Use Control cho biết làn phải rẽ hoặc được phép đi theo những hướng nào. Nếu làn yêu cầu rẽ, xe trong làn phải rẽ theo mũi tên. Đọc biển trước khi tới giao lộ để chọn làn phù hợp.","Biển HOV dành làn cho xe buýt và xe đủ số người theo biển; đọc đúng số hành khách được quy định. Chỗ đỗ có biểu tượng người khuyết tật được dành cho người có giấy phép đỗ phù hợp."],"pdfPage":9,"image":"sources/images/2laneUsecontrol1.jpg"}
+    ],
+    "terms":[
+      {"en":"Speed limit","vi":"Giới hạn tốc độ","example":"Con số là mức tối đa trong điều kiện tốt; mưa lớn có thể buộc bạn đi chậm hơn.","pdfPage":9},
+      {"en":"Wrong Way","vi":"Sai chiều","example":"Biển cảnh báo bạn đang hướng vào dòng xe đối diện.","pdfPage":9},
+      {"en":"Lane Use Control","vi":"Quy định hướng đi theo làn","example":"Mũi tên của làn quyết định bạn phải rẽ hay có thể đi thẳng.","pdfPage":9}
+    ],
+    "pitfalls":[
+      {"wrong":"Chạy dưới con số trên biển luôn hợp với điều kiện.","right":"Thời tiết xấu có thể làm tốc độ đó vẫn quá nhanh và không an toàn.","pdfPage":9},
+      {"wrong":"Có thể vượt trong vùng Do Not Pass nếu không thấy xe ngược chiều.","right":"Biển cấm vượt vẫn áp dụng ngay cả khi đường phía trước trống.","pdfPage":9}
+    ]
+  },
+  {
+    "id":"L04",
+    "intro":"Biển cảnh báo giúp bạn dự đoán việc sắp xảy ra. Với mỗi biển, hãy tự hỏi: nguy cơ ở đâu và mình cần giảm tốc, đổi vị trí hay chuẩn bị dừng thế nào?",
+    "sections":[
+      {"title":"Tốc độ, nhập làn và thay đổi hình dạng đường","body":["Reduced Speed Limit Ahead báo giới hạn sắp giảm; Stop Ahead, Yield Ahead và Signal Ahead yêu cầu giảm tốc, sẵn sàng dừng. Advisory Speed ở lối ra cao tốc chỉ tốc độ an toàn tối đa cho lối ra đó.","Merge cho biết hai dòng cùng chiều sắp nhập một; cả hai phía cùng có trách nhiệm nhập an toàn. Lane Reduction chỉ làn sắp kết thúc; xe ở làn đó nhập khi có khoảng trống, xe ở làn còn lại nên tạo điều kiện. Divided Highway Begins và Ends phân biệt bắt đầu và kết thúc dải phân cách; khi kết thúc sẽ có xe hai chiều."],"pdfPage":10,"image":"sources/images/2laneReduce.jpg"},
+      {"title":"Mặt đường, cầu thấp và người dùng đường dễ tổn thương","body":["Slippery When Wet: giảm tốc, tránh phanh gấp hoặc đổi hướng đột ngột và tăng khoảng cách theo sau. Low Clearance: không đi tiếp nếu xe cao hơn giới hạn ghi trên biển. Hill: phía trước có dốc lớn, kiểm tra phanh.","Biển người đi bộ, xe đạp và trường học nhắc bạn quan sát, giảm tốc và sẵn sàng dừng; bảng mũi tên phụ có thể chỉ vị trí qua đường. Nơi có xe ngựa, giảm tốc và không bấm còi; khi đường trống phải vượt cách ít nhất ba feet. Với thiết bị nông nghiệp, chuẩn bị giảm tốc hoặc dừng và chỉ vượt khi rõ đường."],"pdfPage":10,"image":"sources/images/2slippery.jpg"},
+      {"title":"Giao lộ và đường cong","body":["Biển giao lộ nhắc có xe có thể nhập từ đường khác. T Intersection nghĩa là đường đang đi kết thúc ở biển STOP: phải rẽ trái hoặc phải sau khi nhường xe và người đi bộ. Y Intersection yêu cầu đi theo một trong hai nhánh.","Biển đường cong phải, cong trái tiếp nối hoặc đường quanh co yêu cầu giảm tốc để giữ kiểm soát. Đọc cả biển tốc độ an toàn đi kèm. Open Joints và Expansion Joints cảnh báo khe hoặc gờ cầu có thể ảnh hưởng độ bám, đặc biệt với mô tô và khi mặt đường ướt."],"pdfPage":11,"image":"sources/images/2windingRoad.jpg"},
+      {"title":"Đường sắt: tín hiệu và khoảng trống phía bên kia","body":["Biển Railroad Crossing và crossbuck yêu cầu nhìn, nghe, giảm tốc và sẵn sàng dừng. Nếu đèn bắt đầu nhấp nháy, luôn dừng. Chỉ qua khi các đoàn tàu đã đi hết, đường ray trống, đèn hết nhấp nháy; nơi có barie phải chờ barie nâng. Không lách quanh barie hạ.","Không đi vào đường ray nếu chưa có đủ chỗ cho toàn bộ xe ở phía bên kia. Nhiều ray có thể có tàu đến từ cả hai hướng. Low Ground Railroad Crossing báo nguy cơ gầm xe thấp mắc vào đường ray."],"pdfPage":11,"image":"sources/images/2railCrossbuck4.jpg"},
+      {"title":"Sự cố trên đường ray","body":["Trước khi qua, bảo đảm có thể ra khỏi toàn bộ phần đường ray. Xe buýt trường học luôn phải dừng tại đường sắt ngay cả khi đèn không nhấp nháy.","Nếu xe chết máy trên ray, ra khỏi xe ngay; chạy chéo ra xa đường ray theo hướng đoàn tàu đang tới. Nếu có tình huống nguy hiểm tại chỗ giao cắt, gọi số trên biển khẩn cấp và cung cấp mã số điểm giao cắt để công ty đường sắt xác định vị trí."],"pdfPage":12,"image":"sources/images/2reportEmer.jpg"}
+    ],
+    "terms":[
+      {"en":"Merge","vi":"Nhập dòng xe","example":"Hai dòng cùng chiều sắp gặp nhau; cả hai phía cần phối hợp để nhập an toàn.","pdfPage":10},
+      {"en":"Low clearance","vi":"Khoảng cao thông qua thấp","example":"So chiều cao xe với số trên biển trước khi đi dưới cầu.","pdfPage":10},
+      {"en":"Railroad crossbuck","vi":"Biển chữ X đường sắt","example":"Nhìn cả hai hướng và chuẩn bị dừng; biển phụ nhiều ray báo có thể còn tàu khác.","pdfPage":11}
+    ],
+    "pitfalls":[
+      {"wrong":"Lane Reduction và Merge luôn là cùng một hình và cùng một vị trí kết thúc làn.","right":"Đọc đúng hình để xác định dòng nhập và làn nào kết thúc, không đoán theo màu biển.","pdfPage":10},
+      {"wrong":"Tàu vừa qua là có thể đi dù đèn còn nhấp nháy.","right":"Chờ đường ray trống và đèn hết nhấp nháy; nhiều ray có thể có tàu thứ hai.","pdfPage":11}
+    ]
+  },
+  {
+    "id":"L05",
+    "intro":"Khu thi công có tuyến đường, mặt đường và người làm việc thay đổi. Đọc liên tiếp biển cam, mũi tên, người điều khiển và vạch dẫn đường.",
+    "sections":[
+      {"title":"Biển cam và tốc độ trong work zone","body":["Màu cam báo khu thi công: giảm tốc và chú ý. Tuân theo giới hạn tốc độ được đặt tại khu vực, tránh mất tập trung. Theo trang nguồn, bị kết tội vượt tốc trong khu thi công có thể bị phạt đến $500; sử dụng thiết bị liên lạc cầm tay trong khu này bị phạt $250.","Road Construction Ahead và Detour báo luồng hoặc tuyến đường phía trước đổi khác. Rough Road, Bump và Uneven Lanes báo mặt đường khó đi, có thể đặc biệt nguy hiểm với mô tô."],"pdfPage":12,"image":"sources/images/2roadCon1.jpg"},
+      {"title":"Mũi tên chớp và người điều khiển","body":["Flashing Arrow Boards hướng xe sang các làn khác và cho biết một phần đường phía trước đóng. Đọc hướng mũi tên sớm, nhập làn khi an toàn.","Flagger thường mặc đồ phản quang màu cam, vàng hoặc vàng xanh; dùng bảng STOP/SLOW hoặc cờ đỏ để dừng và hướng dẫn xe. Họ cũng có thể cho công nhân hoặc xe thi công băng qua đường: làm theo chỉ dẫn, không chỉ đi theo xe trước."],"pdfPage":12,"image":"sources/images/2flaggers.jpg"},
+      {"title":"Đi giữa làn và qua thiết bị dẫn đường","body":["Rào chắn, biển đứng, khối bê tông, thùng và cọc tiêu hướng dẫn xe qua công trường. Đi giữa làn và giữ đúng tốc độ. Khi rời khu thi công, giữ làn và duy trì tốc độ; chỉ đổi làn khi đã hoàn toàn ra khỏi khu vực.","Biển Photo Speed Enforcement thông báo có thiết bị ảnh kiểm soát tốc độ. Nghĩa vụ tuân thủ giới hạn vẫn áp dụng xuyên suốt khu vực, không chỉ tại vị trí thấy máy ảnh."],"pdfPage":12,"image":"sources/images/WorkZoneSpeed.png"},
+      {"title":"Bảng thông báo và rumble strips","body":["Message Boards cung cấp thông tin đường, giao thông, thời tiết hoặc nguy cơ; tuân theo chỉ dẫn trên bảng. Rumble Strips Ahead báo các dải tạo rung trước công trường, flagger hoặc làn đóng: chạy chậm qua, không đánh lái né.","Biểu tượng Slow Moving Vehicle dùng cho xe chạy 25 MPH hoặc thấp hơn trên đường công cộng, như máy nông nghiệp và xe ngựa. Điều chỉnh tốc độ hoặc vị trí khi gặp xe mang biểu tượng này."],"pdfPage":13,"image":"sources/images/rumbleStripsAhead.png"}
+    ],
+    "terms":[
+      {"en":"Work zone","vi":"Khu vực thi công","example":"Biển cam và thiết bị dẫn đường báo tuyến xe có thể đổi khác.","pdfPage":12},
+      {"en":"Flagger","vi":"Người điều khiển tại công trường","example":"Quan sát bảng STOP/SLOW để biết phải dừng hay đi chậm.","pdfPage":12},
+      {"en":"Rumble strips","vi":"Dải tạo rung cảnh báo","example":"Giảm tốc và đi qua, không né bằng cú đổi hướng gấp.","pdfPage":13}
+    ],
+    "pitfalls":[
+      {"wrong":"Xe trước đi nên mình đi luôn, không cần nhìn flagger.","right":"Làm theo người điều khiển vì họ có thể dừng dòng xe để công nhân hoặc xe thi công qua.","pdfPage":12},
+      {"wrong":"Qua công nhân cuối cùng là đổi làn ngay.","right":"Giữ làn và tốc độ cho tới khi đã hoàn toàn ra khỏi khu thi công.","pdfPage":12}
+    ]
+  },
+  {
+    "id":"L06",
+    "intro":"Đọc vạch đường theo ba câu hỏi: màu gì, liền hay đứt, và vạch nào nằm ngay phía làn mình? Sau đó đối chiếu mũi tên và biển trên làn.",
+    "sections":[
+      {"title":"Vạch vàng phân chia xe ngược chiều","body":["Vạch vàng giữa đường phân chia hai hướng ngược nhau. Vạch vàng đứt cho phép vượt bên trái khi phía trước thông thoáng. Vạch vàng liền cạnh vạch đứt: phía có vạch đứt được vượt; phía có vạch liền không được vượt xe thông thường.","Hai vạch vàng liền không cho vượt theo cả hai hướng. Sổ tay cho phép cắt qua để rẽ trái, hoặc vượt người đi bộ, xe đạp, scooter và skateboard khi làn đối diện trống và có thể vượt an toàn. Ngoại lệ không cho phép vượt tùy ý mọi xe chậm."],"pdfPage":13,"image":"sources/images/2yellowLines3.jpg"},
+      {"title":"Vạch trắng và mũi tên của làn","body":["Vạch trắng đứt phân làn cùng chiều và cho đổi làn thận trọng. Vạch trắng liền đánh dấu làn rẽ, lề phải và những nơi không khuyến khích đổi làn vì nguy hiểm. Hai vạch trắng liền phân làn đặc biệt: không cắt qua; chỉ vào tại nơi biển và vạch cho phép.","Mũi tên cong hoặc mũi tên cong kèm ONLY yêu cầu rẽ theo hướng đó. Nếu làn có cả mũi tên cong và thẳng, có thể rẽ hoặc đi thẳng. Vạch trắng đứt ngắn sát nhau giúp dẫn xe qua giao lộ và khu ra vào cao tốc; theo đúng phần làn của mình."],"pdfPage":14,"image":"sources/images/2doubleWhitelines.jpg"},
+      {"title":"Làn giữa, yield line và làn xe đạp","body":["Trên đường ba làn hai chiều, làn giữa có một vạch vàng đứt mỗi bên có thể dùng để vượt. Nếu mỗi bên có cả vàng liền và vàng đứt thì làn giữa dành cho rẽ trái theo hai hướng; không chạy quá 150 feet trong làn này.","Yield line là hàng tam giác ngang đường, chỉ điểm nhường hoặc dừng nếu cần. Sharrow là hình xe đạp với hai mũi tên kép, nhắc ô tô chia sẻ làn hẹp. Làn xe đạp được đánh dấu bằng vạch trắng, mặt đường xanh và biểu tượng xe đạp; chỉ đi vào khi cần để rẽ, sau khi kiểm tra gương và nhường xe đạp trong làn."],"pdfPage":14,"image":"sources/images/bicycleLanes.jpg"},
+      {"title":"Bike box, HOV và làn chuyên dùng","body":["Bike box là ô chờ xe đạp tại giao lộ. Khi đèn đỏ, ô tô phải dừng phía sau toàn bộ ô, không dừng trong ô; không được rẽ phải khi đèn đỏ ở giao lộ có bike box. Khi rẽ phải lúc xanh, bật xi nhan và nhường xe đạp bên phải.","BUS ONLY hoặc mặt đường đỏ có thể chỉ làn xe buýt. HOV thường có hình thoi: đọc số người tối thiểu và giờ áp dụng trên biển. Làn có dải phân cách có thể đổi chiều theo giờ; phải xem tín hiệu và biển trước khi vào."],"pdfPage":15,"image":"sources/images/2hov3lanes.jpg"},
+      {"title":"Trạm thu phí và màu bó vỉa","body":["Khi đến trạm thu phí, giảm tốc và chọn làn theo biển E-ZPass hoặc phương thức thanh toán được chỉ dẫn. Nếu vô ý vào làn E-ZPass tốc độ cao khi không có thiết bị, đừng dừng lại vì dễ gây va chạm phía sau; hệ thống ghi biển số để xử lý phí.","Màu curb phải được đọc theo quy định địa phương. Ý nghĩa chung trong sổ tay: trắng chỉ dừng đủ lâu để đón trả khách; vàng chỉ dừng đủ lâu để bốc dỡ và ở lại cùng xe; đỏ cấm dừng, đứng hoặc đỗ."],"pdfPage":15,"image":"sources/images/EZPassPlaza.jpg"}
+    ],
+    "terms":[
+      {"en":"Pavement markings","vi":"Vạch và ký hiệu mặt đường","example":"Màu vàng chỉ hai hướng ngược nhau; màu trắng thường phân làn cùng chiều.","pdfPage":13},
+      {"en":"Shared lane marking / sharrow","vi":"Ký hiệu làn dùng chung với xe đạp","example":"Biểu tượng xe đạp và mũi tên kép nhắc rằng xe đạp có thể sử dụng làn.","pdfPage":14},
+      {"en":"Reversible lane","vi":"Làn đổi chiều theo thời gian","example":"Một làn có thể phục vụ hướng khác vào giờ khác; xem tín hiệu hiện tại trước khi vào.","pdfPage":15}
+    ],
+    "pitfalls":[
+      {"wrong":"Thấy một vạch đứt cạnh vạch liền là phía nào cũng được vượt.","right":"Phải xem vạch nằm về phía làn mình; phía liền có các ngoại lệ cụ thể, không cho vượt xe tùy ý.","pdfPage":13},
+      {"wrong":"Làn rẽ trái chung ở giữa là làn vượt hoặc làn chạy suốt.","right":"Làn giữa có cả vạch vàng liền và đứt mỗi bên dành để rẽ trái, không đi quá 150 feet.","pdfPage":14},
+      {"wrong":"Có thể dừng trong bike box hoặc rẽ phải khi đỏ nếu không thấy xe đạp.","right":"Dừng phía sau bike box; giao lộ có bike box không cho rẽ phải khi đỏ.","pdfPage":15}
+    ]
+  },
+  {
+    "id":"L07",
+    "intro":"Tốc độ, thời gian nhận biết và độ bám cùng quyết định khoảng dừng. Tập nhìn nguy cơ sớm thay vì chỉ dựa vào khả năng đạp phanh.",
+    "sections":[
+      {"title":"Tư thế và vị trí tay","body":["Ngồi thẳng nhưng thả lỏng. Theo sổ tay, đặt tay ở vị trí 8 giờ và 4 giờ nếu coi vô lăng như mặt đồng hồ. Nắm bằng ngón tay và ngón cái; tránh ghì vô lăng bằng lòng bàn tay. Tư thế ổn định giúp điều khiển xe trơn tru."],"pdfPage":16,"image":"sources/images/3handPosition_v1.jpg"},
+      {"title":"Giới hạn tốc độ và điều kiện thực tế","body":["Speed limit là tốc độ tối đa hợp pháp trong điều kiện lý tưởng. Có thể chạy chậm hơn miễn không cản trở dòng giao thông bình thường; không được chạy nhanh hơn. Phải giảm thêm khi biển khu trường học hoặc công trường đang có hiệu lực, hoặc khi thời tiết và đường làm tốc độ trên biển không an toàn.","Từ 20 MPH trở lên vượt giới hạn, hoặc trên 85 MPH, có thể bị truy cứu reckless driving, là hành vi có thể dẫn tới tiền phạt, đình chỉ hoặc án tù. Virginia cấm radar detector."],"pdfPage":16},
+      {"title":"Khi không có biển giới hạn khác","body":["Nếu không có biển quy định khác, giới hạn cho ô tô con và mô tô là 25 MPH ở trường học, khu thương mại và khu dân cư; 35 MPH trên đường chưa trải nhựa; 55 MPH trên các đường khác. Một số khu trường học có biển báo kiểm soát tốc độ bằng ảnh. Luôn đọc biển thực tế trước khi dùng mức mặc định."],"pdfPage":17,"image":"sources/images/SchoolZoneSpeed.jpg"},
+      {"title":"Những nơi mỗi xe phải tự dừng","body":["Dừng tại STOP, đèn đỏ, đèn đỏ nhấp nháy; khi từ driveway, ngõ, tòa nhà hoặc bãi đỗ đi qua vỉa hè hay nhập ra đường; khi tín hiệu đường sắt nhấp nháy; khi flagger hoặc cảnh sát ra hiệu; cho người đang cố qua tại crosswalk; và tại hiện trường va chạm có mình liên quan.","Nếu xe trước đã qua biển STOP, xe bạn vẫn phải tự dừng tại biển, sau đó chỉ đi khi thông thoáng. Không dùng lần dừng của xe trước thay cho lần dừng của mình."],"pdfPage":17},
+      {"title":"Dừng cho xe buýt trường học","body":["Dừng khi tiếp cận school bus đang dừng với đèn đỏ nhấp nháy và biển STOP mở từ bất cứ hướng nào trên đường công cộng, đường riêng hoặc lối vào trường. Giữ dừng đến khi mọi người đã ra khỏi đường và xe buýt chuyển bánh. Cũng phải dừng nếu xe đang đón trả người dù tín hiệu chưa bật.","Ngoại lệ: đang chạy ngược hướng và xe buýt ở phía bên kia dải phân cách hoặc rào ngăn hai phần đường. Dù không phải dừng trong trường hợp đó, vẫn chuẩn bị cho hành động bất ngờ của người vừa xuống xe. Vạch sơn giữa đường không tự thay cho dải phân cách vật lý."],"pdfPage":17,"image":"sources/images/3busRoad2_v1.jpg"},
+      {"title":"Quãng dừng và phanh ABS","body":["Perception time là thời gian nhận ra nguy cơ. Reaction distance là đoạn xe đi từ khi nhận ra vấn đề đến lúc tác động phanh. Braking distance là đoạn xe đi sau khi đã phanh. Khoảng dừng chịu ảnh hưởng của tầm nhìn, sức khỏe, sự chú ý, tốc độ, lốp, phanh và mặt đường; đường ướt có thể làm quãng phanh tăng gấp đôi.","Nếu xe có antilock brakes (ABS), đọc sách hướng dẫn xe và tập cách phanh trước khi ra đường. Không nhấp đạp phanh ABS theo kiểu bơm phanh."],"pdfPage":17,"image":"sources/images/3safeStop.jpg"}
+    ],
+    "terms":[
+      {"en":"Stopping distance","vi":"Quãng đường cần để dừng","example":"Xe vẫn di chuyển trong lúc bạn nhận ra nguy hiểm, phản ứng và phanh.","pdfPage":17},
+      {"en":"Reaction distance","vi":"Quãng đường trong lúc phản ứng","example":"Từ lúc nhận ra xe trước phanh đến lúc chân bạn tác động phanh, xe vẫn đi thêm.","pdfPage":17},
+      {"en":"Antilock braking system (ABS)","vi":"Hệ thống chống bó cứng phanh","example":"Đọc đúng hướng dẫn xe; sổ tay nhắc không bơm phanh ABS.","pdfPage":17}
+    ],
+    "pitfalls":[
+      {"wrong":"Quãng dừng chỉ là đoạn từ khi đạp phanh.","right":"Phải tính cả nhận biết và phản ứng trước khi phanh bắt đầu tác dụng.","pdfPage":17},
+      {"wrong":"Xe trước vừa dừng ở STOP nên mình đi theo mà không dừng nữa.","right":"Mỗi xe tự dừng tại biển rồi chỉ đi khi đường thông thoáng.","pdfPage":17},
+      {"wrong":"Có vạch đôi sơn giữa đường là được miễn dừng cho school bus ngược chiều.","right":"Ngoại lệ trong nguồn đòi hỏi dải phân cách hoặc rào ngăn hai phần đường.","pdfPage":17}
+    ]
+  },
+  {
+    "id":"L08",
+    "intro":"Nhường đường là tạo đủ khoảng để người khác đi an toàn, có thể cần dừng hẳn. Phân biệt xe khẩn cấp đang tiến tới với xe đang dừng ven đường.",
+    "sections":[
+      {"title":"Ai đi trước tại giao lộ?","body":["Xe đến giao lộ ở các thời điểm khác nhau: xe đến trước đi trước. Nếu đến cùng lúc tại giao lộ không có biển hoặc tín hiệu, tài xế bên trái nhường bên phải. Khi đèn hỏng, mọi xe đều dừng và áp dụng nhường bên phải; điều kiện có người điều khiển hoặc biển tạm được giải thích trong bài tín hiệu.","Xe từ entrance ramp nhường xe đang trên cao tốc. Từ driveway hoặc đường riêng nhập ra phải dừng và nhường mọi xe cùng người đi bộ. Xe vào giao lộ hay vòng xuyến nhường xe đã ở trong; nhường người đi bộ và xe đạp đang qua tại crosswalk có vạch hoặc giao lộ không có vạch."],"pdfPage":18},
+      {"title":"Xe khẩn cấp đang tiến đến","body":["Nếu xe cảnh sát, cứu hỏa, cứu hộ hoặc cứu thương đi từ phía sau có còi, đèn nhấp nháy hoặc cả hai: nhường ngay, an toàn tấp vào mép phải và dừng cho đến khi xe qua. Nếu xe khẩn cấp đến ngược chiều trên đường không chia tách, cũng tấp vào mép và dừng.","Không theo xe khẩn cấp gần hơn 500 feet khi đèn của xe đó nhấp nháy. Không đỗ trong 500 feet từ nơi xe cứu hỏa hoặc thiết bị đang xử lý báo động. Trang nguồn lưu ý nhóm yêu cầu này có ngoại lệ tại highway work zones; làm theo tổ chức giao thông tại đó."],"pdfPage":18},
+      {"title":"Xe dừng ven đường và đoàn xe","body":["Khi tới xe khẩn cấp hoặc xe kéo đang dừng với đèn nhấp nháy, đi thận trọng và chuyển sang làn không sát xe đó nếu hợp lý, an toàn theo giao thông; nếu không đổi làn an toàn được, giảm tốc và đi thận trọng. Sổ tay cũng yêu cầu đổi làn, đi thận trọng khi qua xe dừng có đèn hazard, biển cảnh báo hoặc pháo sáng.","Phải nhường đoàn tang và đoàn xe quân sự; không cắt ngang hoặc nhập vào đoàn. Xe đầu đoàn tang vẫn tuân theo tín hiệu và biển nếu không có cảnh sát dẫn; các xe khác trong đoàn có thể theo thận trọng và dùng hazard lights để nhận diện."],"pdfPage":18},
+      {"title":"Vào và ra vòng xuyến","body":["Giảm tốc, đọc biển hướng và chọn làn trước khi vào. Nhường người đi bộ, xe đạp và xe đang ở trong vòng. Khi trống, vào và chạy ngược chiều kim đồng hồ. Theo hướng dẫn chung của nguồn, rẽ phải giữ bên phải, đi thẳng có thể dùng một trong hai làn ở vòng hai làn, rẽ trái giữ bên trái; luôn ưu tiên biển và vạch cụ thể.","Trong vòng xuyến, giữ làn đến khi sẵn sàng ra. Bật xi nhan phải khi chuẩn bị ra. Trước khi đổi làn hoặc ra khỏi vòng, kiểm tra xe tiếp tục trong vòng cạnh hoặc sau mình, gương và điểm mù bằng cái liếc qua vai."],"pdfPage":19,"image":"sources/images/3roundabout_v1.jpg"}
+    ],
+    "terms":[
+      {"en":"Right-of-way","vi":"Quyền đi trước","example":"Có lúc bạn phải chờ xe hoặc người đi bộ qua trước mới được nhập.","pdfPage":18},
+      {"en":"Roundabout","vi":"Vòng xuyến","example":"Dòng xe đã trong vòng được ưu tiên so với xe đang vào.","pdfPage":18},
+      {"en":"Stationary vehicle","vi":"Xe đang dừng tại chỗ","example":"Cách qua xe khẩn cấp dừng bên đường khác với cách nhường xe khẩn cấp đang đến sau.","pdfPage":18}
+    ],
+    "pitfalls":[
+      {"wrong":"Xe đang vào vòng được đi trước vì xe trong vòng phải nhường bên phải.","right":"Xe vào nhường xe đã ở trong vòng và người đi bộ, xe đạp.","pdfPage":18},
+      {"wrong":"Có xi nhan là có thể rời vòng cắt qua làn kế bên.","right":"Kiểm tra xe trong làn cạnh, gương và điểm mù trước khi ra hoặc đổi làn.","pdfPage":19}
+    ]
+  },
+  {
+    "id":"L09",
+    "intro":"Xi nhan báo ý định; quan sát và khoảng trống quyết định có thể thực hiện hay chưa. Khi vượt và rẽ, giữ đúng làn và không tạo nguy cơ cho người khác.",
+    "sections":[
+      {"title":"Đổi làn: gương, xi nhan, điểm mù","body":["Trước khi đổi làn, xem gương bên và gương trong để biết xe phía sau, báo xi nhan, quan sát người khác có cùng định nhập vào làn ấy không. Ngay trước lúc dịch sang, liếc nhanh qua vai để kiểm tra điểm mù.","Luôn dùng xi nhan và kiểm tra phía sau, hai bên khi đổi làn, vượt, vào hoặc ra cao tốc. Trên đường nhiều làn, xe chạy chậm hơn dòng xung quanh nên ở làn phải; làn trái dùng để vượt, không chạy bám lâu ở đó."],"pdfPage":19,"image":"sources/images/3passing_v3.jpg"},
+      {"title":"Vượt xe và trở lại làn","body":["Kiểm tra phía trước, phía sau và điểm mù, báo xi nhan rồi tăng tốc để vượt trong giới hạn tốc độ. Trở lại làn phải khi thấy đầu xe vừa vượt trong gương chiếu hậu. Phải vượt xong trước vùng No Passing; không được vượt quá tốc độ cho phép để hoàn tất cú vượt.","Có thể vượt bên phải xe đang báo và thực hiện rẽ trái, nhưng không được đi ra ngoài phần mặt đường chính. Khi vượt xe đạp, moped hoặc thiết bị tương tự, giảm tốc và cách ít nhất ba feet bên trái. Khi bị vượt, giữ tốc độ đều hoặc giảm, không tăng tốc."],"pdfPage":19},
+      {"title":"Khi không vượt và khi xe lệch khỏi đường","body":["Không vượt ở đồi, đường cong, giao lộ hoặc giao cắt đường sắt, trừ đường có ít nhất hai làn cùng chiều theo ngoại lệ trong nguồn. Không vượt bằng lề đường; không vượt khi xe trước hoặc làn bên cạnh đang dừng ở crosswalk vì có thể che người đi bộ.","Over-correcting là đánh lái chỉnh hướng quá gấp làm bánh sau trượt ra ngoài và mất kiểm soát. Nếu xe đi lệch khỏi mặt đường, bình tĩnh giảm tốc dần, nhìn về hướng muốn đi và từ từ đưa xe trở lại; không giật vô lăng."],"pdfPage":20},
+      {"title":"Rẽ phải và trái đúng làn","body":["Rẽ phải từ làn ngoài cùng phải, báo trước ít nhất 3–4 giây và 100 feet, quan sát cả hai phía, phanh êm trước và trong lúc rẽ. Rẽ vào làn sát curb trừ khi vạch dẫn khác. Nếu có STOP hoặc đỏ thì dừng hẳn; các điều kiện được rẽ lúc đỏ vẫn phải được thỏa mãn.","Rẽ trái từ làn trái phù hợp vào làn trái nhất trên đường mới, trừ vạch chỉ khác hoặc có nhiều làn rẽ. Giữ bánh trước thẳng trong lúc chờ để nếu bị tông phía sau xe không bị đẩy vào dòng ngược. Chỉ rẽ khi trống, nhường xe ngược chiều, xe đạp và người đi bộ. Hai xe đối diện cùng rẽ trái nên rẽ trước mặt nhau để phía ghế hành khách ở cạnh nhau."],"pdfPage":20,"image":"sources/images/3leftTurns_v1.jpg"},
+      {"title":"Quay đầu và báo hiệu","body":["Trước khi quay đầu, kiểm tra No U-Turn và No Left Turn. Trong khu thương mại, thành phố và thị trấn, quay đầu chỉ được ở giao lộ; sổ tay nhắc không quay đầu trên highway. Khi thực hiện, báo trái, dừng, nhường xe tới rồi vào làn ngoài cùng hoặc làn phải của hướng ngược khi trống.","Dùng xi nhan kể cả khi không thấy xe khác và tắt tín hiệu sau khi xong. Tín hiệu tay dùng tay trái: duỗi ngang để rẽ trái, gập chỉ lên để rẽ phải, chỉ xuống để giảm tốc hoặc dừng."],"pdfPage":20,"image":"sources/images/handSignalLeft_v4.jpg"}
+    ],
+    "terms":[
+      {"en":"Blind spot","vi":"Điểm mù","example":"Xe sát bên có thể không xuất hiện trong gương; liếc qua vai trước khi dịch làn.","pdfPage":19},
+      {"en":"Over-correcting","vi":"Chỉnh lái quá mức","example":"Giật vô lăng khi bánh chạm lề có thể làm xe trượt mất kiểm soát.","pdfPage":20},
+      {"en":"Turn signal","vi":"Xi nhan","example":"Thông báo ý định trước khi rẽ hoặc đổi làn; sau đó vẫn phải kiểm tra khoảng trống.","pdfPage":20}
+    ],
+    "pitfalls":[
+      {"wrong":"Bật xi nhan là xe khác phải nhường để mình chuyển ngay.","right":"Vẫn kiểm tra gương, người cùng nhập làn và điểm mù trước khi chuyển.","pdfPage":19},
+      {"wrong":"Có thể vượt tốc độ giới hạn để vượt nhanh rồi giảm lại.","right":"Giới hạn tốc độ vẫn áp dụng trong suốt cú vượt.","pdfPage":19},
+      {"wrong":"Trong lúc chờ rẽ trái nên xoay sẵn bánh sang trái.","right":"Giữ bánh thẳng để giảm nguy cơ bị đẩy vào dòng ngược nếu va chạm từ sau.","pdfPage":20}
+    ]
+  },
+  {
+    "id":"L10",
+    "intro":"Khoảng trống quanh xe cho bạn thời gian phản ứng. Đo khoảng cách bằng giây giúp điều chỉnh theo tốc độ thay vì đoán bằng số thân xe.",
+    "sections":[
+      {"title":"Tạo space cushion quanh xe","body":["Đi giữa làn để giữ khoảng hai bên. Duy trì đủ chỗ phía trước và phía sau để xe khác dừng hoặc vượt an toàn. Khoảng trống là phần dự phòng khi tình huống thay đổi, không chỉ là một con số cần thuộc."],"pdfPage":21,"image":"sources/images/3follow1.jpg"},
+      {"title":"Quy tắc 2–3–4 giây trên mặt đường khô","body":["Dưới 35 MPH: 2 giây. Từ 35–45 MPH: 3 giây. Từ 46–70 MPH: 4 giây. Bảng trong sổ tay áp dụng cho mặt đường khô, không được dùng để hợp lý hóa việc chạy vượt 70 MPH.","Chọn vật cố định như biển hoặc cầu. Khi xe trước qua vật đó, bắt đầu đếm đến lúc xe mình tới cùng điểm. Nếu chưa đủ số giây tương ứng thì bạn đang quá gần; giảm tốc để mở khoảng."],"pdfPage":21,"image":"sources/images/3follow2.jpg"},
+      {"title":"Khi nào tăng thêm khoảng cách?","body":["Thêm giây khi thời tiết xấu, giao thông đông, mặt đường hoặc xe ở tình trạng kém. Tăng khoảng khi sau xe lớn che tầm nhìn, sau mô tô hay xe đạp, khi rời expressway và khi bị xe sau bám quá sát.","Tốc độ, điều kiện đường, độ tỉnh táo và trọng lượng xe đều thay đổi khả năng dừng. Quy tắc giây là điểm khởi đầu theo đúng điều kiện của bảng, không phải khoảng bảo đảm an toàn cho mọi hoàn cảnh."],"pdfPage":21},
+      {"title":"Ứng xử khi bị tailgating","body":["Không phanh bất ngờ để trả đũa người bám đuôi. Nếu có thể, chuyển sang làn khác; nguồn hướng dẫn có thể chạm phanh nhẹ để đèn báo và giảm tốc nhằm khuyến khích họ vượt hoặc giảm tốc.","Giúp xe sau bằng khoảng theo sau an toàn của chính mình và tốc độ đều. Khi cần giảm hoặc dừng, báo bằng đèn phanh; khoảng phía trước lớn hơn giúp bạn tránh một cú phanh gấp."],"pdfPage":21}
+    ],
+    "terms":[
+      {"en":"Space cushion","vi":"Khoảng trống an toàn quanh xe","example":"Khoảng phía trước, sau và hai bên giúp có chỗ xử lý khi xe khác thay đổi.","pdfPage":21},
+      {"en":"Following distance","vi":"Khoảng cách theo sau","example":"Đo bằng thời gian giữa xe trước và xe mình đi qua cùng mốc.","pdfPage":21},
+      {"en":"Tailgating","vi":"Bám đuôi quá sát","example":"Xe sau quá gần làm tăng nhu cầu giữ tốc độ êm và thêm khoảng trước xe mình.","pdfPage":21}
+    ],
+    "pitfalls":[
+      {"wrong":"Dùng 2 giây cho mọi tốc độ.","right":"Phân biệt dưới 35, 35–45 và 46–70 MPH; thêm khoảng khi điều kiện xấu.","pdfPage":21},
+      {"wrong":"Đạp phanh gấp sẽ dạy xe bám đuôi phải giữ khoảng.","right":"Không phanh đột ngột; giữ cách xử lý bình tĩnh và tìm cách cho họ qua an toàn.","pdfPage":21}
+    ]
+  },
+  {
+    "id":"L11",
+    "intro":"Quan sát chủ động là tìm điều có thể thay đổi đường đi của bạn. Đừng chỉ nhìn đúng một điểm trước mũi xe hoặc tin rằng gương thấy hết.",
+    "sections":[
+      {"title":"Nhìn xa và đọc dấu hiệu sớm","body":["Di chuyển mắt khắp cảnh đường, tránh nhìn chằm chằm một vật. Người lái có kinh nghiệm cố nhìn 20–30 giây phía trước, xấp xỉ một block trong thành phố. Quét hai bên để thấy biển, tín hiệu, xe và người có thể vào đường trước lúc bạn tới.","Khói xả, đèn phanh, đèn lùi và bánh xe đã xoay là dấu hiệu một xe có thể chuyển động vào lối mình. Ở nông thôn chú ý đường nhánh và driveway khuất, dốc, đường cong, xe nông nghiệp và xe đạp."],"pdfPage":21},
+      {"title":"Trước giao lộ và kiểm tra phía sau","body":["Trước khi vào nơi xe, người hoặc động vật có thể cắt qua, nhìn cả hai phía. Tại giao lộ, nhìn trái, phải rồi liếc trái lần nữa, vì xe đến từ trái gần mình hơn. Cũng áp dụng quan sát tại crosswalk, khu mua sắm, công trường và sân chơi.","Dùng gương chiếu hậu kiểm tra thường xuyên, khoảng mỗi 10 giây, để biết xe tới nhanh hoặc bám sát. Kiểm tra phía sau khi đổi làn, lùi, giảm tốc nhanh hoặc xuống dốc dài."],"pdfPage":21},
+      {"title":"Chỉnh gương và xác nhận điểm mù","body":["Trước khi đi, chỉnh gương trong bao trọn cửa kính sau; gương bên chỉ vừa thấy mép thân xe. Blind spots là vùng xe xung quanh khó xuất hiện trong gương, nên chỉnh gương không loại bỏ toàn bộ nhu cầu quan sát trực tiếp.","Trước khi đổi làn hoặc vượt, xoay đầu và liếc nhanh qua vai để chắc đường trống. Tránh ở lâu trong điểm mù của người khác; điều chỉnh vị trí trong giới hạn lái an toàn để ra khỏi vùng đó."],"pdfPage":22}
+    ],
+    "terms":[
+      {"en":"Searching","vi":"Quan sát chủ động toàn cảnh","example":"Tìm dấu hiệu xe sắp lùi hoặc người sắp qua, không chỉ nhìn xe ngay trước.","pdfPage":21},
+      {"en":"Rearview mirror","vi":"Gương chiếu hậu trong xe","example":"Kiểm tra thường xuyên để biết xe sau đang tới nhanh hoặc bám đuôi.","pdfPage":21},
+      {"en":"Blind spot","vi":"Vùng gương khó nhìn thấy","example":"Liếc qua vai kiểm tra xe sát bên trước khi chuyển làn.","pdfPage":22}
+    ],
+    "pitfalls":[
+      {"wrong":"Đã chỉnh gương là nhìn thấy toàn bộ quanh xe.","right":"Gương vẫn có vùng mù; trước đổi làn hoặc vượt cần liếc qua vai.","pdfPage":22},
+      {"wrong":"Chỉ cần quan tâm điểm mù xe mình.","right":"Tránh ở lâu trong điểm mù xe khác vì họ có thể không biết mình ở đó.","pdfPage":22}
+    ]
+  },
+  {
+    "id":"L12",
+    "intro":"Xe nhỏ khó nhìn thấy; xe lớn cần nhiều khoảng để dừng và rẽ. Điều chỉnh vị trí và tốc độ theo đặc điểm của từng người dùng đường.",
+    "sections":[
+      {"title":"Người đi bộ và xe đạp","body":["Khi rẽ, nhường và để người đi bộ qua đường hoàn toàn trước khi bắt đầu rẽ. Không vượt xe ở crosswalk vì người đi bộ có thể bị che. Dừng hẳn cho người dùng gậy hoặc chó dẫn đường; để ý người lớn tuổi và người khuyết tật có thể di chuyển chậm.","Xe đạp thường có quyền đi đường như ô tô và có thể dùng giữa làn khi cần, chẳng hạn chuẩn bị rẽ trái hoặc làn quá hẹp. Vượt xe đạp cách ngang ít nhất ba feet; nếu không đủ rộng phải đổi làn để vượt an toàn. Kiểm tra xe đạp trước khi mở cửa, lùi, rẽ, đổi làn hoặc ra khỏi driveway."],"pdfPage":22,"image":"sources/images/2bike.jpg"},
+      {"title":"Mô tô cần trọn làn","body":["Nhìn hai lần để tìm mô tô vì kích thước nhỏ dễ bị bỏ sót và khó ước lượng tốc độ, khoảng cách. Kiểm tra điểm mù trước khi ra đường, đổi làn, rẽ hoặc đi qua giao lộ.","Không chạy song song sát mô tô trong cùng làn. Người lái có thể cần tránh ổ gà hoặc mảnh vụn bất ngờ. Theo nguồn, thêm một giây vào khoảng theo sau; trong thời tiết xấu tăng gấp đôi khoảng đó. Không bám sát và phải nhường đúng lúc."],"pdfPage":22},
+      {"title":"No-Zones của xe tải, xe buýt và RV","body":["Xe lớn tăng tốc chậm, cần khoảng dừng và quay đầu lớn. No-Zones ở trước, sau, hai bên gồm vùng tài xế không thấy xe bạn. Nếu không thấy mặt tài xế qua gương bên của họ thì họ cũng không thấy bạn.","Sau khi vượt, chờ thấy toàn bộ đầu xe lớn trong gương chiếu hậu rồi mới nhập về trước, sau đó giữ tốc độ. Không chen giữa xe lớn đang rẽ rộng với curb hoặc xe khác. Xe tải có thể cần mở rộng về bên trái hoặc phải để rẽ, trong lúc xe sát cạnh nằm trong vùng mù."],"pdfPage":23,"image":"sources/images/3noZone_v1.jpg"},
+      {"title":"Tàu điện và xe tốc độ thấp","body":["Ở khu tàu điện, tuân theo biển và tín hiệu; nhìn hai phía trước khi rẽ cắt qua đường ray. Không đi vòng barie hạ, không dừng trên ray, không qua nếu chưa đủ chỗ cho toàn xe thoát sang phía bên kia.","Low-speed vehicle bốn bánh có tốc độ tối đa 21–25 MPH khác với golf cart. Theo nguồn, loại này được đi trên đường công cộng giới hạn 35 MPH trở xuống với người có bằng hoặc người có permit và người hướng dẫn đủ điều kiện; xe còn phải đáp ứng đăng ký, bảo hiểm và tiêu chuẩn an toàn."],"pdfPage":23},
+      {"title":"Kéo trailer","body":["Trước mỗi chuyến, kiểm tra chốt ngàm kéo, khớp nối, xích an toàn, phích điện và đèn phanh, xi nhan, đèn biển số. Tập ở bãi trống để biết xe xử lý thế nào với chiều dài và tải bổ sung.","Chừa thêm chiều dài khi đổi làn; giảm tốc nếu trailer lắc. Khi lùi, đặt tay ở đáy vô lăng: muốn trailer về trái thì đưa đáy vô lăng sang trái, về phải thì sang phải. Nếu không thấy lối lùi, nhờ người ngoài hướng dẫn."],"pdfPage":23}
+    ],
+    "terms":[
+      {"en":"No-Zone","vi":"Vùng nguy hiểm quanh xe lớn","example":"Xe nằm sát hông hoặc đuôi tải có thể biến mất khỏi tầm nhìn tài xế.","pdfPage":23},
+      {"en":"Clearance","vi":"Khoảng cách ngang thông thoáng","example":"Khi vượt xe đạp phải có ít nhất ba feet, không chỉ chừa khoảng phía trước.","pdfPage":22},
+      {"en":"Wide turn","vi":"Vòng rẽ rộng","example":"Xe buýt có thể mở rộng để rẽ; đừng lách vào khe giữa xe và curb.","pdfPage":23}
+    ],
+    "pitfalls":[
+      {"wrong":"Mình thấy xe tải thì tài xế chắc chắn thấy mình.","right":"Kiểm tra xem mình có thấy mặt họ qua gương bên hay không và tránh No-Zones.","pdfPage":23},
+      {"wrong":"Vượt qua cabin là đủ để nhập về ngay trước tải.","right":"Chờ thấy toàn bộ đầu xe trong gương chiếu hậu và giữ tốc độ sau khi nhập.","pdfPage":23}
+    ]
+  },
+  {
+    "id":"L13",
+    "intro":"Lùi và đỗ đòi hỏi quan sát gần xe; đèn và thời tiết đòi hỏi điều chỉnh tầm nhìn, tốc độ, khoảng cách. Hãy học từng điều kiện cùng hình gốc.",
+    "sections":[
+      {"title":"Lùi xe và mở cửa an toàn","body":["Gương không cho thấy toàn bộ phía sau. Khi lùi, xoay thân và đầu sang phải nhìn qua kính sau; lùi chậm, liếc hai phía tìm người đi bộ và xe tới. Trước khi mở cửa sau khi đỗ, quan sát ô tô, xe đạp và người đi bộ.","Khi đỗ trên đường công cộng, tránh xa luồng xe hết mức có thể. Cạnh curb không đỗ xa hơn một foot. Đường hai chiều đỗ bên phải; đường một chiều có thể đỗ hai bên nếu không có hạn chế khác."],"pdfPage":24},
+      {"title":"Đỗ xe trên dốc","body":["Có curb: lên dốc quay bánh trước sang trái, xuống dốc quay sang phải để xe không lăn vào dòng giao thông. Không có curb: cả lên và xuống dốc đều quay bánh trước sang phải theo hình nguồn.","Hãy xác định ba dữ kiện trước: xe đang hướng lên hay xuống, có curb không, và xe sẽ lăn về đâu. Đọc hình gốc thay vì học một câu 'đỗ dốc luôn xoay trái' hoặc 'luôn xoay phải'."],"pdfPage":24,"image":"sources/images/3parkHill1.jpg"},
+      {"title":"Vị trí không được đỗ","body":["Không đỗ kép, trên crosswalk hoặc sidewalk, trước driveway, trong làn xe đạp, tại biển hoặc curb cấm đỗ, chỗ dành người khuyết tật không đủ phép, hoặc lối sọc tiếp cận cạnh chỗ đó. Không chặn làn giao thông hay tạo nguy cơ cho xe khác.","Các khoảng cấm đỗ trong nguồn: trong 15 feet của fire hydrant; 20 feet của giao lộ; 15 feet của lối vào trạm cứu hỏa, cứu thương hoặc cứu hộ; 50 feet của đường sắt; 500 feet của xe cứu hỏa hoặc thiết bị đang xử lý báo động."],"pdfPage":24},
+      {"title":"Đèn chiếu gần, chiếu xa và thời điểm bật","body":["Bật headlights từ hoàng hôn đến bình minh. Trong thời tiết xấu khi tầm nhìn giảm còn 500 feet phải dùng đèn; cũng phải bật khi dùng gạt mưa do thời tiết xấu. Đèn giúp người khác nhìn thấy xe, không chỉ giúp mình nhìn đường.","Trong thành phố và thị trấn thường dùng low beams trừ đường không chiếu sáng. Chuyển sang low beams khi gặp xe ngược chiều; khi theo sau trong 200 feet cũng dùng low beams. High beams trên highway không dùng nếu có xe ngược chiều trong 500 feet. Nếu xe đối diện để đèn chói, tránh nhìn thẳng và không đáp trả bằng chiếu xa."],"pdfPage":25},
+      {"title":"Sương, mưa, tuyết và băng","body":["Khi tầm nhìn giảm hoặc đường nguy hiểm, giảm tốc trước, bật đèn và tăng space cushion bằng gấp đôi khoảng theo sau thông thường. Sương phản chiếu ánh sáng: dùng low beams trong sương dày. Trong mưa dùng chiếu gần; nửa giờ đầu có thể đặc biệt trơn do nước trộn dầu trên mặt đường. Tránh nước đọng nếu có thể vì hydroplaning có thể làm mất kiểm soát.","Dọn tuyết và băng khỏi toàn bộ xe, kính, gương và đèn trước khi chạy. Trên mặt trơn, nhả ga và phanh nhẹ; giữ tốc độ chậm, đều thay vì phanh gấp. Giảm trước khi dừng hoặc rẽ. Cầu và vùng râm có thể đóng băng sớm hơn phần đường khác."],"pdfPage":25}
+    ],
+    "terms":[
+      {"en":"Curb","vi":"Bó vỉa","example":"Có hay không có curb thay đổi hướng bánh khi đỗ lên dốc.","pdfPage":24},
+      {"en":"Low beams / high beams","vi":"Đèn chiếu gần / chiếu xa","example":"Chiếu xa phản lại trong sương và có thể làm chói xe đối diện.","pdfPage":25},
+      {"en":"Hydroplaning","vi":"Trượt trên lớp nước","example":"Nước đọng có thể làm lốp mất tiếp xúc và xe mất kiểm soát; tránh nếu có thể.","pdfPage":25}
+    ],
+    "pitfalls":[
+      {"wrong":"Đỗ lên dốc lúc nào cũng xoay bánh như nhau.","right":"Có curb thì lên dốc quay trái; không curb thì quay phải theo hình gốc.","pdfPage":24},
+      {"wrong":"Sương càng dày càng cần chiếu xa.","right":"Dùng chiếu gần trong sương dày vì sương phản chiếu ánh đèn về mắt.","pdfPage":25},
+      {"wrong":"Ban ngày bật gạt mưa thì không cần headlights.","right":"Khi gạt mưa do thời tiết xấu, phải bật headlights.","pdfPage":24}
+    ]
+  },
+  {
+    "id":"L14",
+    "intro":"Khả năng nhận biết và phán đoán có thể giảm trước khi bạn tự nhận ra. Bài này tập vào việc phòng ngừa, dừng đúng lúc và xử lý khi có va chạm hoặc cảnh sát dừng xe.",
+    "sections":[
+      {"title":"Tránh đối đầu với người lái hung hăng","body":["Aggressive driving gồm ý định quấy rối, đe dọa, gây thương tích hoặc cản trở kèm hành vi vi phạm như không dừng, không nhường hoặc tránh thiết bị điều khiển giao thông. Các biểu hiện có thể là bám đuôi, luồn lách, vượt lề và đổi làn nguy hiểm.","Nếu gặp tài xế hung hăng, tránh xa, không thách thức bằng tăng tốc hoặc tranh đường. Tránh nhìn chằm chằm và bỏ qua cử chỉ, tiếng la; tập trung giữ an toàn cho xe mình."],"pdfPage":25},
+      {"title":"Mất tập trung và thiết bị cầm tay","body":["Chỉnh GPS, âm nhạc, ăn uống hoặc trò chuyện đều có thể kéo sự chú ý khỏi đường. Cài đặt thiết bị trước khi chạy; nếu cần thao tác gây phân tâm, tấp vào nơi an toàn và dừng trước.","Sổ tay cấm cầm điện thoại hay thiết bị liên lạc không dây khi lái, trừ trường hợp khẩn cấp của người lái hoặc xe đang đỗ hay dừng hợp pháp. Có thể dùng điều hướng nếu không nhập thông tin và không cầm máy khi đang lái. Đừng biến ngoại lệ thành lý do thao tác thiết bị trong lúc cần quan sát."],"pdfPage":26},
+      {"title":"Buồn ngủ: nhận biết và xử lý","body":["Ngáp liên tục, gật đầu, mí mắt nặng, không nhớ đoạn vừa chạy, lỡ biển hoặc lối ra, lệch làn và chạm rumble strips đều là dấu hiệu. Ngủ đủ trước chuyến đi, tránh rượu và thức ăn quá nặng, chú ý thuốc có thể làm giảm khả năng lái.","Dừng nghỉ ít nhất mỗi hai giờ trên chuyến dài. Tìm nơi an toàn để ngủ ngắn; 10–20 phút có thể giúp. Đi cùng người đủ điều kiện tỉnh táo để đổi lái nếu có thể. Mở cửa sổ, nhai kẹo, tăng radio, caffeine hay nước tăng lực không phải cách đáng tin cậy để ngăn lái buồn ngủ."],"pdfPage":26},
+      {"title":"Rượu và ngưỡng BAC","body":["Với người từ 21 tuổi, BAC từ .08% là ngưỡng DUI theo nguồn; vẫn có thể bị kết tội ở mức thấp hơn nếu khả năng lái đã suy giảm. Người dưới 21 có thể bị kết tội tiêu thụ rượu trái phép khi BAC ít nhất .02% và dưới .08%; từ .08% có thể bị DUI.","Một đồ uống có cồn cũng có thể ảnh hưởng thị lực, phán đoán và phối hợp. Chỉ thời gian làm giảm say; cà phê, tắm lạnh hoặc tập thể dục không làm tỉnh rượu. Lên kế hoạch có người tỉnh táo hoặc phương tiện khác trước buổi có uống."],"pdfPage":26},
+      {"title":"Thuốc và cannabis cũng ảnh hưởng khả năng lái","body":["Thuốc kê đơn, không kê đơn và cannabis có thể gây buồn ngủ, chóng mặt hoặc làm chậm phản ứng. Việc sở hữu cannabis hợp pháp với một số người không đồng nghĩa được lái dưới ảnh hưởng. Đọc nhãn, chú ý cảnh báo và hỏi bác sĩ hoặc dược sĩ nếu chưa rõ. Phối hợp rượu với thuốc có thể làm tác dụng tăng mạnh."],"pdfPage":27},
+      {"title":"Khi có va chạm hoặc gặp động vật lớn","body":["Dừng tại hiện trường hoặc gần nhất mà không chặn giao thông. Nếu xe có thể di chuyển, không ai bị thương và có thể làm an toàn thì phải đưa xe khỏi đường ngay. Cẩn thận khi ra khỏi xe; hỗ trợ người bị thương nhưng không di chuyển họ trừ khi có huấn luyện cần thiết hoặc nguy hiểm tức thời như cháy. Báo cảnh sát, trao đổi thông tin người lái, xe, bảo hiểm, người bị thương và nhân chứng; báo công ty bảo hiểm.","Nếu làm hư xe không có người hoặc tài sản khác, cố tìm chủ; nếu không được thì để lại ghi chú có tên, số điện thoại, thời gian và mô tả hư hại, đồng thời báo cảnh sát trong 24 giờ. Với hươu hay động vật lớn, chú ý lúc bình minh, chạng vạng; giảm tốc khi thấy một con vì có thể còn cả đàn. Nếu va chạm không tránh được, không đánh lái né gấp: phanh chắc, giữ làn và dừng có kiểm soát."],"pdfPage":27},
+      {"title":"Khi cảnh sát dừng xe","body":["Bình tĩnh, tấp vào vị trí an toàn, đỗ, bật hazard lights và ở trong xe trừ khi được yêu cầu ra. Ban đêm bật đèn trong xe; tắt máy và thiết bị cản trở trao đổi. Hạ kính, giữ dây an toàn và để tay dễ nhìn, tốt nhất trên vô lăng.","Khi được hỏi giấy tờ, cho biết chúng ở đâu rồi với lấy chậm, giữ một tay trên vô lăng. Có thể hỏi giấy nhận diện nếu cảnh sát không mặc đồng phục hoặc đi xe không đánh dấu. Nếu bất đồng, không tranh luận tại chỗ; có cơ hội trình bày tại tòa. Ký citation không có nghĩa thừa nhận có tội."],"pdfPage":28}
+    ],
+    "terms":[
+      {"en":"Distracted driving","vi":"Lái xe mất tập trung","example":"Nhập địa chỉ GPS khi xe chạy khiến mắt, tay và sự chú ý rời việc lái.","pdfPage":26},
+      {"en":"Drowsy driving","vi":"Lái xe khi buồn ngủ","example":"Không nhớ đoạn đường vừa chạy hoặc chạm dải rung là dấu hiệu cần dừng an toàn.","pdfPage":26},
+      {"en":"Blood alcohol content (BAC)","vi":"Nồng độ cồn trong máu","example":"Đừng dùng ngưỡng .08% để kết luận thấp hơn thì chắc chắn được lái.","pdfPage":26},
+      {"en":"Citation","vi":"Giấy ghi vi phạm","example":"Ký giấy khi được yêu cầu không đồng nghĩa nhận tội theo hướng dẫn traffic stop.","pdfPage":28}
+    ],
+    "pitfalls":[
+      {"wrong":"Mở cửa sổ hoặc uống nước tăng lực đủ để tiếp tục khi buồn ngủ.","right":"Các cách đó không đáng tin cậy; dừng ở nơi an toàn và nghỉ.","pdfPage":26},
+      {"wrong":"BAC dưới .08% luôn hợp pháp cho người trên 21 tuổi.","right":"Vẫn có thể bị kết tội DUI nếu việc lái đã bị ảnh hưởng.","pdfPage":26},
+      {"wrong":"Phải giữ nguyên xe giữa đường sau mọi va chạm.","right":"Nếu xe di chuyển được, không có thương tích và có thể an toàn thì phải chuyển khỏi đường ngay.","pdfPage":27}
+    ]
+  },
+  {
+    "id":"L15",
+    "intro":"Dây an toàn, túi khí và ghế trẻ em cùng bảo vệ người ngồi. Chọn đúng thiết bị và vị trí, rồi kiểm tra dây nằm đúng trên cơ thể.",
+    "sections":[
+      {"title":"Ai phải cài dây và cài thế nào?","body":["Theo bản PDF này, người lái và tất cả hành khách, cả ghế trước và sau, phải cài safety belts. Người lái chở người dưới 18 tuổi phải bảo đảm họ được cố định đúng bằng dây, booster hoặc ghế trẻ em ở bất cứ chỗ ngồi nào.","Lap belt đặt thấp trên hông, sát đùi; shoulder belt qua vai và ngực, vừa khít. Không luồn dưới tay hoặc ra sau lưng. Người mang thai cũng an toàn hơn khi cài đúng và đặt phần ngang thấp trên xương chậu. Ngoại lệ y tế cần văn bản có chữ ký bác sĩ và phải mang theo."],"pdfPage":28},
+      {"title":"Túi khí bổ sung cho dây an toàn","body":["Air bags dùng cùng safety belts giúp giảm lực khi va chạm phía trước. Mọi người vẫn cài dây. Đẩy ghế đủ xa để cách vô lăng ít nhất 10 inches; nếu vô lăng chỉnh được, nghiêng xuống để túi khí hướng vào ngực thay vì đầu và cổ.","Trẻ 12 tuổi trở xuống an toàn hơn khi cài dây đúng ở ghế sau. Đừng suy ra túi khí làm ghế trước thành vị trí tốt nhất cho trẻ."],"pdfPage":29},
+      {"title":"Ghế trẻ em, hướng quay và tuổi","body":["Trẻ dưới 8 tuổi phải ngồi đúng child safety seat hoặc booster trong xe sản xuất sau ngày 1 tháng 1 năm 1968. Sổ tay hướng dẫn trẻ quay mặt về sau từ khi sinh đến 2 tuổi hoặc lâu theo giới hạn của nhà sản xuất; tiếp tục ghế hoặc booster phù hợp ít nhất đến 8 tuổi hoặc đến khi dây người lớn vừa đúng.","Nếu xe không có ghế sau, chỉ đặt ghế quay về sau ở ghế hành khách trước khi xe không có túi khí hành khách hoặc túi khí đó đã tắt. Có ngoại lệ y tế do bác sĩ chấp thuận, người chở phải mang văn bản nhận diện trẻ và lý do miễn."],"pdfPage":29},
+      {"title":"Đánh giá vừa dây và các điều cần tránh","body":["Để bỏ booster, cần dây ngang ôm phần trên đùi; dây vai qua vai, ngực; trẻ ngồi hết lưng vào ghế không trượt người, đầu gối gập tự nhiên ở mép ghế, chân đặt phẳng sàn và giữ tư thế này cả chuyến. Tuổi đơn lẻ không thay cho kiểm tra độ vừa.","Không ôm trẻ trên lòng; đóng và khóa cửa, dùng child lock nếu có. Không cho trẻ ngồi khoang hành lý hoặc chở trẻ dưới 16 tuổi trong thùng pickup, kể cả có camper shell. Vị trí lắp ghế an toàn nhất được nguồn nêu là giữa ghế sau; có thể nhờ kiểm tra lắp ghế ở địa phương."],"pdfPage":29}
+    ],
+    "terms":[
+      {"en":"Lap belt / shoulder belt","vi":"Dây ngang hông / dây qua vai","example":"Đặt ngang thấp sát đùi và phần chéo qua vai-ngực, không ra sau lưng.","pdfPage":28},
+      {"en":"Booster seat","vi":"Ghế nâng","example":"Nâng trẻ để dây người lớn nằm đúng trên đùi và vai-ngực.","pdfPage":29},
+      {"en":"Rear-facing seat","vi":"Ghế trẻ em quay về sau","example":"Tuân theo tuổi, giới hạn ghế và điều kiện túi khí nếu xe không có ghế sau.","pdfPage":29}
+    ],
+    "pitfalls":[
+      {"wrong":"Có túi khí là không cần dây an toàn.","right":"Túi khí dùng cùng dây; mọi người vẫn cài dây đúng vị trí.","pdfPage":29},
+      {"wrong":"Dây qua vai có thể luồn dưới tay cho dễ chịu.","right":"Dây phải qua vai và ngực; không dưới cánh tay hoặc sau lưng.","pdfPage":28},
+      {"wrong":"Đủ tuổi là luôn bỏ booster được mà không cần nhìn độ vừa.","right":"Kiểm tra vị trí dây, lưng, gối, chân và khả năng giữ tư thế cả chuyến.","pdfPage":29}
+    ]
+  },
+  {
+    "id":"L16",
+    "intro":"Phân biệt hậu quả pháp lý, điều kiện khôi phục quyền lái và giấy tờ cần có. Các mục có sự không nhất quán ngay trong bản nguồn được đánh dấu để không biến thông tin cũ thành quy tắc để học thuộc.",
+    "sections":[
+      {"title":"Suspension khác revocation","body":["Suspension là rút quyền lái tạm thời. Sau thời hạn, phải hoàn tất phí và yêu cầu khôi phục; không chỉ nhìn ngày kết thúc. Nếu bằng hết hạn từ một năm trở lên trong thời gian đình chỉ, nguồn nêu thêm chứng minh hiện diện hợp pháp và các kỳ thi để khôi phục.","Revocation là chấm dứt quyền lái. Sau thời hạn, muốn khôi phục phải nộp lại hồ sơ, chứng minh hiện diện hợp pháp, qua kiểm tra thị lực, lý thuyết, thực hành và đóng phí. Không tự lái trở lại chỉ vì nghĩ đã hết thời gian."],"pdfPage":30},
+      {"title":"Các hành vi dẫn đến mất quyền lái","body":["DUI, lái khi bị đình chỉ hoặc thu hồi vì DUI, không lắp ignition interlock khi bắt buộc, khai gian với DMV, bỏ hiện trường có người bị thương hoặc chết, thi thay người khác và chạy trốn cảnh sát là những ví dụ có thể dẫn đến đình chỉ hoặc thu hồi bắt buộc theo nguồn.","Nhóm tòa có thể đình chỉ hoặc thu hồi còn gồm reckless hoặc aggressive driving, lái không bằng hợp lệ và từ chối xét nghiệm máu/hơi thở khi bị buộc DUI. Đọc đúng chữ 'will' và 'may', không gộp mọi hành vi thành cùng một mức phạt."],"pdfPage":30},
+      {"title":"Điểm trừ và Driver Improvement","body":["DMV ghi vi phạm và gán 3, 4 hoặc 6 demerit points tùy hành vi. Với người từ 18 tuổi, tích 12 điểm trong 12 tháng hoặc 18 điểm trong 24 tháng sẽ phải học driver improvement clinic; tích 18 trong 12 tháng hoặc 24 trong 24 tháng dẫn đến đình chỉ 90 ngày và yêu cầu học.","Vi phạm khi dưới 18 có cơ chế riêng: lần đầu phải học clinic, lần thứ hai đình chỉ 90 ngày, lần thứ ba thu hồi một năm hoặc đến 18 tuổi, tùy thời gian nào dài hơn. Với vi phạm khi 18–19 tuổi, nguồn cũng yêu cầu clinic cho vi phạm có điểm hoặc dây/ghế trẻ em. Tuổi tại lúc vi phạm quan trọng."],"pdfPage":31},
+      {"title":"DUI và đình chỉ hành chính","body":["Khi lái trên đường công cộng Virginia, implied consent là sự đồng ý theo luật đối với breath test khi được yêu cầu theo hoàn cảnh trong nguồn. Việc từ chối hoặc BAC từ .08% cùng cáo buộc DUI có thể dẫn đến đình chỉ hành chính: 7 ngày lần đầu; 60 ngày hoặc tới phiên tòa, tùy sớm hơn, lần hai; tới phiên tòa lần ba.","Đình chỉ hành chính không thay thế chế tài sau kết tội. Chở hành khách 17 tuổi trở xuống khi phạm DUI có chế tài bổ sung. Người dưới 21 lái sau tiêu thụ rượu trái phép có BAC từ .02% đến dưới .08% bị đình chỉ một năm và mức phạt hoặc phục vụ cộng đồng theo nguồn."],"pdfPage":32},
+      {"title":"Learner’s permit và người hướng dẫn","body":["Permit cho phép lái khi người có bằng hợp lệ ít nhất 21 tuổi ngồi ghế hành khách trước, tỉnh táo và có thể giúp. Người đó có thể 18–20 tuổi nếu là người giám hộ hợp pháp hoặc anh chị em thuộc các quan hệ được nguồn liệt kê.","Có khác biệt tuổi ngay trong bản PDF: phần thi thực hành trang PDF 6 nói người từ 18 tuổi giữ permit 60 ngày hoặc hoàn thành driver education; trang PDF 33 dùng mốc 19 tuổi ở đoạn permit. Dùng trang về thi để đọc đúng ngữ cảnh và đối chiếu DMV khi làm hồ sơ; không tự hợp nhất thành một quy tắc tuổi mới."],"pdfPage":33},
+      {"title":"Bằng thông thường, CDL và giấy dịch quốc tế","body":["Driver’s license thông thường cho phép lái xe và xe tải nhỏ dưới 26,001 pounds nếu được miễn yêu cầu CDL. CDL áp dụng cho các nhóm như đầu kéo, xe buýt hành khách, xe bồn và xe chở vật liệu nguy hiểm; loại xe cụ thể có điều kiện và tài liệu riêng.","International driver’s license không tự là bằng hợp lệ cho phép lái: đó là bản dịch của bằng hiện có. Người đến thăm từ nước ngoài dùng bằng nước mình với bản dịch theo hướng dẫn nguồn. Không mua giấy do doanh nghiệp quảng cáo rồi coi nó thay được bằng lái."],"pdfPage":34},
+      {"title":"Đổi địa chỉ, chuyển đến Virginia và kiểm tra xe","body":["Báo DMV trong 30 ngày khi đổi địa chỉ; bưu điện không chuyển tiếp bằng tới địa chỉ mới. Người mới cư trú Virginia có lái xe cần lấy bằng Virginia trong 60 ngày. Đăng ký, title và biển số xe cần thực hiện trong 30 ngày sau chuyển đến theo nguồn.","Xe phải qua kiểm tra an toàn hằng năm và hiển thị sticker còn hiệu lực; một số địa phương còn yêu cầu kiểm tra khí thải. Kiểm tra lốp hàng tháng hoặc trước chuyến dài; xem PSI khuyến nghị trong sách xe hoặc khung cửa phía người lái, không tự dùng một mức cho mọi xe."],"pdfPage":35},
+      {"title":"Bảo hiểm và tài liệu cần đối chiếu","body":["Bản lưu có các đoạn bảo hiểm cũ: trang PDF 31 và 36 còn nhắc phí uninsured motor vehicle $500 cùng bảng hạn mức theo năm 2022. Website giữ nguyên trang gốc để truy xuất nhưng không dùng các con số này làm quy tắc hiện hành hoặc đáp án chấm điểm. Hãy mở mục bảo hiểm DMV hiện hành trước khi đăng ký xe hoặc mua hợp đồng.","Các nội dung còn lại của phần thông tin bổ sung gồm đăng ký bầu cử và hiến mô, tạng; đây là lựa chọn và thủ tục có điều kiện riêng, không phải câu hỏi năng lực lái xe. Phần đề mẫu ở trang PDF 37 có thể dùng để tự ôn; trang đáp án được tách riêng và không hiển thị trong nội dung bài học."],"pdfPage":36}
+    ],
+    "terms":[
+      {"en":"Suspension","vi":"Đình chỉ quyền lái tạm thời","example":"Hết thời hạn vẫn phải hoàn tất yêu cầu khôi phục, không tự coi quyền lái đã trở lại.","pdfPage":30},
+      {"en":"Revocation","vi":"Thu hồi, chấm dứt quyền lái","example":"Khôi phục có thể đòi hỏi nộp lại hồ sơ và làm các kỳ thi.","pdfPage":30},
+      {"en":"Demerit points","vi":"Điểm trừ do vi phạm","example":"DMV theo dõi tổng trong 12 và 24 tháng để quyết định yêu cầu học hoặc đình chỉ.","pdfPage":31},
+      {"en":"Learner’s permit","vi":"Giấy phép học lái","example":"Phải có người hướng dẫn đủ điều kiện ở ghế trước, không phải quyền lái một mình.","pdfPage":33}
+    ],
+    "pitfalls":[
+      {"wrong":"Suspension và revocation có cùng thủ tục khôi phục.","right":"Một loại tạm rút quyền, một loại chấm dứt; đọc đầy đủ yêu cầu nộp lại và các kỳ thi.","pdfPage":30},
+      {"wrong":"Hết thời gian đình chỉ là được lái ngay.","right":"Phải hoàn thành các điều kiện và phí khôi phục áp dụng.","pdfPage":30},
+      {"wrong":"Mọi số liệu trong bản sổ tay lưu đều chắc chắn còn hiện hành.","right":"Bản nguồn có đoạn bảo hiểm cũ và mốc tuổi không nhất quán; cần đối chiếu DMV trước khi dùng các mục đó.","pdfPage":36}
+    ]
+  }
+]

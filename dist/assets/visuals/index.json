@@ -1,0 +1,172 @@
+{
+  "source": "sources/virginia-driver-manual.pdf",
+  "source_sha256": "886137824ac880e7356d1d1ab2de5c3d38beef9a7287dbaa74d80d3b883a9428",
+  "method": "pdftoppm; original unmodified PDF pages, maximum dimension 1600px",
+  "pages": [
+    {
+      "file": "visuals/page-05.png",
+      "pdf_page": 5,
+      "sha256": "e952c32b5e828da5b9711f7349cf3d1aba2073dfb5aebaecac09d7174c9168f7"
+    },
+    {
+      "file": "visuals/page-06.png",
+      "pdf_page": 6,
+      "sha256": "5d7bb9aff27b810640b6dfd13c16ac99d0902508b40a522695fa4cc0e381e03c"
+    },
+    {
+      "file": "visuals/page-07.png",
+      "pdf_page": 7,
+      "sha256": "4961d6e233b600f92f33607d03981b69eb7b1cb978eab3cd3752237b082e92ed"
+    },
+    {
+      "file": "visuals/page-08.png",
+      "pdf_page": 8,
+      "sha256": "cc0327bb8b6414e09cb0fd835ecf0caca1f2ba678eb91027f5466b87c8168801"
+    },
+    {
+      "file": "visuals/page-09.png",
+      "pdf_page": 9,
+      "sha256": "07c3db6fe317ad93823bb0947e618a41cf9412d78e0d5e32f9bc467ddd3baae5"
+    },
+    {
+      "file": "visuals/page-10.png",
+      "pdf_page": 10,
+      "sha256": "5a39b29f9b2722356a1e6c690a4eb71ac0930ccc6345a9ae23edfe3a75e3f2f7"
+    },
+    {
+      "file": "visuals/page-11.png",
+      "pdf_page": 11,
+      "sha256": "e60690d2b8139e4de8a8cf802a9e08dd5e461ce2316bc7b9da9191e361d607b2"
+    },
+    {
+      "file": "visuals/page-12.png",
+      "pdf_page": 12,
+      "sha256": "a26301f483c0767fd7ee19ee9590c1cde6e4f40f8e2312a41e1a3bbef2a112d3"
+    },
+    {
+      "file": "visuals/page-13.png",
+      "pdf_page": 13,
+      "sha256": "c9475ebc424a87947409f20838d807eecc55e146b2fe590f3c5bfa1a33bbac5f"
+    },
+    {
+      "file": "visuals/page-14.png",
+      "pdf_page": 14,
+      "sha256": "6ab853a8f81b97dc744001af3b1b4067da14aa2fdb35e01ceb43fae197dcbe7c"
+    },
+    {
+      "file": "visuals/page-15.png",
+      "pdf_page": 15,
+      "sha256": "0e1c9ee0d6085e592b926a77ab818f6953807bc572b52ef098010a7c250de2c1"
+    },
+    {
+      "file": "visuals/page-16.png",
+      "pdf_page": 16,
+      "sha256": "48ddf2051febaf2ae46948294b5c9ba48b7dbaa235c605ea280b504d0d207da1"
+    },
+    {
+      "file": "visuals/page-17.png",
+      "pdf_page": 17,
+      "sha256": "8fcdbbe03af4e4e447136cfe4f044c82a60a04aefe611d826bfa745c4ce92057"
+    },
+    {
+      "file": "visuals/page-18.png",
+      "pdf_page": 18,
+      "sha256": "cc2ab9970764ec93a6310a686064df67ec0f8be1080f3f32f734ae4435ec85aa"
+    },
+    {
+      "file": "visuals/page-19.png",
+      "pdf_page": 19,
+      "sha256": "a893978eaa74c80172b8eb307ffb64330b1c70aee34d4d22fd39cf0ad7237e8f"
+    },
+    {
+      "file": "visuals/page-20.png",
+      "pdf_page": 20,
+      "sha256": "804b35165098a64efd4ee8a6e7c78912ae13a3bab6d87e1b04c62b870f9e8736"
+    },
+    {
+      "file": "visuals/page-21.png",
+      "pdf_page": 21,
+      "sha256": "704dbea81333ac730be6ca970a4a9cafe9315749ddbca2e1f6898bf81284af51"
+    },
+    {
+      "file": "visuals/page-22.png",
+      "pdf_page": 22,
+      "sha256": "f9180ff63e1f030ad0978b218616e88b0a41233cd6ff18dda0f5bf602956d598"
+    },
+    {
+      "file": "visuals/page-23.png",
+      "pdf_page": 23,
+      "sha256": "347a0c0e97eab52c2874ac794c32dd6054a49d3d97f7579e9d7838b2d7233e1f"
+    },
+    {
+      "file": "visuals/page-24.png",
+      "pdf_page": 24,
+      "sha256": "b8e6dc64fe7911dbcea04d2c230eff518042d12e55d11dcc7853a9e7c999af82"
+    },
+    {
+      "file": "visuals/page-25.png",
+      "pdf_page": 25,
+      "sha256": "6088309420cef3db62327775c6fa83237a83fb9075b1376244039d82ed71198a"
+    },
+    {
+      "file": "visuals/page-26.png",
+      "pdf_page": 26,
+      "sha256": "7b8994b5c5c6b264423701cad0dd8c5e8a91227d87acdb3cde76f649c177d653"
+    },
+    {
+      "file": "visuals/page-27.png",
+      "pdf_page": 27,
+      "sha256": "d5bcc8b65c14870c8aaf65025ea57f3d05e35bf2961c63de1b33bf6775463e40"
+    },
+    {
+      "file": "visuals/page-28.png",
+      "pdf_page": 28,
+      "sha256": "d8b180f0d47eeb9cb35bdfb05904474aef507ec4ef089368db2eda24eefda37b"
+    },
+    {
+      "file": "visuals/page-29.png",
+      "pdf_page": 29,
+      "sha256": "d068063e33c69a0514010e928dff65521aae6973ac939c9d54dc2fa25f3a7b1b"
+    },
+    {
+      "file": "visuals/page-30.png",
+      "pdf_page": 30,
+      "sha256": "44793e7cb18a5afbb9b9ab480a61a5c1d525ced9027ef65dff4ea610d63b7094"
+    },
+    {
+      "file": "visuals/page-31.png",
+      "pdf_page": 31,
+      "sha256": "9e2d5bd98a35d0af486e3cfd79c37bcd44b32da6dede41b4f4cdaabb5482b17f"
+    },
+    {
+      "file": "visuals/page-32.png",
+      "pdf_page": 32,
+      "sha256": "fae629aaa70fa71043987116a53e8671b5d5c56a3756955d2a1779302a35f753"
+    },
+    {
+      "file": "visuals/page-33.png",
+      "pdf_page": 33,
+      "sha256": "7d16003f08616826824d9201a41f6e24e92d6cb89701d0b7bd9471bcedeaa7e8"
+    },
+    {
+      "file": "visuals/page-34.png",
+      "pdf_page": 34,
+      "sha256": "25dcde91a7507476823b16db38b8a6ae81ae52d2ee8c04e4e3e99461d9c425ea"
+    },
+    {
+      "file": "visuals/page-35.png",
+      "pdf_page": 35,
+      "sha256": "77be975e54f63d80001d422434de73e0e102ea8fe69a7472e67e7b84c9daa0c8"
+    },
+    {
+      "file": "visuals/page-36.png",
+      "pdf_page": 36,
+      "sha256": "702f1474267b9b3121ff1fd73d96d0e56dd818dfc3be687c66dc4038240aa0bf"
+    },
+    {
+      "file": "visuals/page-37.png",
+      "pdf_page": 37,
+      "sha256": "52557f91e3b277f307f74f3e4dd0922152af93e175da1256fdfa7f9205f101cf"
+    }
+  ]
+}

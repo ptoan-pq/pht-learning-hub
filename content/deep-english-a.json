@@ -1,0 +1,202 @@
+[
+  {
+    "id":"D-L01-1",
+    "prompt":"You have stopped at a circular red light and intend to turn right. There is no sign prohibiting the turn, but a pedestrian is crossing the road you would turn onto. Which decision accounts for all the conditions?",
+    "options":["Turn immediately because no cars are approaching","You have stopped, so you now have the right-of-way","Continue yielding to the pedestrian, check for traffic, and turn only when it is safe","Honk so the pedestrian will yield"],
+    "explanation":"Coming to a complete stop is only the first step. A right turn on red also requires looking both ways, yielding to pedestrians and other traffic, checking for motorcycles, bicycles and mopeds, and observing any restrictions on signs."
+  },
+  {
+    "id":"D-L01-2",
+    "prompt":"A pedestrian hybrid beacon changes from two steady red lights to two red lights flashing alternately. A pedestrian is still in the crosswalk. What should you do?",
+    "options":["Proceed because the lights are now flashing","Wait until the crosswalk is clear, then proceed with caution","Proceed if the vehicle ahead has already moved","Simply slow down"],
+    "explanation":"Alternately flashing red lights on a PHB allow you to proceed with caution only if the crosswalk is clear. A change in the flashing pattern does not remove the condition that protects pedestrians."
+  },
+  {
+    "id":"D-L01-3",
+    "prompt":"You are on a one-way street and want to turn left onto another one-way street at a circular red light. Select the actions or conditions you must check.",
+    "options":["Come to a complete stop before turning","Yield to pedestrians and other traffic","Make sure no No Turn on Red sign prohibits this turn","A one-way street means you do not need to look for traffic"],
+    "explanation":"The one-way-to-one-way street configuration allows you to consider a left turn on red, but it does not replace the requirements to stop, look and yield. You must also check for a No Turn on Red sign and a red arrow."
+  },
+  {
+    "id":"D-L01-4",
+    "prompt":"Someone says, “A circular red light and a red arrow mean the same thing: just stop, then turn if the way is clear.” Correct this reasoning and identify the posted-sign exception for a red arrow.",
+    "options":[],
+    "explanation":"A circular red light may allow a turn under the conditions on printed page 5. A red arrow requires you to stop and prohibits movement in that direction while it remains red, unless a sign at the intersection allows Right/Left on Red Arrow After Stop. Identify the signal and read the signs correctly, while also checking for pedestrians and other traffic.",
+    "rubric":["Distinguish a circular light from a directional arrow","Identify the posted sign allowing a turn after stopping at a red arrow","Retain the steps of stopping completely, looking and yielding"]
+  },
+  {
+    "id":"D-L02-1",
+    "prompt":"In fog, you can see only the eight-sided shape of a sign and cannot yet read its words. What should you conclude?",
+    "options":["It is probably a warning sign, so slowing down is enough","An eight-sided shape always means STOP; you must stop completely","You must read the words before deciding what to do","All eight-sided signs are for pedestrians"],
+    "explanation":"DMV states that an eight-sided shape always means stop. The shape communicates information even in poor visibility. You must still stop at the proper location and proceed only when the way is clear."
+  },
+  {
+    "id":"D-L02-2",
+    "prompt":"Two signs have black lettering, but one has a yellow background and the other a white background. Why should you not interpret them the same way merely because their lettering has the same color?",
+    "options":["Background color has no meaning","Yellow and black generally convey a warning; white and black convey regulations","A yellow sign always gives you the right-of-way","A white sign is only a suggestion"],
+    "explanation":"Background color and shape help identify the type of information. DMV uses yellow and black for warnings and white and black for regulatory information. Read the specific message to determine the action required."
+  },
+  {
+    "id":"D-L02-3",
+    "prompt":"Select the color-and-meaning pairs described by DMV.",
+    "options":["Orange and black: construction areas","Pink and black: incident areas","Green and white: destination guidance","Blue and white: all turn restrictions"],
+    "explanation":"Orange identifies construction areas, and pink identifies incident areas. Green provides destination guidance, while blue provides information about motorist services. Do not infer a turn prohibition from a blue sign."
+  },
+  {
+    "id":"D-L02-4",
+    "prompt":"You see a triangular YIELD sign, and there is no vehicle directly ahead of you. Why is “I do not see a vehicle in front” still insufficient reason to enter the intersection?",
+    "options":[],
+    "explanation":"YIELD requires you to slow down, be prepared to stop, and let vehicles, pedestrians and bicyclists pass safely. Check conflicting approaches and people crossing, rather than only the road immediately in front of your vehicle.",
+    "rubric":["State that you must slow down and may need to stop","Check for vehicles, pedestrians and bicyclists","Do not equate a clear road directly ahead with every conflicting approach being clear"]
+  },
+  {
+    "id":"D-L03-1",
+    "prompt":"You are driving below the posted speed limit, but rain has reduced visibility. Which reasoning is correct?",
+    "options":["Driving below the number on the sign is always safe","The limit is the maximum under ideal conditions; reduce speed when conditions require it","Reduce speed only when a police officer is present","Speed up to leave the rain sooner"],
+    "explanation":"The posted limit does not guarantee that this speed is appropriate at all times. The manual requires a safe speed for the road and conditions. Poor conditions may require driving below the limit."
+  },
+  {
+    "id":"D-L03-2",
+    "prompt":"An intersection has a No Turn on Red sign. After stopping, you see that there is no traffic at all. Which choice is correct?",
+    "options":["Turn because you have already stopped","Turn only if the driver behind you honks","Wait for a signal that permits the turn; an empty road does not cancel the prohibition","Turn if it is daytime"],
+    "explanation":"A No Turn on Red sign prohibits turning while the light is red. Stopping completely and finding the road clear do not create an exception to that sign."
+  },
+  {
+    "id":"D-L03-3",
+    "prompt":"When you see a sign regulating direction of travel or lane use, what should you do?",
+    "options":["Read both the arrows and the words on the sign","Determine how the sign applies to your lane","Disregard it if your preferred maneuver would be faster","Obey the applicable restriction rather than relying on what other drivers do"],
+    "explanation":"Direction and lane-use signs identify the permitted movements. Read the signs that apply to your lane. Another driver's mistake or an empty road does not allow you to ignore a restriction."
+  },
+  {
+    "id":"D-L03-4",
+    "prompt":"Explain why DO NOT ENTER and WRONG WAY indicate a risk of a head-on conflict, rather than merely suggesting that you change your route whenever convenient.",
+    "options":[],
+    "explanation":"These signs prohibit entry or indicate that you are traveling against the flow of traffic. Recognize the prohibited direction and avoid continuing toward opposing vehicles. Do not substitute other drivers' behavior for the signs.",
+    "rubric":["Identify the restriction on entering or traveling in that direction","Explain the risk of a head-on conflict","Do not treat the sign as optional guidance"]
+  },
+  {
+    "id":"D-L04-1",
+    "prompt":"A curve warning sign with an advisory speed appears before a curve. Which choice shows the correct understanding?",
+    "options":["Accelerate to that exact speed in every type of weather","Use the warning to adjust before the curve; a slippery road may require a lower speed","Begin looking for hazards only after entering the curve","The advisory sign allows you to exceed the main speed limit"],
+    "explanation":"An advisory speed accompanying a warning helps you prepare for the hazard. It does not permit exceeding the main speed limit or guarantee safety in poor weather."
+  },
+  {
+    "id":"D-L04-2",
+    "prompt":"You see a merge sign and a vehicle about to enter the traffic lane. What should you anticipate?",
+    "options":["The entering vehicle will certainly stop, so ignore it","Traffic may merge into your path; observe it and adjust your safety space","You must immediately brake hard","A merge sign means the road ends"],
+    "explanation":"A merge sign warns that vehicles may join the traffic flow. Watch the merging movement and prepare for it. Do not assume every driver will always act correctly."
+  },
+  {
+    "id":"D-L04-3",
+    "prompt":"Near railroad tracks, select the safe conclusions supported by the manual.",
+    "options":["Do not drive around a lowered crossing gate","Look both ways before crossing the tracks","You may stop on the tracks if vehicles ahead are queued","Cross only when there is enough room beyond the tracks to avoid stopping on them"],
+    "explanation":"Do not drive around crossing gates or enter the tracks without enough room to clear them. The requirements to look and keep the tracks clear appear in the railroad guidance and the light rail section on printed page 20."
+  },
+  {
+    "id":"D-L04-4",
+    "prompt":"Someone sees a Slippery When Wet sign and says, “I only need to know the sign's name; I do not need to change how I drive.” What is missing from this reasoning?",
+    "options":[],
+    "explanation":"Warning signs help you anticipate hazardous conditions. When the road is wet, reduce speed as appropriate, increase following distance, and avoid abrupt maneuvers. Knowing the sign's name without adjusting your behavior is not enough.",
+    "rubric":["Connect the sign to the risk of a slippery road","Describe appropriate adjustments to speed and following distance","Explain that you must act when the warned-about condition is present"]
+  },
+  {
+    "id":"D-L05-1",
+    "prompt":"A flagger signals you to stop, although the vehicle ahead has just gone through. What should you do?",
+    "options":["Follow the vehicle ahead so you stay together","Stop as directed by the flagger and watch for the instruction for your turn","Follow only the speed-limit sign","Honk to request permission to proceed"],
+    "explanation":"Flaggers and traffic-control devices in work zones direct traffic safely. Each vehicle must follow the instruction currently in effect, rather than treating the preceding vehicle's movement as its instruction."
+  },
+  {
+    "id":"D-L05-2",
+    "prompt":"You see Rumble Strips Ahead before a work zone. How should you proceed?",
+    "options":["Steer around the strips into the neighboring lane","Drive slowly over the strips without swerving around them","Speed up to reduce the vibration","Ignore the warning because no workers are visible yet"],
+    "explanation":"DMV directs drivers to travel slowly over rumble strips, not swerve around them. They warn of a work zone, flagger or lane closure ahead. Not seeing workers yet does not cancel the warning."
+  },
+  {
+    "id":"D-L05-3",
+    "prompt":"Select the work-zone approaches supported by the material.",
+    "options":["Follow the flagger's instructions","Watch for lane changes and temporary signs","Assume temporary signs no longer apply when no workers are visible","Adjust speed to the limit and the conditions"],
+    "explanation":"Work zones may change lanes and traffic flow. Pay attention to signs, flaggers and speed. Do not assume that signs have stopped applying merely because workers are not visible."
+  },
+  {
+    "id":"D-L05-4",
+    "prompt":"Why can “avoiding the rumble strips to protect the vehicle” turn a warning into a hazard? Give the alternative action described in the manual.",
+    "options":[],
+    "explanation":"Swerving around the strips may take your vehicle out of its intended path or into space used by other vehicles. DMV instructs you to drive slowly over the strips rather than swerve around them, while continuing to watch for a flagger or a closed lane ahead.",
+    "rubric":["Recognize the risk of an unexpected change in direction","State that you should drive slowly over the strips without swerving","Connect the warning to the work zone ahead"]
+  },
+  {
+    "id":"D-L06-1",
+    "prompt":"The center of the road is marked by double solid yellow lines. You intend to pass a slow car. There is no obstruction, and the opposing lane is clear. Which statement is correct?",
+    "options":["You may pass because the way ahead is clear","You may not pass a car across double solid yellow lines; do not confuse this with the manual's specific exceptions","You may pass if you turn on your high beams","You may pass below 35 MPH"],
+    "explanation":"Double solid yellow lines prohibit passing cars in either direction. The PDF lists exceptions for a left turn or for passing pedestrians, bicyclists, and scooter or skateboard riders when the opposing lane is clear and the maneuver can be made safely. Do not extend those exceptions to a slow car."
+  },
+  {
+    "id":"D-L06-2",
+    "prompt":"You want to enter a special-use lane, but double solid white lines still separate it from your lane. What should you do?",
+    "options":["Cross if the gap is large enough","Enter only where signs and markings permit; do not cross the double solid white lines","Cross after signaling","A small vehicle may cross"],
+    "explanation":"Double solid white lines prohibit crossing between lanes moving in the same direction. To enter a special-use lane, wait for a location where signs and markings allow entry."
+  },
+  {
+    "id":"D-L06-3",
+    "prompt":"A shared center left-turn lane has one solid yellow line and one broken yellow line on each side. Select the correct statements.",
+    "options":["Drivers from either direction may use it to turn left","It may be used as a regular travel lane when traffic is heavy","You may not travel more than 150 feet in this lane","Read the markings to distinguish it from a center lane where passing is permitted"],
+    "explanation":"A center lane with solid-and-broken yellow lines on each side serves left turns from both directions; it is not a regular travel lane. DMV limits travel in it to 150 feet. A center lane marked only by a broken yellow line on each side has a different meaning."
+  },
+  {
+    "id":"D-L06-4",
+    "prompt":"Correct this overly absolute statement: “You may never cross double solid yellow lines.” State the PDF's exceptions and explain why they do not allow you to pass a car.",
+    "options":[],
+    "explanation":"The PDF allows crossing double solid yellow lines for a left turn or to pass pedestrians, bicyclists, and scooter or skateboard riders when the opposing lane is clear and the pass can be made safely. This exception does not authorize passing a slow car.",
+    "rubric":["Identify the left-turn exception","Identify the exact groups covered by the passing exception and its safety conditions","Do not extend the exception to passing cars"]
+  },
+  {
+    "id":"D-L07-1",
+    "prompt":"You are traveling in the opposite direction from a school bus that is loading children. Only painted lines separate the directions of travel, and the bus's signals are off. What should you do?",
+    "options":["You do not need to stop because the signals are off","Stop because the bus is loading or unloading passengers; painted lines are not a physical median or barrier","Stop only if you hear a horn","Pass quickly before the children get out"],
+    "explanation":"You must stop even when a school bus is loading or unloading passengers with its signals off. The opposite-direction exception requires a roadway divided by a median or barrier, with the bus on the other side. Painted lines alone do not meet that description."
+  },
+  {
+    "id":"D-L07-2",
+    "prompt":"Your vehicle has ABS. Someone suggests repeatedly pressing and releasing the brake pedal to make the system work. How would you correct this advice using DMV guidance?",
+    "options":["The advice is correct; ABS always requires pumping the brakes","Do not pump antilock brakes; read the vehicle's instructions and practice before driving on the road","Turn ABS off when it rains","Use only the parking brake"],
+    "explanation":"DMV emphasizes: never pump antilock brakes. Understand the system using your vehicle's instructions and practice before driving on the road."
+  },
+  {
+    "id":"D-L07-3",
+    "prompt":"Which factors can change stopping distance?",
+    "options":["The time needed to recognize a hazard","The distance traveled before you apply the brakes","The condition of the tires, brakes and road surface","Only the vehicle's paint color"],
+    "explanation":"Stopping involves perception, reaction and braking. Weather, visibility, the driver's condition, speed, tires, brakes and the road surface can all affect it."
+  },
+  {
+    "id":"D-L07-4",
+    "prompt":"A vehicle is traveling at 55 MPH where the posted limit is 55 MPH, but it is raining heavily. Explain why the two matching numbers are not enough to establish that the vehicle is traveling safely.",
+    "options":[],
+    "explanation":"The limit is the maximum legal speed under ideal conditions. Poor weather may make the posted speed unsafe, requiring an appropriate reduction. Wet pavement may also increase braking distance, as described on printed page 15.",
+    "rubric":["Distinguish the maximum limit from a speed suitable for the conditions","State that poor weather requires an appropriate reduction in speed","Discuss traction or braking distance rather than relying only on the posted number"]
+  },
+  {
+    "id":"D-L08-1",
+    "prompt":"Two vehicles arrive at the same time at an intersection with no signs or signals. The driver on the left says, “My vehicle is larger, so I go first.” What is the correct rule?",
+    "options":["The larger vehicle has priority","The driver on the left yields to the driver on the right","The first driver to turn on high beams goes first","Both vehicles may proceed together if they travel at the same speed"],
+    "explanation":"When vehicles from different directions arrive simultaneously at an intersection without signs or signals, the driver on the left yields to the driver on the right. Vehicle size does not create priority."
+  },
+  {
+    "id":"D-L08-2",
+    "prompt":"An ambulance is approaching from behind with lights and a siren. You are on the road and have not entered an intersection. What is the appropriate response?",
+    "options":["Continue because you are in the correct lane","Safely pull over to the right edge and stop until it passes","Speed up to stay ahead of the ambulance","Follow closely behind it immediately"],
+    "explanation":"When an emergency vehicle approaches from behind with a siren or flashing lights, yield immediately, safely pull over to the right edge, and stop until it passes. Do not confuse this with the procedure for passing a stationary emergency vehicle."
+  },
+  {
+    "id":"D-L08-3",
+    "prompt":"Before entering a roundabout, select the actions you need to take.",
+    "options":["Slow down and read the signs to choose your direction and lane","Yield to traffic already in the circle and to pedestrians","Travel clockwise if your exit is nearby","Enter only when the way is clear"],
+    "explanation":"Entering traffic yields to vehicles already in the roundabout and to pedestrians, and chooses its direction and lane according to the signs. The roundabouts described in the manual operate counterclockwise."
+  },
+  {
+    "id":"D-L08-4",
+    "prompt":"Distinguish the response to an emergency vehicle approaching from behind from the response to a stationary emergency vehicle with flashing lights beside the road.",
+    "options":[],
+    "explanation":"For a vehicle approaching from behind, safely pull over to the right and stop until it passes. For a stationary vehicle, proceed with caution and move to a lane not adjacent to it when reasonable and safe. If you cannot change lanes safely, reduce speed and proceed with caution.",
+    "rubric":["Distinguish whether the emergency vehicle is moving or stationary","State that you should safely pull right and stop when it approaches from behind","State the lane-change and reduced-speed conditions for a stationary vehicle"]
+  }
+]

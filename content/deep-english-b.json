@@ -1,0 +1,202 @@
+[
+  {
+    "id":"D-L09-1",
+    "prompt":"You have checked your rearview and side mirrors and turned on your signal. What must you still do immediately before changing lanes?",
+    "options":["Move over immediately because the mirrors show everything","Quickly glance over your shoulder to check your blind spot and watch for another vehicle moving into the same lane","Simply follow the vehicle ahead","Accelerate above the speed limit"],
+    "explanation":"Mirrors do not show your entire blind spot. Immediately before moving into another lane, quickly glance over your shoulder and check for other vehicles that may also be moving into that lane."
+  },
+  {
+    "id":"D-L09-2",
+    "prompt":"To pass a vehicle quickly, you plan to exceed the speed limit and then return to your previous speed. What does the manual say?",
+    "options":["You may exceed the limit while passing","You must not exceed the speed limit when passing","It is prohibited only when there is oncoming traffic","It is allowed if it takes less than 10 seconds"],
+    "explanation":"Passing does not create an exception to the speed limit. You must also check ahead, behind you and in your blind spot, and finish the pass before reaching a No Passing zone."
+  },
+  {
+    "id":"D-L09-3",
+    "prompt":"Select the correct steps and restrictions for passing another vehicle.",
+    "options":["Check ahead, behind you and in your blind spot","Signal before passing","Return to the right when you can see the front of the vehicle you passed in your rearview mirror","Use the unpaved shoulder to pass on the right if space is limited"],
+    "explanation":"DMV requires you to check traffic, signal and wait until you can see the front of the passed vehicle in your mirror before returning. You may not pass on the right by leaving the paved or main portion of the roadway."
+  },
+  {
+    "id":"D-L09-4",
+    "prompt":"Another vehicle has signaled left. At the same time, you want to enter the open lane on your left. Why is saying, 'I signaled first,' not enough to justify moving over?",
+    "options":[],
+    "explanation":"A turn signal communicates an intention. It does not guarantee an open space or eliminate the risk of two vehicles moving into the same lane. Before moving, check behind and beside you, your blind spot, and other vehicles that may also be entering the lane.",
+    "rubric":["Explain that a signal communicates an intention","Recognize the risk of two vehicles choosing the same lane","Mention checking mirrors and quickly glancing over your shoulder before moving"]
+  },
+  {
+    "id":"D-L10-1",
+    "prompt":"On a dry road at 45 MPH, you are following the vehicle ahead by 3 seconds. Your speed then rises to 46 MPH. Which guideline in the DMV table should you now consider?",
+    "options":["Still 3 seconds because your speed increased by only 1 MPH","4 seconds for 46–70 MPH on a dry surface","2 seconds because you are traveling faster","Following distance cannot be measured in seconds"],
+    "explanation":"The table gives 3 seconds for 35–45 MPH and 4 seconds for 46–70 MPH on dry surfaces. Even a small speed change can put you in the next range. Poor conditions require additional following distance."
+  },
+  {
+    "id":"D-L10-2",
+    "prompt":"The vehicle behind you is following too closely. You want to brake hard as a warning. Which response better follows DMV guidance?",
+    "options":["Brake hard to frighten the other driver","Avoid sudden braking; change lanes if possible or slow gently, while maintaining space ahead","Accelerate above the speed limit","Force the following vehicle onto the shoulder"],
+    "explanation":"Do not brake suddenly when someone is tailgating you. If possible, move to another lane, or signal with a gentle tap of the brakes and slow down gently. Maintain a good following distance ahead of your own vehicle."
+  },
+  {
+    "id":"D-L10-3",
+    "prompt":"In which situations should you increase your following distance?",
+    "options":["Behind a large vehicle that blocks your view","In bad weather or heavy traffic","Behind a motorcycle or bicycle","When another vehicle is tailgating you"],
+    "explanation":"All four appear in DMV's list of situations requiring a greater following distance. Extra space gives you more time to react to hazards or when the driver behind you has not left enough room."
+  },
+  {
+    "id":"D-L10-4",
+    "prompt":"Describe how to measure following distance in seconds without a measuring tape. Then explain why you should not blindly apply the table when traveling over 70 MPH.",
+    "options":[],
+    "explanation":"Choose a fixed landmark and start counting when the vehicle ahead passes it. Count how many seconds pass before your vehicle reaches the same landmark. Compare that interval with the 2-, 3- or 4-second guideline for your speed range, and add time in poor conditions. DMV states that the space cushions in the table do not apply when speeding over 70 MPH.",
+    "rubric":["Choose a fixed landmark and start counting when the vehicle ahead passes it","Count until your own vehicle reaches the same landmark","Mention dry surfaces, the speed ranges and the limitation above 70 MPH"]
+  },
+  {
+    "id":"D-L11-1",
+    "prompt":"Why does looking left, right and left again before entering an intersection make more sense than looking in each direction only once?",
+    "options":["Traffic coming from the left is closer to your path, so check it again before moving","Traffic never comes from the right","You look again only to pass the test","Looking three times removes the need to stop"],
+    "explanation":"DMV explains that vehicles approaching from the left are closer to you. Look left, right and then quickly left again before crossing. Looking does not replace any requirement to stop or yield."
+  },
+  {
+    "id":"D-L11-2",
+    "prompt":"You are alongside another vehicle where its driver may have difficulty seeing you. Which response is correct?",
+    "options":["Stay there and travel alongside the vehicle","Adjust your position to avoid remaining in the blind spot, while obeying the speed limit","Sound your horn and stay in the same position","It is enough that you can see the other vehicle in your own mirror"],
+    "explanation":"Avoid remaining in another driver's blind spot. Depending on what is safe, move ahead or drop farther back. Advice about positioning does not justify exceeding the speed limit."
+  },
+  {
+    "id":"D-L11-3",
+    "prompt":"Which visible clues may suggest that a vehicle is preparing to move into your path?",
+    "options":["Its backup lights are on","Its wheels are turned toward the roadway","Exhaust smoke suggests that the vehicle may be running","You only need to watch the center line"],
+    "explanation":"DMV recommends watching for clues such as exhaust smoke, brake or backup lights, and turned wheels. They may indicate that a vehicle is about to move. Keep your eyes moving and scan the entire scene."
+  },
+  {
+    "id":"D-L11-4",
+    "prompt":"Explain why you still need a quick glance over your shoulder before changing lanes, even after properly adjusting your mirrors.",
+    "options":[],
+    "explanation":"Adjusting mirrors improves your view, but some areas remain difficult to see. A quick glance over your shoulder immediately before moving helps reveal vehicles in your blind spot. Do not turn away for so long that you lose track of the road ahead.",
+    "rubric":["Recognize that mirrors have a limited field of view","Mention a quick shoulder check before changing lanes or passing","Keep attention on the road ahead rather than looking away for an extended time"]
+  },
+  {
+    "id":"D-L12-1",
+    "prompt":"You have just passed a truck and can see only part of its front in your rearview mirror. You plan to pull in front of it and slow down to turn. What is the problem?",
+    "options":["There is no problem if you have signaled","Pulling in too soon and slowing down takes away the large stopping space the truck needs","Trucks stop faster than passenger cars","The truck must create space for you, so you do not need to wait"],
+    "explanation":"Trucks need more time and space to stop. DMV tells you to wait until you can see the entire front of the truck in your rearview mirror before pulling in, and then maintain your speed. Avoid cutting in and suddenly slowing down."
+  },
+  {
+    "id":"D-L12-2",
+    "prompt":"Your lane is too narrow to pass a bicyclist with 3 feet of clearance. What should you do?",
+    "options":["Squeeze past in the same lane with less clearance","Change lanes to pass safely; wait if you cannot do so safely yet","Sound your horn to force the bicyclist onto the shoulder","Use the bicycle lane to pass"],
+    "explanation":"The manual requires at least 3 feet of clearance when passing a bicyclist. If the lane is too narrow, you must change lanes to pass safely. Do not drive in a bicycle lane to pass."
+  },
+  {
+    "id":"D-L12-3",
+    "prompt":"Select the correct statements about No-Zones around large vehicles.",
+    "options":["They are on both sides, in front of and behind the vehicle","If you cannot see the driver's face in the vehicle's side mirror, the driver cannot see you","You may squeeze between a turning truck and the curb to get through faster","Do not follow closely behind a large vehicle, where both your view and your escape space are limited"],
+    "explanation":"No-Zones are large danger areas and blind spots. Do not squeeze between a large vehicle and the curb when it needs room to turn. Avoid following closely, which limits the view for both drivers."
+  },
+  {
+    "id":"D-L12-4",
+    "prompt":"A driver sees the vehicle ahead stopped at a crosswalk and wants to pass rather than wait. Explain the hidden hazard and the relevant rule.",
+    "options":[],
+    "explanation":"The stopped vehicle may be hiding a pedestrian in front of it. DMV states that passing at a crosswalk is illegal. Recognize the hazard and yield or stop appropriately for people crossing. When turning, let pedestrians completely cross the street before beginning your turn.",
+    "rubric":["Recognize that the stopped vehicle may hide a pedestrian","State that passing at a crosswalk is prohibited","Connect observation with stopping or yielding for pedestrians"]
+  },
+  {
+    "id":"D-L13-1",
+    "prompt":"In heavy fog, you turn on your high beams to see farther ahead. Why is this a poor choice?",
+    "options":["Fog can reflect the light back into your eyes; use low beams and slow down","Low beams may be used only in cities","No lights are needed in fog","Using any headlights means you do not need to adjust your speed"],
+    "explanation":"Fog reflects light back toward your eyes. DMV recommends low beams, watching road-edge markings and slowing down because visibility and distance judgment are reduced."
+  },
+  {
+    "id":"D-L13-2",
+    "prompt":"You back up using only your mirrors without turning to look behind you. What is missing?",
+    "options":["Nothing is missing if the mirrors are clean","Mirrors do not give a complete view; turn your head and body to look through the rear window, back slowly and glance to both sides","Accelerate to finish backing sooner","Simply listen for horns"],
+    "explanation":"Mirrors do not show the whole area. DMV directs you to turn your body and head to the right, look through the rear window, back slowly and check both sides for pedestrians and approaching traffic."
+  },
+  {
+    "id":"D-L13-3",
+    "prompt":"In rain, on a slippery road and with reduced visibility, select the appropriate adjustments.",
+    "options":["Reduce your speed first","Increase your space cushion by doubling your normal following distance in hazardous conditions","Turn on your headlights and use low beams in rain","Brake hard and steer sharply to test the available traction"],
+    "explanation":"Hazardous conditions call for lower speed, more following distance and headlights. You must turn on your headlights when using your wipers because of bad weather. Abrupt maneuvers can cause a loss of control on slippery surfaces."
+  },
+  {
+    "id":"D-L13-4",
+    "prompt":"At night, you are following a vehicle 150 feet ahead while an oncoming vehicle is 400 feet away. Using DMV's distance guidelines, explain whether to use high or low beams.",
+    "options":[],
+    "explanation":"Use low beams. When following within 200 feet, use low beams, and do not use high beams when an oncoming vehicle is within 500 feet. This situation falls within both limits. Do not use high beams in retaliation if the other driver fails to dim theirs.",
+    "rubric":["Compare 150 feet with the 200-foot following limit","Compare 400 feet with the 500-foot oncoming-traffic limit","Conclude that low beams are appropriate and reject retaliatory high-beam use"]
+  },
+  {
+    "id":"D-L14-1",
+    "prompt":"A 25-year-old driver has a BAC of 0.06% and impaired driving ability. The driver says, 'Below 0.08%, I cannot be convicted of DUI.' Which statement is correct?",
+    "options":["The driver is completely correct","An impaired driver can still be convicted of DUI with a BAC below 0.08%","Drinking coffee makes it permissible to drive","The rule applies only to drivers under 21"],
+    "explanation":"The manual gives 0.08% as a legal threshold for drivers age 21 or older, not a guarantee of safety. DMV states that a driver whose driving is impaired can be convicted of DUI with a lower BAC."
+  },
+  {
+    "id":"D-L14-2",
+    "prompt":"You are yawning repeatedly, your eyelids feel heavy, and you cannot remember the last stretch of road. What is the most appropriate response?",
+    "options":["Open a window and turn up the music so you can keep driving","Stop somewhere safe to rest or sleep, and use a well-rested driver if one is available","Drink an energy drink and continue as usual","Drive faster to reach your destination sooner"],
+    "explanation":"These are signs of drowsiness. DMV states that open windows, chewing gum, loud music and stimulants are not reliable ways to stay awake. Stop safely for rest or a short nap, and let a well-rested person drive."
+  },
+  {
+    "id":"D-L14-3",
+    "prompt":"During a police traffic stop at night, select the actions recommended in the manual.",
+    "options":["Stay in the vehicle and keep your safety belt fastened unless instructed otherwise","Turn on the interior lights and keep your hands visible","Immediately reach for your documents without explaining what you are doing","Explain where the documents are and retrieve them slowly when asked"],
+    "explanation":"Remain calm, stop in a safe place, stay inside, and keep your safety belt fastened and your hands visible. At night, turn on the interior lights. When asked for documents, explain where they are and reach for them slowly while keeping one hand on the steering wheel."
+  },
+  {
+    "id":"D-L14-4",
+    "prompt":"After a minor crash, the vehicles can be moved, no one is injured, and you can move your vehicle safely. Someone tells you to leave it in the roadway until police arrive. Compare that advice with DMV guidance.",
+    "options":[],
+    "explanation":"The PDF states that vehicles must be moved off the road immediately when they can be moved, no one is injured, and the driver can do so safely. You must still stop and fulfill your crash-related duties, report to police as required, exchange information and notify your insurer. Moving the vehicle out of traffic does not mean leaving the crash scene.",
+    "rubric":["State all three conditions for moving the vehicle","Distinguish clearing the traffic lane from leaving the scene","Mention the remaining reporting and information-exchange duties"]
+  },
+  {
+    "id":"D-L15-1",
+    "prompt":"An adult in the back seat says, 'In Virginia, only people in the front seats must wear safety belts.' According to the April 2026 PDF, how should you correct this?",
+    "options":["That is correct; back-seat passengers do not need belts","The driver and all front- and rear-seat passengers must wear belts, subject to the stated medical waiver","Belts are required only on highways","Air bags remove the need for belts"],
+    "explanation":"Printed page 26 states that the driver and all passengers, both front and rear, must wear safety belts. A medical waiver granted by a licensed physician requires a signed statement identifying the person and the reason for the waiver."
+  },
+  {
+    "id":"D-L15-2",
+    "prompt":"A vehicle has air bags. The driver plans to skip the safety belt because the air bags should be enough. Which conclusion is correct?",
+    "options":["Air bags completely replace safety belts","Air bags supplement belts; keep the belt fastened and sit at least 10 inches from the steering wheel","Only rear-seat passengers need belts","Sitting close to the wheel makes the air bag safer"],
+    "explanation":"The manual describes using air bags properly together with safety belts. DMV advises always buckling up, moving the seat at least 10 inches from the wheel, and directing an adjustable steering wheel toward the chest rather than the head or neck."
+  },
+  {
+    "id":"D-L15-3",
+    "prompt":"Select the proper-fit criteria to check when considering whether a child can sit without a booster seat.",
+    "options":["The lap belt fits snugly across the upper thighs rather than the abdomen","The shoulder belt fits snugly across the shoulder and chest","The child can sit all the way back, with knees naturally bent and feet on the floor","The child only needs to hold the correct position initially and may slouch later"],
+    "explanation":"In addition to age and child-restraint requirements, the PDF lists proper belt fit and posture: the upper thighs, shoulder and chest; no slouching; back against the seat; naturally bent knees; feet on the floor; and the ability to maintain that position throughout the trip."
+  },
+  {
+    "id":"D-L15-4",
+    "prompt":"Why is it incomplete to say, 'The child is old enough, so belt fit no longer matters'? Name at least 3 fit criteria you would check.",
+    "options":[],
+    "explanation":"Consider both the age and child-restraint rules and the fit of the belt. Check that the lap belt fits across the upper thighs, the shoulder belt crosses the shoulder and chest, the child sits all the way back, the knees bend naturally at the seat edge, the feet rest on the floor, and the child can avoid slouching and maintain that position for the whole trip.",
+    "rubric":["Distinguish age requirements from proper belt fit","Give at least 3 criteria from the DMV list","Mention maintaining the correct position throughout the trip"]
+  },
+  {
+    "id":"D-L16-1",
+    "prompt":"A driver's license was revoked, and the revocation period has ended. The driver says, 'Once enough days have passed, I can drive again automatically.' What is missing?",
+    "options":["Nothing is missing","The driver must reapply and meet the required documentation, testing and fee requirements; the end of the period does not automatically restore the privilege","Borrowing someone else's license is sufficient","Changing the address is sufficient"],
+    "explanation":"Revocation terminates the driving privilege. After the period ends, the driver must reapply, provide proof of legal presence, pass the vision, knowledge and road skills tests, and pay the required fees described on printed page 28."
+  },
+  {
+    "id":"D-L16-2",
+    "prompt":"A friend asks you to take the knowledge exam for them because they already know the theory. According to the DMV list of offenses, which statement is correct?",
+    "options":["It is allowed if you are not paid","Taking a driver's license exam for someone else is an offense that leads to suspension or revocation upon conviction","It is wrong only for the road skills test","It is allowed if DMV is notified afterward"],
+    "explanation":"The list includes taking a driver's license exam for another person or appearing in their place to renew a license. Knowing the material or not receiving payment does not create an exception."
+  },
+  {
+    "id":"D-L16-3",
+    "prompt":"Select the correct distinctions between suspension and revocation in the manual.",
+    "options":["Suspension temporarily withdraws the driving privilege","Revocation terminates the driving privilege","Revocation can require reapplication and retesting after the period ends","Either status allows you to drive if you carry a photograph of the old license"],
+    "explanation":"Suspension is a temporary withdrawal; revocation terminates the privilege. Restoration requires meeting the applicable requirements. Do not assume that having a photograph of an old license gives you permission to drive."
+  },
+  {
+    "id":"D-L16-4",
+    "prompt":"Someone uses the general phrase 'having your license taken away' for both suspension and revocation. Explain why they need to know the exact term on their notice when dealing with the required procedures.",
+    "options":[],
+    "explanation":"The terms describe different statuses and different paths to restoration. Suspension temporarily withdraws the driving privilege; revocation terminates it. Reapplying after revocation requires the documentation, tests and fees described in the manual. Read the notice and the actual DMV requirements rather than relying on a general phrase.",
+    "rubric":["Define the two terms separately","Connect each status with the relevant restoration or reapplication requirements","Emphasize reading the exact notice and the applicable requirements"]
+  }
+]

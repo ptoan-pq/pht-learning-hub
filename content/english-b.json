@@ -1,0 +1,539 @@
+[
+  {
+    "id": "L07",
+    "sections": [
+      {
+        "title": "Tư thế và vị trí tay",
+        "blocks": [
+          {
+            "pdfPage": 16,
+            "heading": "Hand Position",
+            "text": "Sit straight but relaxed and place your hands on the steering wheel. If your steering wheel were a clock, your hands should be at the 8 o’clock and 4 o’clock positions. Hold the wheel with your fingers and thumbs. Avoid gripping it with your palms."
+          }
+        ]
+      },
+      {
+        "title": "Giới hạn tốc độ và điều kiện thực tế",
+        "blocks": [
+          {
+            "pdfPage": 16,
+            "heading": "Speed Limits",
+            "text": "A speed limit is the maximum legal speed you can travel on a road under ideal conditions. You may drive slower than the speed limit, as long as you don’t impede the normal movement of traffic, but it is illegal to drive any faster. By law you must drive slower where signs indicate a school zone speed limit or work zone speed limit is in effect, and/or if conditions such as road construction or bad weather make the posted speed unsafe. According to Virginia law, if you are driving 20 or more miles per hour (MPH) above the speed limit, or over 85 MPH, a law enforcement officer may charge you with reckless driving, regardless of the speed limit. It is considered a misdemeanor criminal offense if convicted of reckless driving. The court may require a fine, suspend your driving privilege and/or impose a jail sentence. If the violation results in death and the operator’s license was suspended or revoked at the time of the offense, it may be considered a felony, which carries more serious consequences. You are subject to an additional $100 fine if convicted of driving between 81 and 85 MPH in a 65-MPH zone. It is illegal to use radar detectors in Virginia."
+          }
+        ]
+      },
+      {
+        "title": "Khi không có biển giới hạn khác",
+        "blocks": [
+          {
+            "pdfPage": 17,
+            "heading": "Default Speed Limits",
+            "text": "Unless there is a speed limit sign stating otherwise, the maximum speed limit for passenger vehicles and motorcycles is 25 MPH for school, business and residential areas; 35 MPH for unpaved roads and 55 MPH for all other roads. Some school zones may have automated photo enforcement, as indicated by signs with the message “Speed Photo Enforced” or similar."
+          }
+        ]
+      },
+      {
+        "title": "Những nơi mỗi xe phải tự dừng",
+        "blocks": [
+          {
+            "pdfPage": 17,
+            "heading": "Stopping",
+            "text": "You must always stop your vehicle: \u0017 at all stop signs, red traffic lights and flashing red signals \u0017 when entering a street or crossing over a sidewalk from a driveway, alley, building or parking lot \u0017 at railroad crossings with flashing signals \u0017 when signaled by flaggers directing traffic \u0017 for pedestrians attempting to cross the street at a crosswalk \u0017 at the direction of a police officer. If you don’t obey a law enforcement officer’s signal to stop and the officer pursues you and is killed as a direct result of the pursuit, you will be guilty of a Class 4 felony. \u0017 at the scene of a crash in which you are involved When approaching a stop sign and the car in front of you proceeds, stop at the sign and proceed when the way is clear."
+          }
+        ]
+      },
+      {
+        "title": "Dừng cho xe buýt trường học",
+        "blocks": [
+          {
+            "pdfPage": 17,
+            "heading": "Stopping for School Buses",
+            "text": "You must stop for stopped school buses with flashing red lights and an extended stop sign when you approach from any direction on a highway, private road or school driveway. Stop and remain stopped until all persons are clear and the bus moves again. \u0017You must also stop if the bus is loading or unloading passengers and the signals are not on. \u0017 You do not have to stop if you are traveling in the opposite direction on a roadway with a median or barrier dividing the road and the bus is on the opposite side of the median or barrier. However, be prepared for unexpected actions by persons exiting the school bus."
+          }
+        ]
+      },
+      {
+        "title": "Quãng dừng và phanh ABS",
+        "blocks": [
+          {
+            "pdfPage": 17,
+            "heading": "Stopping Distance",
+            "text": "Three factors determine the distance that it takes to stop your vehicle: perception time, reaction distance and braking distance. Perception time: The time it takes you to recognize a hazard. Reaction distance: The distance your vehicle travels between the time you recognize a problem and the time you apply the brakes. Braking distance: The distance your car travels after you apply the brakes. Perception time, reaction distance and braking distance are affected by weather, visibility, and your mental and physical condition. Braking distance is also affected by how fast your vehicle is traveling, the condition of your brakes and tires, and the pavement condition. For example, wet pavement can double your braking distance."
+          },
+          {
+            "pdfPage": 17,
+            "heading": "Antilock Brakes",
+            "text": "If your vehicle has antilock brakes, be sure that you understand how they work. Check your vehicle owner’s manual and practice braking before you go out on the road. Remember, never pump antilock brakes."
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "Stopping distance",
+        "exampleEn": "Your vehicle keeps moving while you recognize a hazard, react and brake."
+      },
+      {
+        "en": "Reaction distance",
+        "exampleEn": "Between noticing the vehicle ahead braking and pressing your own brake pedal, your vehicle still travels farther."
+      },
+      {
+        "en": "Antilock braking system (ABS)",
+        "exampleEn": "Follow the instructions for your vehicle; the manual says never to pump antilock brakes."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "Stopping distance is only the distance traveled after pressing the brake.",
+        "rightEn": "It also includes recognizing the hazard and reacting before braking takes effect."
+      },
+      {
+        "wrongEn": "The vehicle ahead just stopped at STOP, so I can follow without stopping again.",
+        "rightEn": "Each vehicle must stop at the sign and proceed only when the way is clear."
+      },
+      {
+        "wrongEn": "Double painted lines in the middle of the road exempt me from stopping for an oncoming school bus.",
+        "rightEn": "The exception in the source requires a median or barrier separating the roadways."
+      }
+    ]
+  },
+  {
+    "id": "L08",
+    "sections": [
+      {
+        "title": "Ai đi trước tại giao lộ?",
+        "blocks": [
+          {
+            "pdfPage": 18,
+            "heading": "Yielding the Right-of-Way",
+            "text": "Yield also means to stop if you cannot merge safely into the flow of traffic. Examples of yielding the right-of-way: \u0017 When vehicles from different directions arrive at an intersection at different times, the vehicle that arrives first goes first. \u0017 When vehicles from different directions arrive at the same time at an intersection with no signs or signals, the driver on the left must allow the driver on the right to go first. \u0017 If the traffic lights at an intersection are not working, all vehicles coming to the intersection must stop. The driver on the left must yield to the driver on the right. \u0017 Drivers entering an interstate from an entrance ramp must yield the right-of-way to traffic already on the highway. \u0017 Drivers entering any intersection or roundabout must yield to traffic already in it. \u0017 When entering a roadway from a private road or driveway, you must stop and yield to all traffic and pedestrians. \u0017 You must yield to pedestrians or bicyclists who are crossing a street within a clearly marked crosswalk or at an unmarked intersection. Remember that turns on red are especially hazardous to pedestrians. Avoid conflict with pedestrians and bicyclists; permit them to cross the street safely."
+          }
+        ]
+      },
+      {
+        "title": "Xe khẩn cấp đang tiến đến",
+        "blocks": [
+          {
+            "pdfPage": 18,
+            "heading": "Approaching Emergency Vehicles",
+            "text": "You may not park within 500 feet of where fire trucks or equipment are stopped answering an alarm. Approaching vehicles – same direction \u0017 Never follow an emergency vehicle closer than 500 feet when its lights are flashing. \u0017 When police, fire and rescue vehicles or ambulances approach you from behind your vehicle using a siren, flashing lights or both, you must immediately yield the right-of-way. Safely pull over to the right edge of the road and stop until the emergency vehicle has passed. Approaching vehicles – opposite direction \u0017 When emergency vehicles approach you in the opposite lane on an undivided highway, you must pull over to the edge of the road and stop until the emergency vehicle passes. These requirements do not apply in highway work zones."
+          }
+        ]
+      },
+      {
+        "title": "Xe dừng ven đường và đoàn xe",
+        "blocks": [
+          {
+            "pdfPage": 18,
+            "heading": "Stationary Vehicles",
+            "text": "When approaching a stationary emergency vehicle or tow truck with flashing lights on a highway, proceed with caution and, if reasonable, with due regard for safety and traffic conditions, change to a lane not next to the vehicle. If you are unable to safely change lanes, reduce your speed and proceed with caution. Violations can result in court suspension of your driver’s license and demerit points on your driving record."
+          },
+          {
+            "pdfPage": 18,
+            "heading": "Hazard Lights and Warnings",
+            "text": "When passing stationary vehicles that have activated vehicular hazard warning signal flashers, displayed caution signs, or been marked with properly lit flares or torches, you are required to make a lane change and proceed with caution."
+          },
+          {
+            "pdfPage": 18,
+            "heading": "Funeral Processions and Military Convoys",
+            "text": "You must yield to funeral processions. Do not cut through, join or interfere with a funeral procession. Unless led by a police escort, the lead vehicle in a funeral procession must obey all traffic signs and signals. Other drivers in the procession may follow carefully without stopping and may use hazard lights (flashers) to indicate they are in the procession. \u0017 You must yield to all military convoys. Never cut through or join a military convoy."
+          }
+        ]
+      },
+      {
+        "title": "Vào và ra vòng xuyến",
+        "blocks": [
+          {
+            "pdfPage": 18,
+            "heading": "Roundabouts",
+            "text": "Roundabouts are circular intersections with an island in the center and have one or more lanes. Entering traffic must yield the right-of-way to pedestrians, and to traffic already in the circle. Each road approaching the roundabout is marked with a yield sign and may also have yield line markings on the pavement. Drivers must pay attention and obey the signs. After entering the roundabout, drivers must travel in a counter-clockwise direction. When approaching a roundabout, slow down. Use your turn signals to indicate where you want to go. If you plan to turn right, stay to the right as you enter the roundabout. If you plan to go straight, you may stay in either lane (if it is a dual lane circular intersection). If you plan to turn left, stay to the left as you enter the roundabout."
+          },
+          {
+            "pdfPage": 19,
+            "heading": "Entering a Roundabout",
+            "text": "As you approach the roundabout, slow down; look for the street and direction signs. This will help you know which exit to take. These signs should be posted along the roadside before you reach the roundabout. \u0017 When you arrive at the roundabout, yield the right-of- way to pedestrians and bicyclists. You also must yield to any vehicles already in the roundabout. Sometimes your entry point will be controlled by a stop or yield sign, or traffic signal. When the way is clear, you may enter the roundabout."
+          },
+          {
+            "pdfPage": 19,
+            "heading": "Exiting and Changing Lanes",
+            "text": "While inside the roundabout, stay in your lane until you are ready to exit. Use your vehicle’s right turn signal to let drivers around you know what you want to do. \u0017 Do not change lanes or take an exit before checking for vehicles that may be continuing through the roundabout in the lane next to you or behind you. Expect vehicles to be in blind spots you cannot see in your rearview or side mirrors. Quickly glance over your shoulder and check for any vehicles that may be in your blind spot."
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "Right-of-way",
+        "exampleEn": "Sometimes you must wait for another vehicle or a pedestrian to pass before merging."
+      },
+      {
+        "en": "Roundabout",
+        "exampleEn": "Vehicles already in the circle have priority over vehicles entering it."
+      },
+      {
+        "en": "Stationary vehicle",
+        "exampleEn": "Passing an emergency vehicle stopped beside the road differs from yielding to an emergency vehicle approaching from behind."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "An entering vehicle goes first because vehicles in the circle must yield to the right.",
+        "rightEn": "Entering vehicles yield to vehicles already in the circle, pedestrians and bicyclists."
+      },
+      {
+        "wrongEn": "Using a turn signal lets me exit across the adjacent lane immediately.",
+        "rightEn": "Check vehicles in the adjacent lane, mirrors and blind spots before exiting or changing lanes."
+      }
+    ]
+  },
+  {
+    "id": "L09",
+    "sections": [
+      {
+        "title": "Đổi làn: gương, xi nhan, điểm mù",
+        "blocks": [
+          {
+            "pdfPage": 19,
+            "heading": "Changing Lanes",
+            "text": "Before changing lanes, check your side and rearview mirrors for traffic approaching you from behind. Then, use your turn signal to let other drivers know you plan to change lanes. Check for other drivers who also may be moving into the same lane. Just before you begin moving into the other lane, quickly glance over your shoulder and check for any vehicles that may be in your blind spot. Whether you are changing lanes, passing, entering or exiting a highway, always use your turn signals and check traffic to the rear and sides. When driving on a multi-lane highway, stay in the right lane if you are driving slower than the traffic around you. The left lane is for passing only. When passing, use the left lane and avoid cruising. The left lane is for passing only, not cruising."
+          }
+        ]
+      },
+      {
+        "title": "Vượt xe và trở lại làn",
+        "blocks": [
+          {
+            "pdfPage": 19,
+            "heading": "Passing",
+            "text": "When passing another vehicle: \u0017 check the traffic ahead of you, behind you and in your blind spot before you attempt to pass. Signal and then accelerate to pass. Return to the right lane as soon as you can see the front of the passed vehicle in your rearview mirror. \u0017 it is against the law to exceed the speed limit as you pass. \u0017 complete the pass before you reach a No Passing zone. If you’re still in the left lane when you reach the zone, you’re breaking the law. \u0017 you may pass on the right if the vehicle you are passing has signaled and is making a left turn. Be cautious because the vehicle you are passing may be blocking your view or blocking the view of other drivers. You may not pass on the right if you must drive off the pavement or main portion of the roadway to get around the other vehicle. \u0017 when approaching or passing a person riding a bicycle, moped, or power-assisted bicycle or other device, reduce speed and pass at least three feet to the left. When being passed, don’t speed up. Maintain a steady speed or slow down."
+          }
+        ]
+      },
+      {
+        "title": "Khi không vượt và khi xe lệch khỏi đường",
+        "blocks": [
+          {
+            "pdfPage": 19,
+            "heading": "Where Passing Is Unlawful",
+            "text": "Passing is unlawful and unsafe: \u0017 on hills, curves, at intersections or railroad crossings, except on roads with two or more lanes of traffic moving in the same direction \u0017 off the pavement or on the shoulder of the road"
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Crosswalks",
+            "text": "when approaching a crosswalk and the vehicle ahead of you or the lane next to you is stopped"
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Over-correcting",
+            "text": "Over-correcting occurs when the driver turns the steering wheel more sharply than expected, causing the rear wheels of the vehicle to slide toward the outside of the turn. This may result in the loss of vehicle control. Most over-correction crashes are single vehicle crashes and are often preventable. A driver should remain alert at all times. Reduce speed and use extra caution while driving on curved roads. If you veer off the road, curved or straight, do not panic. Gradually reduce your speed, look in the direction you want to go, slowly steer back onto the roadway."
+          }
+        ]
+      },
+      {
+        "title": "Rẽ phải và trái đúng làn",
+        "blocks": [
+          {
+            "pdfPage": 20,
+            "heading": "Right Turns",
+            "text": "To make a right turn you should be in the lane furthest to the right. Signal your intent to turn by using the proper turn signal. You should signal at least three or four seconds, 100 feet, ahead of the turn. Look to your left and right to check the intersection for pedestrians and traffic. Then brake smoothly before and during the turn. If there is a red traffic light or a stop sign at the intersection, come to a complete stop before you make the turn. Turn into the lane closest to the curb unless pavement markings lead you otherwise, and then change lanes if needed."
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Left Turns",
+            "text": "To make a left turn you should be in the furthest left lane possible, turning into the leftmost lane on the intersecting road, unless pavement markings lead you otherwise; or, unless multiple left turn lanes are provided. If multiple left turn lanes are provided, you should choose the lane that will best serve your need once you enter the intersecting road. Signal your intent to turn by using the proper turn signal. You should signal at least three to four seconds, 100 feet, ahead of the turn. Look in all directions, checking the intersection for pedestrians and traffic coming from the opposite direction. Keep your front wheels pointed straight ahead until you are actually going to make the left turn. This prevents you from being pushed into oncoming traffic if another vehicle crashes into you from behind. When the way is clear, make the left turn, yield to any vehicles (including bicycles and pedestrians) approaching from the opposite direction."
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Two Vehicles Turning Left",
+            "text": "When two vehicles are approaching each other and signaling to turn left, both vehicles should turn in front of each other so that the passenger sides of the vehicles are beside each other."
+          }
+        ]
+      },
+      {
+        "title": "Quay đầu và báo hiệu",
+        "blocks": [
+          {
+            "pdfPage": 20,
+            "heading": "U-Turns",
+            "text": "U-turns are not legal everywhere. Before you make a U-turn, check for No U-Turn or No Left Turn signs. In business districts, cities and towns, U-turns are allowed only at intersections. Never make a U-turn on a highway. When making a U-turn, turn on your left-turn signal, stop, and yield for approaching traffic. When the way is clear, proceed into the outside or right hand lane traveling in the opposite direction."
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Turn Signals",
+            "text": "When you plan to change lanes, turn, or enter or exit a highway, first give the proper turn signal. Using your turn signal, which is required by law, communicates your intended movement to drivers around you. Develop a good habit and use turn signals or hand signals even if no other traffic is on the road. When you plan to turn, signal three or four seconds, 100 feet, ahead of your turn. Be aware that drivers planning to turn into your lane may not know exactly where you will turn; drivers may pull out in front of you. Be alert. After you complete the turn or lane change, be sure the turn signal stops flashing."
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Right-Turn Hand Signal",
+            "text": "Right Turn Left hand and arm pointing upward"
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Slow or Stop Hand Signal",
+            "text": "Slow or Stop Left hand and arm pointing downward"
+          },
+          {
+            "pdfPage": 20,
+            "heading": "Left-Turn Hand Signal",
+            "text": "Left Turn Left hand and arm pointing straight out"
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "Blind spot",
+        "exampleEn": "A vehicle close beside you may not appear in your mirrors; glance over your shoulder before moving into another lane."
+      },
+      {
+        "en": "Over-correcting",
+        "exampleEn": "Jerking the steering wheel when a tire reaches the road edge can make the vehicle skid out of control."
+      },
+      {
+        "en": "Turn signal",
+        "exampleEn": "Tell others your intention before turning or changing lanes, then still check that there is room."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "Once I signal, other vehicles must yield so I can change lanes immediately.",
+        "rightEn": "Still check mirrors, other vehicles moving into the same lane and your blind spot before moving."
+      },
+      {
+        "wrongEn": "I can exceed the speed limit to pass quickly, then slow down.",
+        "rightEn": "The speed limit still applies throughout the pass."
+      },
+      {
+        "wrongEn": "While waiting to turn left, I should turn my wheels left in advance.",
+        "rightEn": "Keep the wheels straight to reduce the risk of being pushed into oncoming traffic if hit from behind."
+      }
+    ]
+  },
+  {
+    "id": "L10",
+    "sections": [
+      {
+        "title": "Tạo space cushion quanh xe",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Maintaining a Space Cushion",
+            "text": "Space around your vehicle gives you distance to react in emergencies and avoid a crash. Create a space cushion around your vehicle by staying in the middle of your lane. Make sure there is enough room ahead of your vehicle and behind it for other vehicles to pass or stop safely. Use the two-, three- and four-second rule to determine if you are following far enough behind the vehicle ahead of you."
+          }
+        ]
+      },
+      {
+        "title": "Quy tắc 2–3–4 giây trên mặt đường khô",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Following Distance on Dry Surfaces",
+            "text": "At these speeds and on dry surfaces, this distance, in seconds, allows the driver to steer and brake out of a problem area. 2 seconds Under 35 MPH 3 seconds 35-45 MPH 4 seconds 46-70 MPH * The space cushions above do not work if you’re speeding over 70."
+          },
+          {
+            "pdfPage": 21,
+            "heading": "Measuring Your Following Distance",
+            "text": "Here’s how the following distance rule works. \u0017 Glance at the vehicle ahead as it passes a fixed object, such as an overpass, sign, fence, corner or other fixed mark. \u0017 Begin counting the seconds it takes you to reach the same place in the road. \u0017 If you reach the mark before you have counted off two, three, or four seconds, depending on speed, you’re following too closely. Slow down and increase your following distance."
+          }
+        ]
+      },
+      {
+        "title": "Khi nào tăng thêm khoảng cách?",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Adjusting for Conditions",
+            "text": "For bad weather conditions, heavy traffic, poor pavement or if your vehicle is in poor condition, add extra seconds to increase your following distance. Drivers need to change following distance when speed or road conditions change. Hand response time is close to a half second. Foot response time is normally three-quarters of a second. This does not take into account any delay in perception time as a result of the driver being tired, on medication, distracted, etc. Road conditions, speed, driver alertness, and the weight of the vehicle you are driving all change the ability to stop. Increase your following distance when driving: \u0017 behind a large vehicle that blocks your vision \u0017 in bad weather or heavy traffic \u0017 when exiting an expressway \u0017 behind a motorcycle or bicycle \u0017 when being tailgated"
+          }
+        ]
+      },
+      {
+        "title": "Ứng xử khi bị tailgating",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Tailgating",
+            "text": "Tailgating is when one driver follows another too closely. If you find yourself in this situation, do not brake suddenly. If possible, move over to another lane, or gently tap your brakes to flash your brake lights and slow down. This should encourage the tailgater to pass you or slow down. Help the driver behind you by maintaining a safe following distance and a steady speed. Tap your brakes to warn the driver behind you when you plan to slow down or stop."
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "Space cushion",
+        "exampleEn": "Space in front, behind and on both sides leaves room to respond when other vehicles change position."
+      },
+      {
+        "en": "Following distance",
+        "exampleEn": "Measure the time between the vehicle ahead and your vehicle passing the same fixed point."
+      },
+      {
+        "en": "Tailgating",
+        "exampleEn": "A vehicle following too closely increases the need for smooth speed changes and more space ahead of your own vehicle."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "Use two seconds at every speed.",
+        "rightEn": "Distinguish under 35, 35–45 and 46–70 MPH; add space in poor conditions."
+      },
+      {
+        "wrongEn": "Braking hard will teach the tailgater to leave space.",
+        "rightEn": "Do not brake suddenly; remain calm and look for a safe way to let the vehicle pass."
+      }
+    ]
+  },
+  {
+    "id": "L11",
+    "sections": [
+      {
+        "title": "Nhìn xa và đọc dấu hiệu sớm",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Searching",
+            "text": "Searching means looking at the entire scene for anything that might come into your path. As you search the road, avoid staring at one thing. Keep your eyes moving and learn to read the road and your surroundings. Looking ahead will help you identify risks early and provide you with more time to react. Expert drivers try to focus their eyes 20 to 30 seconds ahead. In the city, that equals approximately one block. Avoid staring at the middle of the road. Scan from side to side, checking for traffic signs and signals, cars or people that might be in the road by the time you reach them. Search for clues on the road. Look for exhaust smoke, brake or back-up lights and turned wheels on vehicles. Clues like these warn that the vehicles may pull into your path. Watch for pedestrians, bicyclists and other slow moving vehicles that may be in the road ahead. When driving in rural areas, watch for hidden intersections and driveways, curves, hills and different road conditions. Watch for other vehicles, especially trucks, oversized and slow- moving farm vehicles, and bicycles."
+          }
+        ]
+      },
+      {
+        "title": "Trước giao lộ và kiểm tra phía sau",
+        "blocks": [
+          {
+            "pdfPage": 21,
+            "heading": "Looking Before an Intersection",
+            "text": "Check from left to right and then left again before entering an intersection. Whenever you reach a place in the road where other cars, people or animals may cross your path, look both ways to be sure it is clear. These include intersections, crosswalks, shopping centers, construction areas and playgrounds. At any intersection, look to the left first, since cars coming from the left will be closer to you. Then look to the right and take one more quick look to the left before you drive through."
+          },
+          {
+            "pdfPage": 21,
+            "heading": "Looking Behind",
+            "text": "Look behind. Use your rearview mirror to check the traffic behind you frequently, about every 10 seconds. This will alert you if someone is moving up too quickly or tailgating you. Check the traffic behind you when changing lanes, backing up, slowing down quickly or driving down a long, steep hill."
+          }
+        ]
+      },
+      {
+        "title": "Chỉnh gương và xác nhận điểm mù",
+        "blocks": [
+          {
+            "pdfPage": 22,
+            "heading": "Blind Spots",
+            "text": "Blind spots are danger areas where vehicles around you cannot be easily seen. Before driving, adjust your vehicle’s mirrors. Make sure the inside rear view mirror frames the entire back window. Adjust both side mirrors so you can barely see the sides of your vehicle. The best way to see a car in your blind spot is by quickly turning your head and glancing over your shoulder to ensure the way is clear before changing lanes or passing another vehicle. Avoid driving in someone else’s blind spot. This can be just as dangerous as not checking your own blind spot. Speed up or drop back; but, don’t stay in the other driver’s blind spot."
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "Searching",
+        "exampleEn": "Look for signs that a vehicle may reverse or a person may cross, rather than watching only the vehicle immediately ahead."
+      },
+      {
+        "en": "Rearview mirror",
+        "exampleEn": "Check frequently to notice a vehicle approaching quickly or following too closely."
+      },
+      {
+        "en": "Blind spot",
+        "exampleEn": "Glance over your shoulder for a vehicle beside you before changing lanes."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "Once the mirrors are adjusted, I can see everything around the vehicle.",
+        "rightEn": "Mirrors still have blind spots; glance over your shoulder before changing lanes or passing."
+      },
+      {
+        "wrongEn": "I only need to worry about my own blind spots.",
+        "rightEn": "Avoid remaining in another driver’s blind spot, because that driver may not know you are there."
+      }
+    ]
+  },
+  {
+    "id": "L12",
+    "sections": [
+      {
+        "title": "Người đi bộ và xe đạp",
+        "blocks": [
+          {
+            "pdfPage": 22,
+            "heading": "Pedestrians",
+            "text": "Pedestrians are especially prone to serious injury when struck. \u0017 Be careful around schools, playgrounds and in residential areas where people may be playing or crossing the street. \u0017 Be especially aware of pedestrians when making a right or left turn. They have the right-of-way. Allow pedestrians to completely cross the street before beginning your turn. \u0017 Passing at a crosswalk is illegal. You may not see pedestrians crossing the road in front of other vehicles. \u0017 Be alert for pedestrians crossing the road. Stop and remain stopped until pedestrians have passed the lane in which your vehicle is stopped. \u0017 Drivers are required to come to a full stop for a pedestrian using a cane or guide dog, as this indicates blindness or vision impairment. Remember that the elderly and people with disabilities may move slowly. \u0017 Drivers are required to come to a full stop for pedestrians who are lawfully crossing a roadway. Failing to stop and causing serious bodily damage or death can result in a Class 1 misdemeanor."
+          },
+          {
+            "pdfPage": 22,
+            "heading": "Bicycles",
+            "text": "Bicycles: Bicyclists on a roadway generally has the same right-of-way as the driver of a motor vehicle. Bicyclists are allowed to ride in the center of the lane, when necessary, such as when they are about to turn left or when the 20 | VIRGINIA DRIVER’S MANUAL Section 3: Safe Driving lane is too narrow to share side-by-side with a car. Bicyclists are legally allowed on all public roads except interstates and most freeways (limited access highways). Drivers should be aware of bicyclists riding in either direction on sidewalks, shared-use paths, or two-way separated bike lanes. Bicyclists are subject to many of the same laws as drivers, however, some may not know or obey the rules. Slow down when you approach bicyclists. Using marked bicycle lanes is prohibited by motor vehicles, including while passing. State law requires motorists to pass cyclists with at least three feet of clearance. If the lane is not wide enough to allow for a three- foot clearance, the motorist must change lanes to pass safely. Give bicyclists plenty of room when passing and be prepared to stop suddenly. Check your blind spots. A bicycle’s small size allows it to slip into your blind spot easily. Always check for bicyclists before you pull out, change lanes, turn, back up, open the door, or proceed through an intersection."
+          }
+        ]
+      },
+      {
+        "title": "Mô tô cần trọn làn",
+        "blocks": [
+          {
+            "pdfPage": 22,
+            "heading": "Motorcycles",
+            "text": "Motorcycles: More than half of all fatal motorcycle crashes involve automobiles. Many crashes are caused by the motorist’s failure to see a motorcycle in traffic. \u0017 Look twice for motorcyclists. In more than half of all crashes involving motorcycles and automobiles, the other driver didn’t see the motorcycle until it was too late. Drivers are conditioned to look for four-wheeled vehicles; but they don’t expect to see two-wheeled vehicles. A motorcycle’s size also makes it difficult to see. \u0017 Check your blind spots. A motorcycle’s size allows it to slip into your blind spot easily. Always check for motorcycles before you pull out, change lanes, turn, back up or proceed through an intersection. \u0017 Never tailgate a motorcycle (or any other vehicle). Allow yourself plenty of braking distance by adding an extra second to the following distance rule. In inclement weather, double this distance. \u0017 Anticipate the motorcyclist’s movements. Although a motorcycle is not as wide as the lane, the rider will use the entire lane as traffic situations and road conditions change. A slight change or debris on the road surface can be a major obstacle for a motorcyclist. Expect the motorcycle to make sudden moves within the lane. Never drive beside a motorcycle in the same lane. \u0017 Yield to motorcycles. The size of a motorcycle can cause you to misjudge the motorcycle’s speed and distance. Before pulling out into traffic, check twice for motorcycles and use extra caution before you pull out in front of one."
+          }
+        ]
+      },
+      {
+        "title": "No-Zones của xe tải, xe buýt và RV",
+        "blocks": [
+          {
+            "pdfPage": 23,
+            "heading": "No-Zones",
+            "text": "Trucks, Tractor-Trailers, Buses and RVs: Trucks, tractor- trailers, buses and recreational vehicles (RVs) – including motor homes, campers and travel trailers – are longer, higher and wider than other vehicles. They accelerate slowly and require greater stopping and turning distances. Plus, there are danger areas around these vehicles where crashes are more likely to occur. These areas are called No-Zones. No-Zones on the side, front and rear also include blind spots where your car disappears from the driver’s view. Learning the No-Zones can save your life. \u0017 Side No-Zones: Trucks, tractor-trailers, buses and RVs have big No-Zones on both sides that are dangerous because these vehicles must make wide turns. These No-Zones or blind spots are much larger than your car’s blind spots. If you can’t see the driver’s face in his side view mirror, then he can’t see you. \u0017 Rear No-Zone: Trucks, tractor- trailers, buses and RVs have huge No-Zones directly behind them. The driver can’t see your car behind his vehicle and you can’t see what’s happening in traffic ahead of his vehicle. If the truck, bus or RV brakes or stops suddenly, you have no place to go and could crash into the vehicle’s rear-end. Always maintain a safe following distance. \u0017 Front No-Zone: You could get rear-ended by a truck, bus or RV if you cut in front too soon after passing the vehicle or if you cut in front and then suddenly slow down. The truck, bus and RV drivers would be forced to slam on their brakes. These vehicles need nearly twice the time and room to stop as cars. A truck and its trailer may be as long as 65 feet and it may take you more than half a mile of clear road to pass. When passing, look for the entire front of the truck in your rearview mirror before pulling in front. And then, maintain your speed. \u0017 Wide Turns: Trucks, buses and RVs sometimes need to swing wide to the left or right to safely make a turn. They can’t see the cars directly behind or beside them. In fact, their blind spots may stretch up to 20 feet in front of the cab and approximately 200 feet behind the vehicle. Never try to squeeze between a truck, bus or RV and the curb or another vehicle."
+          }
+        ]
+      },
+      {
+        "title": "Tàu điện và xe tốc độ thấp",
+        "blocks": [
+          {
+            "pdfPage": 23,
+            "heading": "Light Rail",
+            "text": "Stay safe when driving around The Tide by obeying the tips below. \u0017 Pay attention to changing traffic patterns and always follow the roadway. \u0017 Never drive around lowered crossing gates. \u0017 Always look both ways before turning across train tracks. \u0017 Expect trains on any track at any time. \u0017 Always obey signs and traffic signals. \u0017 Never stop, pass or shift on train tracks. \u0017 Don’t cross train tracks unless you have enough room to cross without stopping and can clear the tracks to a safe distance."
+          },
+          {
+            "pdfPage": 23,
+            "heading": "Low Speed Vehicles",
+            "text": "Low Speed Vehicles: These electrically- or gas-powered four-wheel vehicles have a maximum speed ranging from 21 to 25 MPH. Low speed vehicles may be operated on public roads with speed limits of 35 MPH or less by licensed drivers or learner’s permit holders accompanied by a licensed driver. Low speed vehicles must comply with all federal safety standards and must meet Virginia’s requirements for passenger vehicle registration and insurance coverage. Golf carts are not classified as low speed vehicles."
+          }
+        ]
+      },
+      {
+        "title": "Kéo trailer",
+        "blocks": [
+          {
+            "pdfPage": 23,
+            "heading": "Light to Medium Trailers",
+            "text": "Light to Medium Trailers: These trailers are attached to mid-sized cars and trucks with safety chains and a trailer hitch. Large side mirrors are generally needed to increase visibility. Towing a trailer places additional stress on the vehicle; it takes the vehicle twice as long to pass, stop, accelerate and turn. Remember the No-Zones described under Trucks, Tractor-Trailers and RVs. Before driving a vehicle with a light to medium trailer attached, perform a safety inspection before each trip. Ensure: \u0017 the pin securing the ball mount to the receiver is intact \u0017 the hitch coupler is secured \u0017 safety chains are properly attached \u0017 the electrical plug is properly installed \u0017 brake lights, turn signals, and license plate lights are functioning properly. Before pulling a trailer on public roads, find a location such as a vacant parking lot to practice and get the feel for how your vehicle and trailer will handle. When driving a vehicle with a light to medium trailer attached: \u0017 always allow for the added length of the trailer when you change lanes \u0017 if your trailer starts to sway, slow down \u0017 when backing up, place your hand on the bottom of the steering wheel. If you cannot see where you are backing up, have someone outside to help guide you. To back the trailer to the left, use your left hand to move the wheel left. To back the trailer to the right, use your right hand to move the wheel to the right."
+          }
+        ]
+      }
+    ],
+    "terms": [
+      {
+        "en": "No-Zone",
+        "exampleEn": "A vehicle close beside or behind a truck can disappear from the truck driver’s view."
+      },
+      {
+        "en": "Clearance",
+        "exampleEn": "Passing a bicyclist requires at least three feet of sideways clearance, not only room ahead."
+      },
+      {
+        "en": "Wide turn",
+        "exampleEn": "A bus may swing wide to turn; do not squeeze into the gap between the bus and the curb."
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrongEn": "If I can see the truck, its driver can definitely see me.",
+        "rightEn": "Check whether you can see the driver’s face in the side mirror, and avoid No-Zones."
+      },
+      {
+        "wrongEn": "Passing the cab is enough to pull back immediately in front of a truck.",
+        "rightEn": "Wait until you can see the entire front of the truck in your rearview mirror, then maintain speed after pulling in."
+      }
+    ]
+  }
+]

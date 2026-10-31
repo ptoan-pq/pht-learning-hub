@@ -1,0 +1,587 @@
+[
+  {
+    "id": "L07",
+    "sections": [
+      {
+        "title": "Tư thế và vị trí tay",
+        "blocks": [
+          {
+            "headingEn": "Hand Position",
+            "headingVi": "Vị trí đặt tay trên vô-lăng",
+            "paragraphs": [
+              "Ngồi thẳng nhưng giữ cơ thể thư giãn và đặt hai tay lên vô-lăng. Nếu xem vô-lăng như mặt đồng hồ, hai tay nên ở vị trí 8 giờ và 4 giờ. Cầm vô-lăng bằng các ngón tay, kể cả ngón cái; tránh nắm bằng lòng bàn tay."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Giới hạn tốc độ và điều kiện thực tế",
+        "blocks": [
+          {
+            "headingEn": "Speed Limits",
+            "headingVi": "Giới hạn tốc độ",
+            "paragraphs": [
+              "Giới hạn tốc độ (speed limit) là tốc độ hợp pháp tối đa bạn được chạy trên một con đường trong điều kiện lý tưởng. Bạn được chạy chậm hơn giới hạn, miễn là không cản trở dòng giao thông đang lưu thông bình thường; chạy nhanh hơn giới hạn là trái luật.",
+              "Theo luật, bạn phải chạy chậm hơn khi biển báo cho biết giới hạn tốc độ khu trường học hoặc khu thi công đang có hiệu lực, và/hoặc khi các điều kiện như thi công đường hay thời tiết xấu khiến tốc độ ghi trên biển trở nên không an toàn.",
+              "Theo luật Virginia, nếu bạn chạy vượt giới hạn từ 20 dặm mỗi giờ (MPH) trở lên, hoặc chạy trên 85 MPH, cảnh sát có thể cáo buộc bạn lái xe liều lĩnh (reckless driving), bất kể giới hạn tốc độ tại đó là bao nhiêu. Nếu bị kết tội reckless driving, đây được coi là một tội nhẹ (misdemeanor) thuộc luật hình sự. Tòa có thể phạt tiền, tạm đình chỉ quyền lái xe và/hoặc tuyên án tù. Nếu vi phạm gây chết người và tại thời điểm vi phạm bằng lái của người điều khiển đang bị đình chỉ hoặc thu hồi, hành vi có thể được coi là trọng tội (felony), với hậu quả nghiêm trọng hơn.",
+              "Nếu bị kết tội chạy từ 81 đến 85 MPH trong khu vực giới hạn 65 MPH, bạn còn phải chịu khoản phạt bổ sung $100. Sử dụng thiết bị dò radar (radar detector) tại Virginia là trái luật."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Khi không có biển giới hạn khác",
+        "blocks": [
+          {
+            "headingEn": "Default Speed Limits",
+            "headingVi": "Giới hạn tốc độ khi không có biển quy định khác",
+            "paragraphs": [
+              "Trừ khi có biển ghi giới hạn khác, tốc độ tối đa đối với ô tô chở người và mô tô là 25 MPH ở khu trường học, khu kinh doanh và khu dân cư; 35 MPH trên đường chưa được trải mặt; và 55 MPH trên tất cả các đường khác.",
+              "Một số khu trường học có thể sử dụng hệ thống tự động chụp ảnh để xử lý vi phạm tốc độ. Những nơi này có biển ghi “Speed Photo Enforced” hoặc thông điệp tương tự, nghĩa là tốc độ được giám sát và xử lý bằng hình ảnh."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Những nơi mỗi xe phải tự dừng",
+        "blocks": [
+          {
+            "headingEn": "Stopping",
+            "headingVi": "Những trường hợp phải dừng xe",
+            "paragraphs": [
+              "Bạn luôn phải dừng xe trong các trường hợp sau:",
+              "• Tại mọi biển STOP, đèn đỏ và tín hiệu đỏ nhấp nháy.",
+              "• Khi đi vào một đường phố hoặc băng qua vỉa hè từ đường xe ra vào nhà, ngõ, tòa nhà hoặc bãi đỗ xe.",
+              "• Tại chỗ giao cắt đường sắt có tín hiệu nhấp nháy.",
+              "• Khi người điều tiết giao thông tại công trường (flagger) ra hiệu dừng.",
+              "• Khi người đi bộ đang định qua đường tại lối qua đường cho người đi bộ.",
+              "• Khi cảnh sát yêu cầu dừng. Nếu bạn không chấp hành hiệu lệnh dừng, cảnh sát truy đuổi bạn và người cảnh sát đó thiệt mạng do hậu quả trực tiếp của cuộc truy đuổi, bạn sẽ phạm trọng tội cấp 4 (Class 4 felony).",
+              "• Tại hiện trường vụ va chạm mà bạn có liên quan.",
+              "Khi đến biển STOP, dù xe phía trước vừa đi tiếp, bạn vẫn phải dừng tại biển rồi chỉ đi khi đường đã thông thoáng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Dừng cho xe buýt trường học",
+        "blocks": [
+          {
+            "headingEn": "Stopping for School Buses",
+            "headingVi": "Dừng khi gặp xe buýt trường học",
+            "paragraphs": [
+              "Khi đến từ bất kỳ hướng nào trên đường bộ, đường tư nhân hoặc lối xe ra vào trường học, bạn phải dừng trước xe buýt trường học đang dừng, bật đèn đỏ nhấp nháy và đưa biển STOP ra. Phải tiếp tục dừng cho đến khi tất cả mọi người đã ra khỏi phần đường xe chạy và xe buýt di chuyển trở lại.",
+              "Bạn cũng phải dừng nếu xe buýt đang đón hoặc trả hành khách dù các tín hiệu của xe buýt không bật.",
+              "Bạn không phải dừng nếu đang đi ngược chiều trên đường có dải phân cách hoặc rào chắn chia tách hai chiều, và xe buýt nằm ở phía bên kia dải phân cách hoặc rào chắn. Tuy vậy, vẫn phải sẵn sàng ứng phó với những hành động bất ngờ của người xuống xe buýt."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Quãng dừng và phanh ABS",
+        "blocks": [
+          {
+            "headingEn": "Stopping Distance",
+            "headingVi": "Quãng đường dừng xe",
+            "paragraphs": [
+              "Có ba yếu tố quyết định xe cần bao xa để dừng: thời gian nhận biết nguy cơ (perception time), quãng đường phản ứng (reaction distance) và quãng đường phanh (braking distance).",
+              "Thời gian nhận biết là khoảng thời gian bạn cần để nhận ra một mối nguy. Quãng đường phản ứng là quãng xe đi được từ khi bạn nhận ra vấn đề đến khi bạn đạp phanh. Quãng đường phanh là quãng xe tiếp tục đi sau khi bạn đạp phanh.",
+              "Thời gian nhận biết, quãng đường phản ứng và quãng đường phanh đều chịu ảnh hưởng của thời tiết, tầm nhìn, tình trạng tinh thần và thể chất của bạn. Quãng đường phanh còn chịu ảnh hưởng của tốc độ xe, tình trạng phanh và lốp, cùng tình trạng mặt đường. Ví dụ, mặt đường ướt có thể làm quãng đường phanh tăng gấp đôi."
+            ]
+          },
+          {
+            "headingEn": "Antilock Brakes",
+            "headingVi": "Phanh chống bó cứng",
+            "paragraphs": [
+              "Nếu xe có phanh chống bó cứng (antilock brakes, thường gọi là ABS), hãy bảo đảm bạn hiểu hệ thống hoạt động như thế nào. Đọc sổ hướng dẫn của xe và luyện phanh trước khi lái ra đường. Hãy nhớ: không bao giờ đạp nhả phanh chống bó cứng liên tục theo kiểu bơm phanh."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L08",
+    "sections": [
+      {
+        "title": "Ai đi trước tại giao lộ?",
+        "blocks": [
+          {
+            "headingEn": "Yielding the Right-of-Way",
+            "headingVi": "Nhường quyền đi trước",
+            "paragraphs": [
+              "Nhường đường cũng có nghĩa là phải dừng nếu bạn không thể nhập vào dòng xe một cách an toàn. Sau đây là các trường hợp phải nhường quyền đi trước:",
+              "• Khi các xe từ những hướng khác nhau đến giao lộ vào những thời điểm khác nhau, xe đến trước đi trước.",
+              "• Khi các xe từ những hướng khác nhau đến cùng lúc tại giao lộ không có biển hoặc đèn tín hiệu, người lái xe bên trái phải để người lái xe bên phải đi trước.",
+              "• Nếu đèn tín hiệu ở giao lộ không hoạt động, mọi xe đến giao lộ đều phải dừng. Người lái xe bên trái phải nhường người lái xe bên phải.",
+              "• Người lái xe nhập vào đường cao tốc liên bang (interstate) từ đường dẫn vào phải nhường các xe đang chạy trên đường đó.",
+              "• Người lái xe đi vào bất kỳ giao lộ hoặc vòng xuyến nào phải nhường các xe đã ở trong đó.",
+              "• Khi đi vào phần đường xe chạy từ một đường tư nhân hoặc lối xe ra vào nhà, bạn phải dừng và nhường mọi xe cùng người đi bộ.",
+              "• Bạn phải nhường người đi bộ hoặc người đi xe đạp đang qua đường trong một lối qua đường được đánh dấu rõ, hoặc tại một giao lộ không có vạch đánh dấu. Hãy nhớ rằng rẽ khi đèn đỏ đặc biệt nguy hiểm đối với người đi bộ. Tránh xung đột với người đi bộ và người đi xe đạp; để họ qua đường an toàn."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Xe khẩn cấp đang tiến đến",
+        "blocks": [
+          {
+            "headingEn": "Approaching Emergency Vehicles",
+            "headingVi": "Khi xe khẩn cấp đang tiến đến",
+            "paragraphs": [
+              "Bạn không được đỗ trong phạm vi 500 feet tính từ nơi xe cứu hỏa hoặc thiết bị chữa cháy đang dừng để xử lý một báo động.",
+              "Xe khẩn cấp tiến đến cùng chiều:",
+              "• Không bao giờ đi theo xe khẩn cấp ở khoảng cách dưới 500 feet khi đèn của xe đó đang nhấp nháy.",
+              "• Khi xe cảnh sát, cứu hỏa, cứu hộ hoặc xe cứu thương đến từ phía sau xe bạn và sử dụng còi hú, đèn nhấp nháy hoặc cả hai, bạn phải nhường quyền đi trước ngay. Tấp vào mép phải của đường một cách an toàn và dừng cho đến khi xe khẩn cấp đã đi qua.",
+              "Xe khẩn cấp tiến đến từ chiều ngược lại:",
+              "• Khi xe khẩn cấp đến từ làn ngược chiều trên đường không có dải phân cách, bạn phải tấp vào mép đường và dừng cho đến khi xe khẩn cấp đi qua.",
+              "Những yêu cầu này không áp dụng trong các khu vực thi công trên đường bộ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Xe dừng ven đường và đoàn xe",
+        "blocks": [
+          {
+            "headingEn": "Stationary Vehicles",
+            "headingVi": "Xe đang đứng yên",
+            "paragraphs": [
+              "Khi đến gần một xe khẩn cấp hoặc xe kéo đang đứng yên trên đường bộ và bật đèn nhấp nháy, hãy đi thận trọng. Nếu việc đổi làn là hợp lý sau khi cân nhắc đầy đủ sự an toàn và tình hình giao thông, hãy chuyển sang làn không nằm sát xe đó. Nếu không thể đổi làn an toàn, hãy giảm tốc và đi thận trọng.",
+              "Vi phạm có thể khiến tòa đình chỉ bằng lái của bạn và ghi điểm trừ vào hồ sơ lái xe."
+            ]
+          },
+          {
+            "headingEn": "Hazard Lights and Warnings",
+            "headingVi": "Đèn cảnh báo nguy hiểm và các dấu cảnh báo",
+            "paragraphs": [
+              "Khi đi qua những xe đang đứng yên có bật đèn cảnh báo nguy hiểm nhấp nháy, đặt biển cảnh báo hoặc được đánh dấu bằng pháo sáng hay đuốc đã được thắp đúng cách, bạn phải đổi làn và đi thận trọng."
+            ]
+          },
+          {
+            "headingEn": "Funeral Processions and Military Convoys",
+            "headingVi": "Đoàn xe tang và đoàn xe quân sự",
+            "paragraphs": [
+              "Bạn phải nhường đoàn xe tang. Không được cắt ngang, nhập vào hoặc cản trở đoàn xe tang. Trừ khi có cảnh sát hộ tống dẫn đầu, xe đi đầu đoàn xe tang phải tuân theo mọi biển và đèn tín hiệu. Những người lái xe khác trong đoàn được phép thận trọng đi theo mà không dừng và có thể bật đèn cảnh báo nguy hiểm nhấp nháy để cho biết xe mình thuộc đoàn xe tang.",
+              "Bạn phải nhường mọi đoàn xe quân sự. Không bao giờ cắt ngang hoặc nhập vào một đoàn xe quân sự."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vào và ra vòng xuyến",
+        "blocks": [
+          {
+            "headingEn": "Roundabouts",
+            "headingVi": "Vòng xuyến",
+            "paragraphs": [
+              "Vòng xuyến (roundabout) là giao lộ hình tròn, có đảo ở giữa và một hoặc nhiều làn xe. Xe đi vào phải nhường quyền đi trước cho người đi bộ và các xe đã ở trong vòng. Mỗi đường dẫn đến vòng xuyến có biển YIELD và cũng có thể có vạch nhường đường trên mặt đường. Người lái phải chú ý và tuân theo biển. Sau khi vào vòng xuyến, phải đi theo chiều ngược kim đồng hồ.",
+              "Khi đến gần vòng xuyến, hãy giảm tốc. Dùng đèn xi nhan để cho biết bạn muốn đi đâu. Nếu định rẽ phải, hãy ở phía phải khi vào vòng. Nếu định đi thẳng, bạn có thể ở một trong hai làn nếu vòng xuyến có hai làn. Nếu định rẽ trái, hãy ở phía trái khi vào vòng."
+            ]
+          },
+          {
+            "headingEn": "Entering a Roundabout",
+            "headingVi": "Đi vào vòng xuyến",
+            "paragraphs": [
+              "Khi đến gần vòng xuyến, hãy giảm tốc và tìm biển tên đường cùng biển chỉ hướng. Những biển này giúp bạn biết cần ra ở lối nào và nên được đặt bên đường trước khi bạn tới vòng xuyến.",
+              "Khi đến vòng xuyến, hãy nhường quyền đi trước cho người đi bộ và người đi xe đạp. Bạn cũng phải nhường mọi xe đã ở trong vòng. Đôi khi lối vào của bạn được điều khiển bằng biển STOP, biển YIELD hoặc đèn tín hiệu. Khi đường thông thoáng, bạn được đi vào vòng xuyến."
+            ]
+          },
+          {
+            "headingEn": "Exiting and Changing Lanes",
+            "headingVi": "Ra khỏi vòng xuyến và đổi làn",
+            "paragraphs": [
+              "Khi ở trong vòng xuyến, hãy giữ nguyên làn cho đến lúc sẵn sàng ra. Dùng đèn xi nhan phải để báo cho các tài xế xung quanh biết bạn muốn làm gì.",
+              "Không đổi làn hoặc đi ra một lối ra trước khi kiểm tra xem có xe nào đang tiếp tục đi trong vòng ở làn bên cạnh hoặc phía sau bạn hay không. Hãy dự liệu rằng xe có thể nằm trong điểm mù mà bạn không nhìn thấy qua gương chiếu hậu giữa hoặc gương bên. Liếc nhanh qua vai để kiểm tra có xe trong điểm mù hay không."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L09",
+    "sections": [
+      {
+        "title": "Đổi làn: gương, xi nhan, điểm mù",
+        "blocks": [
+          {
+            "headingEn": "Changing Lanes",
+            "headingVi": "Đổi làn",
+            "paragraphs": [
+              "Trước khi đổi làn, hãy kiểm tra gương bên và gương chiếu hậu giữa để xem có xe nào đang đến từ phía sau. Sau đó bật xi nhan để cho các tài xế khác biết bạn định đổi làn. Kiểm tra cả những tài xế khác có thể cũng đang chuyển vào cùng làn đó. Ngay trước khi bắt đầu chuyển sang làn bên cạnh, liếc nhanh qua vai để kiểm tra có xe nằm trong điểm mù hay không.",
+              "Dù đang đổi làn, vượt xe, đi vào hay ra khỏi một đường bộ, hãy luôn bật xi nhan và kiểm tra xe ở phía sau cùng hai bên. Khi lái trên đường nhiều làn, hãy ở làn phải nếu bạn chạy chậm hơn các xe xung quanh. Làn trái chỉ dành cho việc vượt xe.",
+              "Khi vượt, hãy dùng làn trái và tránh chạy liên tục trong làn này. Làn trái chỉ để vượt, không phải để chạy duy trì trong đó."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vượt xe và trở lại làn",
+        "blocks": [
+          {
+            "headingEn": "Passing",
+            "headingVi": "Vượt xe",
+            "paragraphs": [
+              "Khi vượt một xe khác:",
+              "• Trước khi định vượt, kiểm tra xe phía trước, phía sau và trong điểm mù. Báo hiệu, rồi tăng tốc để vượt. Trở về làn phải ngay khi bạn nhìn thấy phần đầu xe vừa vượt trong gương chiếu hậu giữa.",
+              "• Vượt giới hạn tốc độ trong lúc vượt xe là trái luật.",
+              "• Hoàn tất việc vượt trước khi tới khu vực cấm vượt (No Passing). Nếu vẫn còn ở làn trái khi đến khu vực này, bạn đang vi phạm luật.",
+              "• Bạn được vượt bên phải nếu xe định vượt đã báo hiệu và đang rẽ trái. Hãy thận trọng vì xe đó có thể che tầm nhìn của bạn hoặc che tầm nhìn của các tài xế khác. Bạn không được vượt bên phải nếu phải đi ra ngoài phần đường được trải mặt hoặc ngoài phần đường xe chạy chính để vòng qua xe kia.",
+              "• Khi đến gần hoặc vượt một người đang đi xe đạp, moped, xe đạp có trợ lực hoặc thiết bị khác, hãy giảm tốc và vượt về bên trái, cách người đó ít nhất 3 feet.",
+              "Khi có xe đang vượt bạn, đừng tăng tốc. Giữ tốc độ ổn định hoặc giảm tốc."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Khi không vượt và khi xe lệch khỏi đường",
+        "blocks": [
+          {
+            "headingEn": "Where Passing Is Unlawful",
+            "headingVi": "Những nơi vượt xe là trái luật",
+            "paragraphs": [
+              "Vượt xe là trái luật và không an toàn trong các trường hợp sau:",
+              "• Trên dốc, ở khúc cua, tại giao lộ hoặc chỗ giao cắt đường sắt; ngoại trừ trên đường có từ hai làn xe cùng chiều trở lên.",
+              "• Ở ngoài phần đường được trải mặt hoặc trên lề đường."
+            ]
+          },
+          {
+            "headingEn": "Crosswalks",
+            "headingVi": "Khi đến gần lối qua đường cho người đi bộ",
+            "paragraphs": [
+              "Không vượt khi đang đến gần một lối qua đường cho người đi bộ và xe phía trước bạn hoặc xe trong làn bên cạnh đang dừng."
+            ]
+          },
+          {
+            "headingEn": "Over-correcting",
+            "headingVi": "Đánh lái sửa hướng quá mức",
+            "paragraphs": [
+              "Đánh lái sửa hướng quá mức (over-correcting) xảy ra khi người lái xoay vô-lăng gấp hơn dự kiến, khiến các bánh sau trượt ra phía ngoài hướng rẽ. Việc này có thể làm mất kiểm soát xe. Phần lớn va chạm do sửa lái quá mức chỉ liên quan đến một xe và thường có thể phòng tránh.",
+              "Người lái nên luôn tỉnh táo. Giảm tốc và đặc biệt thận trọng khi đi trên đường cong. Nếu xe lệch ra khỏi đường, dù đoạn đường đang cong hay thẳng, đừng hoảng. Từ từ giảm tốc, nhìn về hướng bạn muốn đi, rồi nhẹ nhàng đánh lái đưa xe trở lại phần đường xe chạy."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rẽ phải và trái đúng làn",
+        "blocks": [
+          {
+            "headingEn": "Right Turns",
+            "headingVi": "Rẽ phải",
+            "paragraphs": [
+              "Để rẽ phải, bạn nên ở làn ngoài cùng bên phải. Dùng đèn xi nhan phù hợp để báo ý định rẽ. Bạn nên báo hiệu trước khi rẽ ít nhất 3 hoặc 4 giây, cách chỗ rẽ 100 feet. Nhìn trái và phải để kiểm tra người đi bộ cùng các xe trong giao lộ. Sau đó phanh êm trước và trong lúc rẽ.",
+              "Nếu giao lộ có đèn đỏ hoặc biển STOP, hãy dừng hẳn trước khi rẽ. Rẽ vào làn gần bó vỉa nhất, trừ khi vạch mặt đường dẫn bạn theo cách khác; sau đó đổi làn nếu cần."
+            ]
+          },
+          {
+            "headingEn": "Left Turns",
+            "headingVi": "Rẽ trái",
+            "paragraphs": [
+              "Để rẽ trái, bạn nên ở làn xa nhất về bên trái mà có thể sử dụng, rồi rẽ vào làn ngoài cùng bên trái của đường giao cắt; trừ khi vạch mặt đường chỉ dẫn khác hoặc có nhiều làn cùng cho phép rẽ trái. Nếu có nhiều làn rẽ trái, bạn nên chọn làn phù hợp nhất với nhu cầu sau khi đi vào đường giao cắt.",
+              "Dùng đèn xi nhan phù hợp để báo ý định rẽ. Bạn nên báo hiệu trước khi rẽ ít nhất từ 3 đến 4 giây, cách chỗ rẽ 100 feet. Nhìn mọi hướng, kiểm tra người đi bộ trong giao lộ và xe từ chiều ngược lại.",
+              "Giữ các bánh trước hướng thẳng cho đến khi thực sự bắt đầu rẽ trái. Như vậy, nếu một xe khác đâm từ phía sau, xe bạn sẽ không bị đẩy vào dòng xe ngược chiều.",
+              "Khi đường thông thoáng, thực hiện rẽ trái và nhường mọi xe, kể cả xe đạp, cùng người đi bộ đang đến từ chiều ngược lại."
+            ]
+          },
+          {
+            "headingEn": "Two Vehicles Turning Left",
+            "headingVi": "Hai xe đối diện cùng rẽ trái",
+            "paragraphs": [
+              "Khi hai xe đi về phía nhau và đều báo hiệu rẽ trái, cả hai xe nên rẽ cắt qua phía trước nhau, sao cho hai bên ghế hành khách của hai xe nằm cạnh nhau."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Quay đầu và báo hiệu",
+        "blocks": [
+          {
+            "headingEn": "U-Turns",
+            "headingVi": "Quay đầu xe",
+            "paragraphs": [
+              "Không phải nơi nào cũng được phép quay đầu. Trước khi quay đầu, hãy kiểm tra biển No U-Turn (cấm quay đầu) hoặc No Left Turn (cấm rẽ trái). Trong các khu kinh doanh, thành phố và thị trấn, chỉ được quay đầu tại giao lộ. Không bao giờ quay đầu trên đường bộ (highway).",
+              "Khi quay đầu, bật xi nhan trái, dừng và nhường xe đang đến. Khi đường thông thoáng, đi vào làn ngoài cùng hoặc làn bên phải của chiều lưu thông ngược lại."
+            ]
+          },
+          {
+            "headingEn": "Turn Signals",
+            "headingVi": "Đèn xi nhan và tín hiệu báo hướng",
+            "paragraphs": [
+              "Khi định đổi làn, rẽ, đi vào hoặc ra khỏi một đường bộ, trước hết hãy bật xi nhan phù hợp. Việc dùng xi nhan là yêu cầu của luật và cho các tài xế xung quanh biết bạn dự định di chuyển như thế nào. Hãy tạo thói quen tốt: dùng xi nhan hoặc tín hiệu bằng tay ngay cả khi trên đường không có xe khác.",
+              "Khi định rẽ, báo hiệu trước khi rẽ 3 hoặc 4 giây, cách chỗ rẽ 100 feet. Lưu ý rằng tài xế đang định rẽ vào làn bạn có thể không biết chính xác bạn sẽ rẽ ở đâu; họ có thể cho xe đi ra trước mặt bạn. Hãy cảnh giác. Sau khi rẽ hoặc đổi làn xong, bảo đảm đèn xi nhan đã ngừng nhấp nháy."
+            ]
+          },
+          {
+            "headingEn": "Right-Turn Hand Signal",
+            "headingVi": "Báo rẽ phải bằng tay",
+            "paragraphs": [
+              "Rẽ phải: bàn tay và cánh tay trái chỉ lên trên."
+            ]
+          },
+          {
+            "headingEn": "Slow or Stop Hand Signal",
+            "headingVi": "Báo giảm tốc hoặc dừng bằng tay",
+            "paragraphs": [
+              "Giảm tốc hoặc dừng: bàn tay và cánh tay trái chỉ xuống dưới."
+            ]
+          },
+          {
+            "headingEn": "Left-Turn Hand Signal",
+            "headingVi": "Báo rẽ trái bằng tay",
+            "paragraphs": [
+              "Rẽ trái: bàn tay và cánh tay trái duỗi thẳng ra ngoài."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L10",
+    "sections": [
+      {
+        "title": "Tạo space cushion quanh xe",
+        "blocks": [
+          {
+            "headingEn": "Maintaining a Space Cushion",
+            "headingVi": "Giữ khoảng đệm an toàn quanh xe",
+            "paragraphs": [
+              "Khoảng trống quanh xe cho bạn đủ quãng đường để phản ứng trong tình huống khẩn cấp và tránh va chạm. Tạo khoảng đệm an toàn (space cushion) quanh xe bằng cách đi ở giữa làn. Bảo đảm có đủ khoảng trống trước và sau xe để các xe khác có thể vượt hoặc dừng an toàn.",
+              "Dùng quy tắc 2, 3 và 4 giây để xác định bạn có giữ khoảng cách đủ xa với xe phía trước hay không."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Quy tắc 2–3–4 giây trên mặt đường khô",
+        "blocks": [
+          {
+            "headingEn": "Following Distance on Dry Surfaces",
+            "headingVi": "Khoảng cách theo sau trên mặt đường khô",
+            "paragraphs": [
+              "Ở các mức tốc độ dưới đây và trên mặt đường khô, khoảng cách tính bằng giây này cho người lái đủ khoảng để đánh lái và phanh thoát khỏi một khu vực có nguy cơ:",
+              "• 2 giây: dưới 35 MPH.",
+              "• 3 giây: từ 35 đến 45 MPH.",
+              "• 4 giây: từ 46 đến 70 MPH.",
+              "Các khoảng đệm nêu trên không có tác dụng nếu bạn chạy quá 70 MPH."
+            ]
+          },
+          {
+            "headingEn": "Measuring Your Following Distance",
+            "headingVi": "Cách đo khoảng cách theo sau",
+            "paragraphs": [
+              "Cách áp dụng quy tắc khoảng cách theo sau:",
+              "• Quan sát lúc xe phía trước đi qua một vật cố định, chẳng hạn cầu vượt, biển báo, hàng rào, góc đường hoặc một mốc cố định khác.",
+              "• Bắt đầu đếm số giây cho đến khi xe bạn đến đúng vị trí đó trên đường.",
+              "• Nếu xe bạn đến mốc trước khi đếm đủ 2, 3 hoặc 4 giây, tùy theo tốc độ, bạn đang theo quá sát. Hãy giảm tốc và tăng khoảng cách theo sau."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Khi nào tăng thêm khoảng cách?",
+        "blocks": [
+          {
+            "headingEn": "Adjusting for Conditions",
+            "headingVi": "Điều chỉnh theo điều kiện thực tế",
+            "paragraphs": [
+              "Khi thời tiết xấu, giao thông đông, mặt đường kém hoặc xe bạn ở tình trạng không tốt, hãy cộng thêm số giây để tăng khoảng cách theo sau. Người lái cần thay đổi khoảng cách này khi tốc độ hoặc điều kiện đường thay đổi.",
+              "Thời gian phản ứng bằng tay gần bằng nửa giây. Thời gian phản ứng bằng chân thường là ba phần tư giây. Các con số này chưa tính thời gian chậm nhận biết do người lái mệt mỏi, đang dùng thuốc, mất tập trung và những nguyên nhân tương tự. Điều kiện đường, tốc độ, mức tỉnh táo của người lái và khối lượng chiếc xe bạn đang lái đều làm thay đổi khả năng dừng.",
+              "Tăng khoảng cách theo sau khi:",
+              "• Đi sau một xe lớn che khuất tầm nhìn.",
+              "• Đi trong thời tiết xấu hoặc giao thông đông.",
+              "• Rời đường cao tốc (expressway).",
+              "• Đi sau mô tô hoặc xe đạp.",
+              "• Bị xe phía sau bám quá sát."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ứng xử khi bị tailgating",
+        "blocks": [
+          {
+            "headingEn": "Tailgating",
+            "headingVi": "Khi xe phía sau bám quá sát",
+            "paragraphs": [
+              "Tailgating là việc một người lái đi theo xe khác quá sát. Nếu gặp tình huống này, đừng phanh đột ngột. Nếu có thể, chuyển sang làn khác, hoặc chạm nhẹ phanh để đèn phanh lóe sáng và giảm tốc. Cách này được kỳ vọng sẽ khuyến khích người bám sát vượt lên hoặc giảm tốc.",
+              "Hãy hỗ trợ người lái phía sau bằng cách giữ khoảng cách an toàn với xe trước và duy trì tốc độ ổn định. Chạm nhẹ phanh để báo cho người lái phía sau khi bạn định giảm tốc hoặc dừng."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L11",
+    "sections": [
+      {
+        "title": "Nhìn xa và đọc dấu hiệu sớm",
+        "blocks": [
+          {
+            "headingEn": "Searching",
+            "headingVi": "Quan sát toàn cảnh và tìm dấu hiệu nguy cơ",
+            "paragraphs": [
+              "Searching là quan sát toàn bộ khung cảnh để tìm bất cứ điều gì có thể đi vào đường chạy của bạn. Khi quan sát đường, tránh nhìn chằm chằm vào một vật. Giữ mắt di chuyển và học cách đọc các dấu hiệu trên đường cũng như xung quanh.",
+              "Nhìn xa phía trước giúp bạn nhận ra nguy cơ sớm và có thêm thời gian phản ứng. Người lái có kinh nghiệm cố gắng nhìn tới đoạn đường sẽ đến sau 20 đến 30 giây. Trong thành phố, khoảng đó tương đương khoảng một dãy phố. Tránh nhìn chằm chằm vào giữa đường. Quét mắt từ bên này sang bên kia, kiểm tra biển và đèn tín hiệu, xe hoặc người có thể xuất hiện trên đường khi bạn đi tới.",
+              "Tìm các dấu hiệu trên đường: khói ống xả, đèn phanh hoặc đèn lùi và bánh xe đang quay hướng. Những dấu hiệu này cảnh báo rằng các xe đó có thể đi vào đường chạy của bạn. Để ý người đi bộ, người đi xe đạp và các phương tiện chạy chậm khác có thể ở trên đoạn đường phía trước.",
+              "Khi lái ở vùng nông thôn, hãy chú ý giao lộ và lối xe ra vào nhà bị khuất, khúc cua, dốc và những tình trạng mặt đường khác nhau. Chú ý các xe khác, đặc biệt là xe tải, xe nông nghiệp quá khổ hoặc chạy chậm, cùng xe đạp."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Trước giao lộ và kiểm tra phía sau",
+        "blocks": [
+          {
+            "headingEn": "Looking Before an Intersection",
+            "headingVi": "Quan sát trước khi vào giao lộ",
+            "paragraphs": [
+              "Trước khi vào giao lộ, kiểm tra từ trái sang phải rồi nhìn trái lần nữa. Bất cứ khi nào đến một nơi mà xe khác, người hoặc động vật có thể cắt ngang đường chạy của bạn, hãy nhìn cả hai phía để bảo đảm thông thoáng. Những nơi đó bao gồm giao lộ, lối qua đường cho người đi bộ, trung tâm mua sắm, khu thi công và sân chơi.",
+              "Tại mọi giao lộ, hãy nhìn bên trái trước vì xe từ bên trái đến sẽ ở gần bạn hơn. Sau đó nhìn bên phải, rồi nhìn nhanh sang trái thêm một lần trước khi đi qua."
+            ]
+          },
+          {
+            "headingEn": "Looking Behind",
+            "headingVi": "Quan sát phía sau",
+            "paragraphs": [
+              "Hãy quan sát phía sau. Thường xuyên dùng gương chiếu hậu giữa để kiểm tra xe phía sau, khoảng mỗi 10 giây. Việc này giúp bạn nhận ra có xe đang áp sát quá nhanh hoặc bám đuôi quá gần. Kiểm tra xe phía sau khi đổi làn, lùi xe, giảm tốc nhanh hoặc đi xuống một đoạn dốc dài và đứng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chỉnh gương và xác nhận điểm mù",
+        "blocks": [
+          {
+            "headingEn": "Blind Spots",
+            "headingVi": "Điểm mù",
+            "paragraphs": [
+              "Điểm mù (blind spots) là những vùng nguy hiểm nơi bạn khó nhìn thấy xe xung quanh. Trước khi lái, hãy chỉnh các gương của xe. Bảo đảm gương chiếu hậu trong xe cho thấy toàn bộ kính sau. Chỉnh cả hai gương bên sao cho bạn chỉ vừa nhìn thấy một chút hai bên thân xe.",
+              "Cách tốt nhất để nhìn thấy một xe trong điểm mù là nhanh chóng quay đầu và liếc qua vai, bảo đảm đường trống trước khi đổi làn hoặc vượt xe khác.",
+              "Tránh chạy trong điểm mù của người khác. Điều này có thể nguy hiểm chẳng kém việc không kiểm tra điểm mù của chính bạn. Hãy tăng tốc để tiến lên hoặc giảm tốc để tụt lại phía sau, nhưng đừng ở mãi trong điểm mù của tài xế khác."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L12",
+    "sections": [
+      {
+        "title": "Người đi bộ và xe đạp",
+        "blocks": [
+          {
+            "headingEn": "Pedestrians",
+            "headingVi": "Người đi bộ",
+            "paragraphs": [
+              "Người đi bộ đặc biệt dễ bị thương nghiêm trọng khi bị xe đâm.",
+              "• Hãy thận trọng quanh trường học, sân chơi và trong khu dân cư, nơi mọi người có thể đang vui chơi hoặc qua đường.",
+              "• Đặc biệt chú ý người đi bộ khi rẽ phải hoặc trái. Họ có quyền đi trước. Để người đi bộ qua hết đường trước khi bạn bắt đầu rẽ.",
+              "• Vượt xe tại lối qua đường cho người đi bộ là trái luật. Bạn có thể không nhìn thấy người đang qua đường phía trước các xe khác.",
+              "• Để ý người đi bộ đang qua đường. Dừng và tiếp tục dừng cho đến khi người đi bộ đã đi qua làn mà xe bạn đang dừng.",
+              "• Người lái phải dừng hẳn cho người đi bộ sử dụng gậy hoặc chó dẫn đường, vì những dấu hiệu này cho thấy người đó bị mù hoặc suy giảm thị lực. Hãy nhớ rằng người cao tuổi và người khuyết tật có thể di chuyển chậm.",
+              "• Người lái phải dừng hẳn cho người đi bộ đang qua phần đường xe chạy một cách hợp pháp. Không dừng và gây thương tích cơ thể nghiêm trọng hoặc làm chết người có thể dẫn đến tội nhẹ cấp 1 (Class 1 misdemeanor)."
+            ]
+          },
+          {
+            "headingEn": "Bicycles",
+            "headingVi": "Xe đạp",
+            "paragraphs": [
+              "Người đi xe đạp trên phần đường xe chạy nhìn chung có cùng quyền đi trước như người điều khiển xe cơ giới. Khi cần, người đi xe đạp được phép đi giữa làn, chẳng hạn khi sắp rẽ trái hoặc khi làn quá hẹp để xe đạp và ô tô đi song song.",
+              "Người đi xe đạp được phép đi trên mọi đường công cộng, trừ đường cao tốc liên bang (interstate) và phần lớn đường cao tốc hạn chế lối ra vào (freeway). Người lái ô tô nên chú ý xe đạp đi theo cả hai hướng trên vỉa hè, lối đi dùng chung hoặc làn xe đạp tách biệt hai chiều.",
+              "Người đi xe đạp chịu nhiều quy định giống người lái xe, nhưng một số người có thể không biết hoặc không tuân thủ. Hãy giảm tốc khi đến gần họ. Xe cơ giới bị cấm sử dụng làn xe đạp đã được đánh dấu, kể cả khi vượt.",
+              "Luật tiểu bang yêu cầu người lái xe cơ giới chừa khoảng cách ít nhất 3 feet khi vượt xe đạp. Nếu làn không đủ rộng để giữ khoảng cách 3 feet, người lái phải đổi làn để vượt an toàn. Chừa cho người đi xe đạp nhiều khoảng trống khi vượt và sẵn sàng dừng đột ngột.",
+              "Kiểm tra điểm mù. Vì xe đạp nhỏ, nó dễ lọt vào điểm mù của bạn. Luôn kiểm tra xe đạp trước khi cho xe đi ra, đổi làn, rẽ, lùi, mở cửa hoặc đi qua giao lộ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mô tô cần trọn làn",
+        "blocks": [
+          {
+            "headingEn": "Motorcycles",
+            "headingVi": "Mô tô",
+            "paragraphs": [
+              "Hơn một nửa các vụ va chạm mô tô gây chết người có liên quan đến ô tô. Nhiều vụ xảy ra vì người lái ô tô không nhìn thấy mô tô trong dòng xe.",
+              "• Kiểm tra hai lần để tìm mô tô. Trong hơn một nửa các vụ va chạm có cả mô tô và ô tô, người lái xe còn lại không thấy mô tô cho đến khi đã quá muộn. Người lái đã quen tìm xe bốn bánh nhưng lại không nghĩ sẽ gặp xe hai bánh. Kích thước của mô tô cũng khiến nó khó được nhìn thấy.",
+              "• Kiểm tra điểm mù. Mô tô nhỏ nên dễ lọt vào điểm mù của bạn. Luôn kiểm tra mô tô trước khi cho xe đi ra, đổi làn, rẽ, lùi hoặc đi qua giao lộ.",
+              "• Không bao giờ bám quá sát mô tô hoặc bất kỳ xe nào khác. Chừa đủ quãng đường phanh bằng cách cộng thêm một giây vào quy tắc khoảng cách theo sau. Khi thời tiết xấu, tăng gấp đôi khoảng cách này.",
+              "• Dự đoán chuyển động của người lái mô tô. Dù mô tô không rộng bằng làn, người lái sẽ sử dụng toàn bộ làn khi tình hình giao thông và điều kiện đường thay đổi. Một thay đổi nhỏ hoặc mảnh vụn trên mặt đường có thể là chướng ngại lớn đối với mô tô. Hãy dự liệu mô tô có thể đột ngột đổi vị trí trong làn. Không bao giờ lái song song với mô tô trong cùng một làn.",
+              "• Nhường mô tô. Kích thước của mô tô có thể khiến bạn ước lượng sai tốc độ và khoảng cách của nó. Trước khi nhập vào dòng xe, kiểm tra hai lần để tìm mô tô và đặc biệt thận trọng trước khi cho xe đi ra phía trước một chiếc mô tô."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "No-Zones của xe tải, xe buýt và RV",
+        "blocks": [
+          {
+            "headingEn": "No-Zones",
+            "headingVi": "Vùng nguy hiểm quanh xe lớn — No-Zones",
+            "paragraphs": [
+              "Xe tải, xe đầu kéo có rơ-moóc, xe buýt và xe giải trí RV — bao gồm xe nhà di động, xe cắm trại và rơ-moóc du lịch — dài hơn, cao hơn và rộng hơn các xe khác. Chúng tăng tốc chậm, cần quãng đường dừng và khoảng để rẽ lớn hơn. Quanh những xe này còn có các vùng nguy hiểm nơi va chạm dễ xảy ra hơn, gọi là No-Zones.",
+              "Các No-Zones ở hai bên, phía trước và phía sau bao gồm cả những điểm mù nơi xe bạn biến khỏi tầm nhìn của tài xế. Hiểu những vùng này có thể cứu mạng bạn.",
+              "• No-Zones hai bên: xe tải, xe đầu kéo có rơ-moóc, xe buýt và RV có vùng nguy hiểm lớn ở cả hai bên vì chúng phải rẽ rộng. Những vùng này, hay điểm mù, lớn hơn nhiều so với điểm mù của ô tô bạn. Nếu bạn không thấy mặt tài xế trong gương bên của họ, họ cũng không thấy bạn.",
+              "• No-Zone phía sau: xe tải, xe đầu kéo có rơ-moóc, xe buýt và RV có vùng nguy hiểm rất lớn ngay phía sau. Tài xế không thấy xe bạn phía sau xe họ, còn bạn không thấy dòng xe phía trước xe lớn đang diễn biến ra sao. Nếu xe tải, xe buýt hoặc RV phanh hay dừng đột ngột, bạn không còn chỗ thoát và có thể đâm vào đuôi xe đó. Luôn giữ khoảng cách theo sau an toàn.",
+              "• No-Zone phía trước: xe tải, xe buýt hoặc RV có thể đâm vào đuôi xe bạn nếu bạn nhập vào quá sớm trước đầu xe sau khi vượt, hoặc cắt vào trước rồi đột ngột giảm tốc. Tài xế xe lớn sẽ buộc phải phanh gấp. Những xe này cần thời gian và khoảng trống để dừng gần gấp đôi ô tô. Xe tải cùng rơ-moóc có thể dài tới 65 feet; bạn có thể cần hơn nửa dặm đường thông thoáng để vượt. Khi vượt, hãy đợi đến khi thấy toàn bộ phần đầu xe tải trong gương chiếu hậu giữa rồi mới nhập vào phía trước. Sau đó duy trì tốc độ.",
+              "• Rẽ rộng: xe tải, xe buýt và RV đôi khi phải mở rộng đường rẽ sang trái hoặc phải để rẽ an toàn. Tài xế không thấy ô tô ở sát ngay phía sau hoặc bên cạnh. Thực tế, điểm mù có thể kéo dài tới 20 feet trước cabin và khoảng 200 feet phía sau xe. Không bao giờ cố chen vào giữa xe tải, xe buýt hoặc RV với bó vỉa hay một xe khác."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tàu điện và xe tốc độ thấp",
+        "blocks": [
+          {
+            "headingEn": "Light Rail",
+            "headingVi": "Tàu điện đường sắt nhẹ",
+            "paragraphs": [
+              "Để lái xe an toàn quanh hệ thống tàu điện The Tide, hãy làm theo các hướng dẫn sau:",
+              "• Chú ý khi cách tổ chức luồng giao thông thay đổi và luôn đi theo phần đường xe chạy.",
+              "• Không bao giờ đi vòng qua thanh chắn đường sắt đã hạ xuống.",
+              "• Luôn nhìn cả hai phía trước khi rẽ băng qua đường ray.",
+              "• Dự liệu có thể có tàu trên bất kỳ đường ray nào, vào bất kỳ lúc nào.",
+              "• Luôn tuân theo biển và đèn tín hiệu.",
+              "• Không bao giờ dừng, vượt hoặc sang số trên đường ray.",
+              "• Không băng qua đường ray trừ khi có đủ chỗ để đi qua mà không dừng và có thể ra khỏi đường ray đến một khoảng cách an toàn."
+            ]
+          },
+          {
+            "headingEn": "Low Speed Vehicles",
+            "headingVi": "Xe tốc độ thấp",
+            "paragraphs": [
+              "Xe tốc độ thấp (low speed vehicles) là xe bốn bánh chạy bằng điện hoặc xăng, có tốc độ tối đa trong khoảng từ 21 đến 25 MPH. Người có bằng lái hoặc người có giấy phép học lái đi cùng một người có bằng lái được phép điều khiển loại xe này trên đường công cộng có giới hạn tốc độ từ 35 MPH trở xuống.",
+              "Xe tốc độ thấp phải đáp ứng mọi tiêu chuẩn an toàn liên bang và các yêu cầu của Virginia về đăng ký cùng bảo hiểm dành cho ô tô chở người. Xe golf không được xếp vào nhóm xe tốc độ thấp này."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kéo trailer",
+        "blocks": [
+          {
+            "headingEn": "Light to Medium Trailers",
+            "headingVi": "Rơ-moóc hạng nhẹ đến trung bình",
+            "paragraphs": [
+              "Rơ-moóc hạng nhẹ đến trung bình (light to medium trailers) được nối với ô tô hoặc xe tải cỡ trung bằng xích an toàn và bộ móc kéo. Thông thường cần gương bên lớn để tăng tầm nhìn. Kéo rơ-moóc làm xe chịu tải thêm; xe cần thời gian gấp đôi để vượt, dừng, tăng tốc và rẽ. Hãy nhớ những No-Zones đã được mô tả ở phần xe tải, xe đầu kéo có rơ-moóc và RV.",
+              "Trước mỗi chuyến đi bằng xe có kéo rơ-moóc hạng nhẹ đến trung bình, hãy kiểm tra an toàn. Bảo đảm:",
+              "• Chốt giữ thanh gắn bi kéo vào ống nhận còn nguyên vẹn.",
+              "• Đầu nối móc kéo đã được khóa chắc.",
+              "• Xích an toàn được gắn đúng cách.",
+              "• Giắc điện được cắm đúng.",
+              "• Đèn phanh, đèn xi nhan và đèn biển số hoạt động bình thường.",
+              "Trước khi kéo rơ-moóc trên đường công cộng, hãy tìm một nơi, chẳng hạn bãi đỗ xe trống, để tập và làm quen với cách xe cùng rơ-moóc phản ứng.",
+              "Khi lái xe có kéo rơ-moóc hạng nhẹ đến trung bình:",
+              "• Luôn tính thêm chiều dài của rơ-moóc khi đổi làn.",
+              "• Nếu rơ-moóc bắt đầu lắc ngang, hãy giảm tốc.",
+              "• Khi lùi, đặt tay ở phía dưới vô-lăng. Nếu không nhìn thấy nơi đang lùi vào, hãy nhờ một người đứng ngoài hướng dẫn. Muốn lùi rơ-moóc sang trái, dùng tay trái đưa vô-lăng sang trái. Muốn lùi rơ-moóc sang phải, dùng tay phải đưa vô-lăng sang phải."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
