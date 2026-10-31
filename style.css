@@ -26,3 +26,5 @@
 .hub-grid-new .hub-card{position:relative}
 .hub-card>a.hub-link::after{content:'';position:absolute;inset:0;border-radius:inherit}
 .hub-card>.hub-repo{position:relative;z-index:1}
+
+.hub-grid-new .hub-card.nikaya{background:#f2e8d8}.hub-grid-new .hub-card.nikaya h2 em,.hub-grid-new .hub-card.nikaya .hub-number{color:#a65536}
