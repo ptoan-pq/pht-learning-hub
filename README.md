@@ -88,3 +88,7 @@ node export-github-pages.mjs /absolute/new-output-directory
 Để kiểm tra bản GitHub Pages tại máy, đặt thư mục xuất dưới đường dẫn `pht-learning-hub` của máy chủ HTTP rồi mở `/pht-learning-hub/`. Thư mục xuất phải mới mỗi lần chạy. Sau khi kiểm tra, commit toàn bộ bản xuất vào nhánh `gh-pages` và push lên GitHub để cập nhật web public. Dữ liệu học và âm thanh đã được lưu trong repo. Các phòng tiếng Anh, điện ảnh và Sống Mỹ liên kết tới website GitHub Pages riêng.
 
 Khi chuyển từ địa chỉ cũ, vào **Tiến độ** ở web cũ để xuất JSON, rồi nhập tại **Tiến độ** của web mới. Tiến độ không tự chuyển giữa các tên miền.
+
+## Thư viện Nikāya
+
+Thẻ Nikāya và thanh điều hướng mở https://ptoan-pq.github.io/thu-vien-nikaya/. Thư viện có danh sách kinh gọn, tóm lược theo từng mục và liên kết nguyên văn BuddhaSasana. Biểu tượng bánh xe trong thư viện đưa về trang chủ thư viện.
