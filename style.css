@@ -22,3 +22,4 @@
 .hub-grid-new .hub-card.music{background:#e9e1f1}.hub-grid-new .hub-card.music h2 em{color:#785689}.hub-grid-new{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:760px){.hub-grid-new{grid-template-columns:1fr}.header nav{flex-wrap:wrap}}
 
 .hub-grid-new .hub-card.american-english{background:#e0f0eb}.hub-grid-new .hub-card.american-english h2 em{color:#0d6b64}
+.hub-grid-new .hub-card.memorize{background:#e1ecfb}.hub-grid-new .hub-card.memorize h2 em{color:#1a5fbd}
