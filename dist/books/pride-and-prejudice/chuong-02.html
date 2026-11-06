@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter II – Pride and Prejudice</title>
+<style>
+:root{
+  --fs:17px;
+  --bg:#f6f7f8; --paper:#ffffff; --ink:#1d2327; --muted:#5f6b72;
+  --accent:#1f5c73; --gloss-bg:#eef4f6; --line:#d3dadf; --hi:#ffe9a8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181b; --paper:#1c2227; --ink:#e4e8eb; --muted:#9aa6ad;
+    --accent:#7cc0d8; --gloss-bg:#20303a; --line:#33404a; --hi:#5a4a12;
+  }
+}
+*{box-sizing:border-box}
+html{font-size:var(--fs)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:16px}
+header{text-align:center;margin:8px 0 14px}
+.kicker{font-size:.8rem;letter-spacing:.06em;color:var(--muted);margin:0}
+h1{font-size:1.75rem;color:var(--accent);margin:.2em 0 .2em;line-height:1.25}
+.sub{font-size:.95rem;color:var(--muted);margin:0 0 .4em}
+.hint{font-size:.85rem;color:var(--muted);font-style:italic;margin:0}
+.toolbar{position:sticky;top:0;z-index:5;display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;
+  padding:8px;background:var(--bg);border-bottom:1px solid var(--line);font-size:15px}
+.toolbar span{color:var(--muted)}
+.toolbar button{font:inherit;min-width:44px;height:36px;border:1px solid var(--line);border-radius:8px;
+  background:var(--paper);color:var(--ink);cursor:pointer}
+.toolbar button:hover{border-color:var(--accent)}
+.toolbar output{min-width:3.5em;text-align:center;color:var(--muted)}
+.nav{display:flex;justify-content:space-between;gap:8px;margin:10px 0;font-size:15px}
+.nav a,.nav span{flex:1;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--paper);text-decoration:none;text-align:center}
+.nav span{visibility:hidden}
+.sheet{background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.head{display:grid;grid-template-columns:61fr 39fr}
+.head div{background:var(--accent);color:#fff;font-weight:700;font-size:.8rem;letter-spacing:.05em;padding:10px 16px}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .head div{color:#0f1a1f}}
+.flow{display:grid;grid-template-columns:61fr 39fr}
+.flow .text{padding:14px 18px;align-self:start}
+.side{background:var(--gloss-bg);border-left:1px solid var(--line);position:relative}
+.side ul{position:relative}
+.side li{position:absolute;left:10px;right:10px;margin:0}
+p{margin:0 0 .7em}
+.w{font-weight:700;border-radius:3px;cursor:pointer;scroll-margin-top:90px}
+.seen{text-decoration:underline dotted;text-decoration-color:var(--muted);text-underline-offset:3px;cursor:help;border-radius:3px}
+ul{list-style:none;margin:0;padding:0}
+li{margin:0 0 .4em;font-size:.88rem;line-height:1.45;border-radius:4px;padding:1px 4px}
+.hw{font-weight:700;color:var(--accent)}
+.pos{font-style:italic;color:var(--muted);font-size:.9em}
+.ipa{color:var(--muted);font-size:.9em}
+.mean::before{content:" – ";color:var(--muted)}
+.on{background:var(--hi)}
+.inline-gloss{display:none}
+.bubble{position:absolute;z-index:20;max-width:320px;background:var(--paper);color:var(--ink);border:1px solid var(--line);
+  border-radius:8px;padding:8px 10px;font-size:.85rem;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.bubble .from{display:block;color:var(--muted);font-size:.9em;margin-top:3px}
+footer{font-size:.8rem;color:var(--muted);font-style:italic;margin:10px 2px 12px}
+@media (max-width:720px){
+  .head{display:none}
+  .flow{grid-template-columns:1fr}
+  .side{display:none}
+  .grp{border-bottom:1px solid var(--line);padding-bottom:.6em;margin-bottom:.8em}
+  .inline-gloss{display:block;background:var(--gloss-bg);border-radius:8px;padding:10px 12px;margin-top:.4em}
+  .inline-gloss li{position:static}
+  h1{font-size:1.45rem}
+}
+@media print{ .toolbar,.nav{display:none} body{background:#fff} }
+</style>
+</head>
+<body>
+<div class="toolbar" role="toolbar" aria-label="Cỡ chữ">
+  <span>Cỡ chữ</span>
+  <button type="button" id="smaller" aria-label="Chữ nhỏ hơn">A−</button>
+  <output id="size">100%</output>
+  <button type="button" id="bigger" aria-label="Chữ lớn hơn">A+</button>
+  <button type="button" id="reset" aria-label="Về cỡ mặc định">↺</button>
+</div>
+<div class="wrap">
+  <nav class="nav"><a href="chuong-01.html">← Chương 1</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-03.html">Chương 3 →</a></nav>
+  <header>
+    <p class="kicker">PRIDE AND PREJUDICE · JANE AUSTEN (1813) · BÀI ĐỌC KÈM TỪ VỰNG</p>
+    <h1>Chapter II</h1>
+    <p class="sub">Chương 2 · 797 chữ · 49 từ mới</p>
+    <p class="hint">Từ <b>in đậm</b> được giải nghĩa ở cột bên phải. Từ <span class="seen">gạch chân chấm</span> đã giải nghĩa ở chương trước – chạm vào để xem lại. Chạm từ in đậm để tô sáng phần giải nghĩa.</p>
+  </header>
+  <main class="sheet">
+    <div class="head"><div>BÀI ĐỌC</div><div>TỪ VỰNG</div></div>
+<div class="flow"><div class="text"><div class="grp"><p>Mr. Bennet was among the earliest of those who <b class="w" id="w2-0-0" tabindex="0">waited on</b> Mr. Bingley. He had always intended to visit him, though to the last always <b class="w" id="w2-0-1" tabindex="0">assuring</b> his wife that he should not go; and till the evening after the visit was paid she had no knowledge of it. It was then <b class="w" id="w2-0-2" tabindex="0">disclosed</b> in the following manner. Observing his second daughter <b class="w" id="w2-0-3" tabindex="0">employed in</b> <b class="w" id="w2-0-4" tabindex="0">trimming</b> a hat, he suddenly addressed her with,—</p><p>“I hope Mr. Bingley will like it, Lizzy.”</p><ul class="inline-gloss"><li data-for="w2-0-0"><span class="hw">wait on</span> <span class="pos">(cụm động từ)</span><span class="mean">nghĩa trong bài: đến thăm chào hỏi (cách nói cũ), không phải “phục vụ”</span></li><li data-for="w2-0-1"><span class="hw">assure</span> <span class="pos">(v)</span> <span class="ipa">/əˈʃʊə/</span><span class="mean">quả quyết, cam đoan với ai</span></li><li data-for="w2-0-2"><span class="hw">disclose</span> <span class="pos">(v)</span> <span class="ipa">/dɪsˈkləʊz/</span><span class="mean">tiết lộ, để lộ ra</span></li><li data-for="w2-0-3"><span class="hw">be employed in</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đang bận làm việc gì, không phải “được thuê làm”</span></li><li data-for="w2-0-4"><span class="hw">trim</span> <span class="pos">(v)</span> <span class="ipa">/trɪm/</span><span class="mean">nghĩa trong bài: trang trí (đính ruy băng, hoa lên mũ), không phải cắt tỉa</span></li></ul></div><div class="grp"><p>“We are <b class="w" id="w2-2-0" tabindex="0">not in a way to</b> know what Mr. Bingley likes,” said her mother, <b class="w" id="w2-2-1" tabindex="0">resentfully</b>, “since we are not to visit.”</p><ul class="inline-gloss"><li data-for="w2-2-0"><span class="hw">not in a way to</span> <span class="pos">(cụm từ)</span><span class="mean">không ở thế có thể, không cách nào (cách nói cũ)</span></li><li data-for="w2-2-1"><span class="hw">resentfully</span> <span class="pos">(adv)</span> <span class="ipa">/rɪˈzentfəli/</span><span class="mean">giọng hờn dỗi, bực tức</span></li></ul></div><div class="grp"><p>“But you forget, mamma,” said Elizabeth, “that we shall meet him at the <b class="w" id="w2-3-0" tabindex="0">assemblies</b>, and that Mrs. Long has promised to introduce him.”</p><ul class="inline-gloss"><li data-for="w2-3-0"><span class="hw">assembly</span> <span class="pos">(n)</span> <span class="ipa">/əˈsembli/</span><span class="mean">dạ vũ công cộng ở thị trấn, ai mua vé cũng vào được</span></li></ul></div><div class="grp"><p>“I do not believe Mrs. Long will do any such thing. She has two nieces of her own. She is a selfish, <b class="w" id="w2-4-0" tabindex="0">hypocritical</b> woman, and I <b class="w" id="w2-4-1" tabindex="0">have no opinion of</b> her.”</p><ul class="inline-gloss"><li data-for="w2-4-0"><span class="hw">hypocritical</span> <span class="pos">(adj)</span> <span class="ipa">/ˌhɪpəˈkrɪtɪkl/</span><span class="mean">đạo đức giả, giả dối</span></li><li data-for="w2-4-1"><span class="hw">have no opinion of</span> <span class="pos">(cụm từ)</span><span class="mean">chẳng coi ra gì, đánh giá thấp ai</span></li></ul></div><div class="grp"><p>“<b class="w" id="w2-5-0" tabindex="0">No more have I</b>,” said Mr. Bennet; “and I am glad to find that you do not depend on her <b class="w" id="w2-5-1" tabindex="0">serving</b> you.”</p><ul class="inline-gloss"><li data-for="w2-5-0"><span class="hw">no more have I</span> <span class="pos">(cụm từ)</span><span class="mean">tôi cũng chẳng (coi ra gì). Kiểu đảo ngữ: “tôi cũng không”</span></li><li data-for="w2-5-1"><span class="hw">serve</span> <span class="pos">(v)</span> <span class="ipa">/sɜːv/</span><span class="mean">nghĩa trong bài: giúp ích, làm lợi cho ai</span></li></ul></div><div class="grp"><p>Mrs. Bennet <b class="w" id="w2-6-0" tabindex="0">deigned</b> not to make any reply; but, unable to <b class="w" id="w2-6-1" tabindex="0">contain herself</b>, began scolding one of her daughters.</p><ul class="inline-gloss"><li data-for="w2-6-0"><span class="hw">deign</span> <span class="pos">(v)</span> <span class="ipa">/deɪn/</span><span class="mean">hạ cố, thèm làm gì. “deigned not to” = chẳng thèm</span></li><li data-for="w2-6-1"><span class="hw">contain oneself</span> <span class="pos">(cụm từ)</span><span class="mean">kìm mình lại, nén cảm xúc</span></li></ul></div><div class="grp"><p>“Don’t keep coughing so, Kitty, <b class="w" id="w2-7-0" tabindex="0">for heaven’s sake</b>! Have a little compassion on my nerves. You tear them to pieces.”</p><ul class="inline-gloss"><li data-for="w2-7-0"><span class="hw">for heaven’s sake</span> <span class="pos">(thành ngữ)</span><span class="mean">trời ơi, lạy trời (câu kêu khi bực mình)</span></li></ul></div><div class="grp"><p>“Kitty has no <b class="w" id="w2-8-0" tabindex="0">discretion</b> in her coughs,” said her father; “she <b class="w" id="w2-8-1" tabindex="0">times them ill</b>.”</p><ul class="inline-gloss"><li data-for="w2-8-0"><span class="hw">discretion</span> <span class="pos">(n)</span> <span class="ipa">/dɪˈskreʃn/</span><span class="mean">sự ý tứ, biết chừng mực. Ông nói đùa: ho cũng phải biết lúc</span></li><li data-for="w2-8-1"><span class="hw">time something ill</span> <span class="pos">(cụm từ)</span><span class="mean">chọn thời điểm tồi. “ill” nghĩa cũ là kém, dở</span></li></ul></div><div class="grp"><p>“I do not cough for my own amusement,” replied Kitty, <b class="w" id="w2-9-0" tabindex="0">fretfully</b>. “When is your next <b class="w" id="w2-9-1" tabindex="0">ball</b> to be, Lizzy?”</p><ul class="inline-gloss"><li data-for="w2-9-0"><span class="hw">fretfully</span> <span class="pos">(adv)</span> <span class="ipa">/ˈfretfəli/</span><span class="mean">giọng cáu kỉnh, bực dọc</span></li><li data-for="w2-9-1"><span class="hw">ball</span> <span class="pos">(n)</span> <span class="ipa">/bɔːl/</span><span class="mean">nghĩa trong bài: buổi dạ hội khiêu vũ, không phải quả bóng</span></li></ul></div><div class="grp"><p>“To-morrow <b class="w" id="w2-10-0" tabindex="0">fortnight</b>.”</p><ul class="inline-gloss"><li data-for="w2-10-0"><span class="hw">fortnight</span> <span class="pos">(n)</span> <span class="ipa">/ˈfɔːtnaɪt/</span><span class="mean">hai tuần. “To-morrow fortnight” = hai tuần nữa, tính từ ngày mai</span></li></ul></div><div class="grp"><p>“<b class="w" id="w2-11-0" tabindex="0">Ay</b>, so it is,” cried her mother, “and Mrs. Long does not come back till the day before; so, it will be impossible for her to introduce him, for she will not know him herself.”</p><ul class="inline-gloss"><li data-for="w2-11-0"><span class="hw">ay</span> <span class="pos">(adv)</span> <span class="ipa">/aɪ/</span><span class="mean">ừ, phải (cách nói cũ của “yes”)</span></li></ul></div><div class="grp"><p>“Then, my dear, you may <b class="w" id="w2-12-0" tabindex="0">have the advantage of</b> your friend, and introduce Mr. Bingley to her.”</p><ul class="inline-gloss"><li data-for="w2-12-0"><span class="hw">have the advantage of somebody</span> <span class="pos">(cụm từ)</span><span class="mean">hơn ai một bậc; ở đây: quen Bingley trước bà Long</span></li></ul></div><div class="grp"><p>“Impossible, Mr. Bennet, impossible, when I am not <b class="w" id="w2-13-0" tabindex="0">acquainted with</b> him myself; how can you be so teasing?”</p><ul class="inline-gloss"><li data-for="w2-13-0"><span class="hw">be acquainted with</span> <span class="pos">(cụm từ)</span><span class="mean">quen biết ai</span></li></ul></div><div class="grp"><p>“I honour your <b class="w" id="w2-14-0" tabindex="0">circumspection</b>. A fortnight’s <b class="w" id="w2-14-1" tabindex="0">acquaintance</b> is certainly very little. One cannot know what a man really is by the end of a fortnight. But if we do not <b class="w" id="w2-14-2" tabindex="0">venture</b>, somebody else will; and after all, Mrs. Long and her nieces must <b class="w" id="w2-14-3" tabindex="0">stand their chance</b>; and, therefore, as she will think it an act of kindness, if you <b class="w" id="w2-14-4" tabindex="0">decline</b> the <b class="w" id="w2-14-5" tabindex="0">office</b>, I will take it on myself.”</p><p>The girls stared at their father. Mrs. Bennet said only, “Nonsense, nonsense!”</p><ul class="inline-gloss"><li data-for="w2-14-0"><span class="hw">circumspection</span> <span class="pos">(n)</span> <span class="ipa">/ˌsɜːkəmˈspekʃn/</span><span class="mean">sự thận trọng, dè dặt (ông nói mỉa)</span></li><li data-for="w2-14-1"><span class="hw">acquaintance</span> <span class="pos">(n)</span> <span class="ipa">/əˈkweɪntəns/</span><span class="mean">sự quen biết; cũng chỉ người quen</span></li><li data-for="w2-14-2"><span class="hw">venture</span> <span class="pos">(v)</span> <span class="ipa">/ˈventʃə/</span><span class="mean">dám liều, mạo hiểm làm</span></li><li data-for="w2-14-3"><span class="hw">stand one’s chance</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đành chịu may rủi như mọi người (cách nói cũ)</span></li><li data-for="w2-14-4"><span class="hw">decline</span> <span class="pos">(v)</span> <span class="ipa">/dɪˈklaɪn/</span><span class="mean">từ chối (lịch sự)</span></li><li data-for="w2-14-5"><span class="hw">office</span> <span class="pos">(n)</span> <span class="ipa">/ˈɒfɪs/</span><span class="mean">nghĩa trong bài: phận sự, việc (giới thiệu), không phải văn phòng</span></li></ul></div><div class="grp"><p>“What can be the meaning of that <b class="w" id="w2-16-0" tabindex="0">emphatic</b> exclamation?” cried he. “Do you consider the <b class="w" id="w2-16-1" tabindex="0">forms of introduction</b>, and the <b class="w" id="w2-16-2" tabindex="0">stress</b> that is laid on them, as nonsense? I cannot quite agree with you there. What say you, Mary? For you are a young lady of deep <b class="w" id="w2-16-3" tabindex="0">reflection</b>, I know, and read great books, and <b class="w" id="w2-16-4" tabindex="0">make extracts</b>.”</p><ul class="inline-gloss"><li data-for="w2-16-0"><span class="hw">emphatic</span> <span class="pos">(adj)</span> <span class="ipa">/ɪmˈfætɪk/</span><span class="mean">nhấn mạnh, dứt khoát</span></li><li data-for="w2-16-1"><span class="hw">forms of introduction</span> <span class="pos">(cụm từ)</span><span class="mean">thủ tục giới thiệu; thời đó phải có người giới thiệu mới được làm quen</span></li><li data-for="w2-16-2"><span class="hw">stress</span> <span class="pos">(n)</span> <span class="ipa">/stres/</span><span class="mean">nghĩa trong bài: sự coi trọng. “lay stress on” = coi trọng, nhấn mạnh</span></li><li data-for="w2-16-3"><span class="hw">reflection</span> <span class="pos">(n)</span> <span class="ipa">/rɪˈflekʃn/</span><span class="mean">sự suy ngẫm. “of deep reflection” = hay suy nghĩ sâu xa</span></li><li data-for="w2-16-4"><span class="hw">make extracts</span> <span class="pos">(cụm từ)</span><span class="mean">chép trích đoạn hay từ sách vào sổ, thói quen học hành thời đó</span></li></ul></div><div class="grp"><p>Mary wished to say something very <b class="w" id="w2-17-0" tabindex="0">sensible</b>, but <b class="w" id="w2-17-1" tabindex="0">knew not how</b>.</p><p>“While Mary is adjusting her ideas,” he continued, “let us return to Mr. Bingley.”</p><p>“I am sick of Mr. Bingley,” cried his wife.</p><ul class="inline-gloss"><li data-for="w2-17-0"><span class="hw">sensible</span> <span class="pos">(adj)</span> <span class="ipa">/ˈsensəbl/</span><span class="mean">khôn ngoan, có lý. Dễ nhầm: không phải “nhạy cảm” (sensitive)</span></li><li data-for="w2-17-1"><span class="hw">know not how</span> <span class="pos">(cụm từ)</span><span class="mean">không biết làm sao (cách nói cũ của “did not know how”)</span></li></ul></div><div class="grp"><p>“I am sorry to hear that; but why did you not tell me so before? If I had known as much this morning, I certainly would not have <b class="w" id="w2-20-0" tabindex="0">called on</b> him. It is very unlucky; but as I have actually paid the visit, we cannot escape the acquaintance now.”</p><ul class="inline-gloss"><li data-for="w2-20-0"><span class="hw">call on</span> <span class="pos">(cụm động từ)</span><span class="mean">ghé thăm ai</span></li></ul></div><div class="grp"><p>The <b class="w" id="w2-21-0" tabindex="0">astonishment</b> of the ladies was just what he wished—that of Mrs. Bennet perhaps <b class="w" id="w2-21-1" tabindex="0">surpassing</b> the rest; though when the first <b class="w" id="w2-21-2" tabindex="0">tumult</b> of joy was over, she began to declare that it was what she had expected <b class="w" id="w2-21-3" tabindex="0">all the while</b>.</p><ul class="inline-gloss"><li data-for="w2-21-0"><span class="hw">astonishment</span> <span class="pos">(n)</span> <span class="ipa">/əˈstɒnɪʃmənt/</span><span class="mean">sự kinh ngạc</span></li><li data-for="w2-21-1"><span class="hw">surpass</span> <span class="pos">(v)</span> <span class="ipa">/səˈpɑːs/</span><span class="mean">vượt hơn, trội hơn</span></li><li data-for="w2-21-2"><span class="hw">tumult</span> <span class="pos">(n)</span> <span class="ipa">/ˈtjuːmʌlt/</span><span class="mean">sự náo động. “tumult of joy” = cơn vui sướng cuống cuồng</span></li><li data-for="w2-21-3"><span class="hw">all the while</span> <span class="pos">(cụm từ)</span><span class="mean">suốt từ đầu, từ nãy giờ</span></li></ul></div><div class="grp"><p>“<b class="w" id="w2-22-0" tabindex="0">How good it was in you</b>, my dear Mr. Bennet! But I knew I should persuade you at last. I was sure you loved your girls too well to neglect such an acquaintance. Well, how pleased I am! And it is such a good joke, too, that you should have gone this morning, and never said a word about it till now.”</p><ul class="inline-gloss"><li data-for="w2-22-0"><span class="hw">how good it was in you</span> <span class="pos">(cụm từ)</span><span class="mean">anh thật tốt quá (cách nói cũ; nay nói “good of you”)</span></li></ul></div><div class="grp"><p>“Now, Kitty, you may cough as much as you choose,” said Mr. Bennet; and, as he spoke, he left the room, fatigued with the <b class="w" id="w2-23-0" tabindex="0">raptures</b> of his wife.</p><ul class="inline-gloss"><li data-for="w2-23-0"><span class="hw">rapture</span> <span class="pos">(n)</span> <span class="ipa">/ˈræptʃə/</span><span class="mean">sự sung sướng ngây ngất, mừng quýnh</span></li></ul></div><div class="grp"><p>“What an excellent father you have, girls,” said she, when the door was shut. “I do not know how you will ever <b class="w" id="w2-24-0" tabindex="0">make him amends</b> for his kindness; or me either, <b class="w" id="w2-24-1" tabindex="0">for that matter</b>. At our time of life, it is not so pleasant, I can tell you, to be making new acquaintances every day; but for your sakes we would do anything. Lydia, my love, though you are the youngest, <b class="w" id="w2-24-2" tabindex="0">I dare say</b> Mr. Bingley will dance with you at the next ball.”</p><ul class="inline-gloss"><li data-for="w2-24-0"><span class="hw">make amends</span> <span class="pos">(cụm từ)</span><span class="mean">đền đáp, bù đắp cho ai</span></li><li data-for="w2-24-1"><span class="hw">for that matter</span> <span class="pos">(cụm từ)</span><span class="mean">mà cũng vậy, nói cho cùng</span></li><li data-for="w2-24-2"><span class="hw">I dare say</span> <span class="pos">(cụm từ)</span><span class="mean">tôi chắc là, có lẽ</span></li></ul></div><div class="grp"><p>“Oh,” said Lydia, <b class="w" id="w2-25-0" tabindex="0">stoutly</b>, “I am not afraid; for though I am the youngest, I’m the tallest.”</p><ul class="inline-gloss"><li data-for="w2-25-0"><span class="hw">stoutly</span> <span class="pos">(adv)</span> <span class="ipa">/ˈstaʊtli/</span><span class="mean">nghĩa trong bài: dõng dạc, cứng cỏi, không phải “mập mạp”</span></li></ul></div><div class="grp"><p>The rest of the evening was spent in <b class="w" id="w2-26-0" tabindex="0">conjecturing</b> how soon he would <b class="w" id="w2-26-1" tabindex="0">return Mr. Bennet’s visit</b>, and determining when they should ask him to dinner.</p><ul class="inline-gloss"><li data-for="w2-26-0"><span class="hw">conjecture</span> <span class="pos">(v)</span> <span class="ipa">/kənˈdʒektʃə/</span><span class="mean">phỏng đoán</span></li><li data-for="w2-26-1"><span class="hw">return a visit</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đến thăm đáp lễ, vì ông Bennet đã đến thăm trước</span></li></ul></div></div><aside class="side"><ul><li data-for="w2-0-0"><span class="hw">wait on</span> <span class="pos">(cụm động từ)</span><span class="mean">nghĩa trong bài: đến thăm chào hỏi (cách nói cũ), không phải “phục vụ”</span></li><li data-for="w2-0-1"><span class="hw">assure</span> <span class="pos">(v)</span> <span class="ipa">/əˈʃʊə/</span><span class="mean">quả quyết, cam đoan với ai</span></li><li data-for="w2-0-2"><span class="hw">disclose</span> <span class="pos">(v)</span> <span class="ipa">/dɪsˈkləʊz/</span><span class="mean">tiết lộ, để lộ ra</span></li><li data-for="w2-0-3"><span class="hw">be employed in</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đang bận làm việc gì, không phải “được thuê làm”</span></li><li data-for="w2-0-4"><span class="hw">trim</span> <span class="pos">(v)</span> <span class="ipa">/trɪm/</span><span class="mean">nghĩa trong bài: trang trí (đính ruy băng, hoa lên mũ), không phải cắt tỉa</span></li><li data-for="w2-2-0"><span class="hw">not in a way to</span> <span class="pos">(cụm từ)</span><span class="mean">không ở thế có thể, không cách nào (cách nói cũ)</span></li><li data-for="w2-2-1"><span class="hw">resentfully</span> <span class="pos">(adv)</span> <span class="ipa">/rɪˈzentfəli/</span><span class="mean">giọng hờn dỗi, bực tức</span></li><li data-for="w2-3-0"><span class="hw">assembly</span> <span class="pos">(n)</span> <span class="ipa">/əˈsembli/</span><span class="mean">dạ vũ công cộng ở thị trấn, ai mua vé cũng vào được</span></li><li data-for="w2-4-0"><span class="hw">hypocritical</span> <span class="pos">(adj)</span> <span class="ipa">/ˌhɪpəˈkrɪtɪkl/</span><span class="mean">đạo đức giả, giả dối</span></li><li data-for="w2-4-1"><span class="hw">have no opinion of</span> <span class="pos">(cụm từ)</span><span class="mean">chẳng coi ra gì, đánh giá thấp ai</span></li><li data-for="w2-5-0"><span class="hw">no more have I</span> <span class="pos">(cụm từ)</span><span class="mean">tôi cũng chẳng (coi ra gì). Kiểu đảo ngữ: “tôi cũng không”</span></li><li data-for="w2-5-1"><span class="hw">serve</span> <span class="pos">(v)</span> <span class="ipa">/sɜːv/</span><span class="mean">nghĩa trong bài: giúp ích, làm lợi cho ai</span></li><li data-for="w2-6-0"><span class="hw">deign</span> <span class="pos">(v)</span> <span class="ipa">/deɪn/</span><span class="mean">hạ cố, thèm làm gì. “deigned not to” = chẳng thèm</span></li><li data-for="w2-6-1"><span class="hw">contain oneself</span> <span class="pos">(cụm từ)</span><span class="mean">kìm mình lại, nén cảm xúc</span></li><li data-for="w2-7-0"><span class="hw">for heaven’s sake</span> <span class="pos">(thành ngữ)</span><span class="mean">trời ơi, lạy trời (câu kêu khi bực mình)</span></li><li data-for="w2-8-0"><span class="hw">discretion</span> <span class="pos">(n)</span> <span class="ipa">/dɪˈskreʃn/</span><span class="mean">sự ý tứ, biết chừng mực. Ông nói đùa: ho cũng phải biết lúc</span></li><li data-for="w2-8-1"><span class="hw">time something ill</span> <span class="pos">(cụm từ)</span><span class="mean">chọn thời điểm tồi. “ill” nghĩa cũ là kém, dở</span></li><li data-for="w2-9-0"><span class="hw">fretfully</span> <span class="pos">(adv)</span> <span class="ipa">/ˈfretfəli/</span><span class="mean">giọng cáu kỉnh, bực dọc</span></li><li data-for="w2-9-1"><span class="hw">ball</span> <span class="pos">(n)</span> <span class="ipa">/bɔːl/</span><span class="mean">nghĩa trong bài: buổi dạ hội khiêu vũ, không phải quả bóng</span></li><li data-for="w2-10-0"><span class="hw">fortnight</span> <span class="pos">(n)</span> <span class="ipa">/ˈfɔːtnaɪt/</span><span class="mean">hai tuần. “To-morrow fortnight” = hai tuần nữa, tính từ ngày mai</span></li><li data-for="w2-11-0"><span class="hw">ay</span> <span class="pos">(adv)</span> <span class="ipa">/aɪ/</span><span class="mean">ừ, phải (cách nói cũ của “yes”)</span></li><li data-for="w2-12-0"><span class="hw">have the advantage of somebody</span> <span class="pos">(cụm từ)</span><span class="mean">hơn ai một bậc; ở đây: quen Bingley trước bà Long</span></li><li data-for="w2-13-0"><span class="hw">be acquainted with</span> <span class="pos">(cụm từ)</span><span class="mean">quen biết ai</span></li><li data-for="w2-14-0"><span class="hw">circumspection</span> <span class="pos">(n)</span> <span class="ipa">/ˌsɜːkəmˈspekʃn/</span><span class="mean">sự thận trọng, dè dặt (ông nói mỉa)</span></li><li data-for="w2-14-1"><span class="hw">acquaintance</span> <span class="pos">(n)</span> <span class="ipa">/əˈkweɪntəns/</span><span class="mean">sự quen biết; cũng chỉ người quen</span></li><li data-for="w2-14-2"><span class="hw">venture</span> <span class="pos">(v)</span> <span class="ipa">/ˈventʃə/</span><span class="mean">dám liều, mạo hiểm làm</span></li><li data-for="w2-14-3"><span class="hw">stand one’s chance</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đành chịu may rủi như mọi người (cách nói cũ)</span></li><li data-for="w2-14-4"><span class="hw">decline</span> <span class="pos">(v)</span> <span class="ipa">/dɪˈklaɪn/</span><span class="mean">từ chối (lịch sự)</span></li><li data-for="w2-14-5"><span class="hw">office</span> <span class="pos">(n)</span> <span class="ipa">/ˈɒfɪs/</span><span class="mean">nghĩa trong bài: phận sự, việc (giới thiệu), không phải văn phòng</span></li><li data-for="w2-16-0"><span class="hw">emphatic</span> <span class="pos">(adj)</span> <span class="ipa">/ɪmˈfætɪk/</span><span class="mean">nhấn mạnh, dứt khoát</span></li><li data-for="w2-16-1"><span class="hw">forms of introduction</span> <span class="pos">(cụm từ)</span><span class="mean">thủ tục giới thiệu; thời đó phải có người giới thiệu mới được làm quen</span></li><li data-for="w2-16-2"><span class="hw">stress</span> <span class="pos">(n)</span> <span class="ipa">/stres/</span><span class="mean">nghĩa trong bài: sự coi trọng. “lay stress on” = coi trọng, nhấn mạnh</span></li><li data-for="w2-16-3"><span class="hw">reflection</span> <span class="pos">(n)</span> <span class="ipa">/rɪˈflekʃn/</span><span class="mean">sự suy ngẫm. “of deep reflection” = hay suy nghĩ sâu xa</span></li><li data-for="w2-16-4"><span class="hw">make extracts</span> <span class="pos">(cụm từ)</span><span class="mean">chép trích đoạn hay từ sách vào sổ, thói quen học hành thời đó</span></li><li data-for="w2-17-0"><span class="hw">sensible</span> <span class="pos">(adj)</span> <span class="ipa">/ˈsensəbl/</span><span class="mean">khôn ngoan, có lý. Dễ nhầm: không phải “nhạy cảm” (sensitive)</span></li><li data-for="w2-17-1"><span class="hw">know not how</span> <span class="pos">(cụm từ)</span><span class="mean">không biết làm sao (cách nói cũ của “did not know how”)</span></li><li data-for="w2-20-0"><span class="hw">call on</span> <span class="pos">(cụm động từ)</span><span class="mean">ghé thăm ai</span></li><li data-for="w2-21-0"><span class="hw">astonishment</span> <span class="pos">(n)</span> <span class="ipa">/əˈstɒnɪʃmənt/</span><span class="mean">sự kinh ngạc</span></li><li data-for="w2-21-1"><span class="hw">surpass</span> <span class="pos">(v)</span> <span class="ipa">/səˈpɑːs/</span><span class="mean">vượt hơn, trội hơn</span></li><li data-for="w2-21-2"><span class="hw">tumult</span> <span class="pos">(n)</span> <span class="ipa">/ˈtjuːmʌlt/</span><span class="mean">sự náo động. “tumult of joy” = cơn vui sướng cuống cuồng</span></li><li data-for="w2-21-3"><span class="hw">all the while</span> <span class="pos">(cụm từ)</span><span class="mean">suốt từ đầu, từ nãy giờ</span></li><li data-for="w2-22-0"><span class="hw">how good it was in you</span> <span class="pos">(cụm từ)</span><span class="mean">anh thật tốt quá (cách nói cũ; nay nói “good of you”)</span></li><li data-for="w2-23-0"><span class="hw">rapture</span> <span class="pos">(n)</span> <span class="ipa">/ˈræptʃə/</span><span class="mean">sự sung sướng ngây ngất, mừng quýnh</span></li><li data-for="w2-24-0"><span class="hw">make amends</span> <span class="pos">(cụm từ)</span><span class="mean">đền đáp, bù đắp cho ai</span></li><li data-for="w2-24-1"><span class="hw">for that matter</span> <span class="pos">(cụm từ)</span><span class="mean">mà cũng vậy, nói cho cùng</span></li><li data-for="w2-24-2"><span class="hw">I dare say</span> <span class="pos">(cụm từ)</span><span class="mean">tôi chắc là, có lẽ</span></li><li data-for="w2-25-0"><span class="hw">stoutly</span> <span class="pos">(adv)</span> <span class="ipa">/ˈstaʊtli/</span><span class="mean">nghĩa trong bài: dõng dạc, cứng cỏi, không phải “mập mạp”</span></li><li data-for="w2-26-0"><span class="hw">conjecture</span> <span class="pos">(v)</span> <span class="ipa">/kənˈdʒektʃə/</span><span class="mean">phỏng đoán</span></li><li data-for="w2-26-1"><span class="hw">return a visit</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: đến thăm đáp lễ, vì ông Bennet đã đến thăm trước</span></li></ul></aside></div>
+  </main>
+  <nav class="nav"><a href="chuong-01.html">← Chương 1</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-03.html">Chương 3 →</a></nav>
+  <footer>Nguyên văn: Jane Austen, Pride and Prejudice (1813), bản Project Gutenberg. Phần từ vựng và giải nghĩa soạn thêm; nghĩa ghi theo ngữ cảnh trong bài, có đánh dấu nghĩa cũ thời Austen.</footer>
+</div>
+<script>
+(function(){
+  var BASE=17, MIN=13, MAX=28, KEY="bai-doc-fs";
+  var root=document.documentElement, out=document.getElementById("size");
+  var fs=BASE;
+  try{ var s=parseInt(localStorage.getItem(KEY),10); if(s>=MIN&&s<=MAX) fs=s; }catch(e){}
+  function apply(){
+    root.style.setProperty("--fs", fs+"px");
+    out.textContent=Math.round(fs/BASE*100)+"%";
+    try{ localStorage.setItem(KEY, fs); }catch(e){}
+  }
+  document.getElementById("smaller").onclick=function(){ fs=Math.max(MIN,fs-1); apply(); };
+  document.getElementById("bigger").onclick=function(){ fs=Math.min(MAX,fs+1); apply(); };
+  document.getElementById("reset").onclick=function(){ fs=BASE; apply(); };
+  apply();
+
+  // Xếp mục từ ngang dòng chứa từ (ghi chú bên lề); dồn xuống khi chật, kéo lên tối đa ~5 dòng khi tràn cuối bài
+  var side=document.querySelector(".side"), sideUl=side && side.querySelector("ul");
+  function layout(){
+    if(!sideUl || getComputedStyle(side).display==="none") return;
+    var lis=[].slice.call(sideUl.querySelectorAll("li")), GAP=6;
+    if(!lis.length) return;
+    var base=sideUl.getBoundingClientRect().top;
+    var ps=document.querySelectorAll(".flow .text p");
+    var textEnd=ps[ps.length-1].getBoundingClientRect().bottom-base;
+    var lineH=parseFloat(getComputedStyle(ps[0]).lineHeight)||26, MAXUP=5*lineH;
+    var want=lis.map(function(li){ return document.getElementById(li.dataset.for).getBoundingClientRect().top-base-2; });
+    var h=lis.map(function(li){ return li.offsetHeight; });
+    var top=[], i;
+    for(i=0;i<lis.length;i++) top[i]=Math.max(want[i], i? top[i-1]+h[i-1]+GAP : 0);
+    for(i=lis.length-1;i>=0;i--){
+      var maxTop=(i===lis.length-1? textEnd : top[i+1]-GAP)-h[i];
+      top[i]=Math.max(0, want[i]-MAXUP, Math.min(top[i], maxTop));
+    }
+    for(i=1;i<lis.length;i++) top[i]=Math.max(top[i], top[i-1]+h[i-1]+GAP);
+    lis.forEach(function(li,k){ li.style.top=top[k]+"px"; });
+    sideUl.style.height=(top[lis.length-1]+h[lis.length-1])+"px";
+  }
+  window.addEventListener("resize", layout);
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(layout);
+  window.addEventListener("load", layout);
+  ["smaller","bigger","reset"].forEach(function(id){ document.getElementById(id).addEventListener("click", layout); });
+  layout();
+
+  // Chạm từ in đậm -> tô sáng mục giải nghĩa của nó
+  function clear(){ document.querySelectorAll(".on").forEach(function(x){x.classList.remove("on")}); }
+  document.querySelectorAll(".w").forEach(function(el){
+    function go(){
+      var was=el.classList.contains("on"); clear(); closeBubble();
+      if(was) return;
+      el.classList.add("on");
+      document.querySelectorAll('li[data-for="'+el.id+'"]').forEach(function(li){ li.classList.add("on"); });
+    }
+    el.addEventListener("click", go);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); go(); } });
+  });
+
+  // Chạm từ gạch chân chấm -> bong bóng nhắc lại nghĩa đã học
+  var bubble=null;
+  function closeBubble(){ if(bubble){ bubble.remove(); bubble=null; } }
+  document.querySelectorAll(".seen[data-g]").forEach(function(el){
+    function show(e){
+      e.stopPropagation(); var same=bubble && bubble._for===el; closeBubble(); clear(); if(same) return;
+      var g=JSON.parse(el.dataset.g);
+      bubble=document.createElement("div"); bubble.className="bubble"; bubble._for=el;
+      bubble.innerHTML='<span class="hw"></span> <span class="pos"></span> <span class="ipa"></span><span class="mean"></span><span class="from"></span>';
+      bubble.querySelector(".hw").textContent=g.tu; bubble.querySelector(".pos").textContent="("+g.loai+")";
+      bubble.querySelector(".ipa").textContent=g.phien_am||""; bubble.querySelector(".mean").textContent=g.nghia;
+      bubble.querySelector(".from").textContent="Đã gặp ở Chương "+g.chuong;
+      document.body.appendChild(bubble);
+      var r=el.getBoundingClientRect(), bw=bubble.offsetWidth;
+      var left=Math.min(Math.max(8, r.left+scrollX), scrollX+document.documentElement.clientWidth-bw-8);
+      bubble.style.left=left+"px"; bubble.style.top=(r.bottom+scrollY+6)+"px";
+    }
+    el.setAttribute("tabindex","0");
+    el.addEventListener("click", show);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); show(e); } });
+  });
+  document.addEventListener("click", function(e){ if(bubble && !bubble.contains(e.target)) closeBubble(); });
+  // Mở từ bảng tra A–Z (chuong-NN.html#w…): tô sáng từ đó
+  function fromHash(){
+    var t=location.hash && document.getElementById(location.hash.slice(1));
+    if(t && t.classList.contains("w") && !t.classList.contains("on")){ layout(); t.click(); t.scrollIntoView({block:"center"}); }
+  }
+  window.addEventListener("hashchange", fromHash);
+  window.addEventListener("load", function(){ setTimeout(fromHash, 50); });
+  document.addEventListener("keydown", function(e){ if(e.key==="Escape") closeBubble(); });
+})();
+</script>
+</body>
+</html>

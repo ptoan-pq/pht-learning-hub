@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter XXXVIII – Pride and Prejudice</title>
+<style>
+:root{
+  --fs:17px;
+  --bg:#f6f7f8; --paper:#ffffff; --ink:#1d2327; --muted:#5f6b72;
+  --accent:#1f5c73; --gloss-bg:#eef4f6; --line:#d3dadf; --hi:#ffe9a8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181b; --paper:#1c2227; --ink:#e4e8eb; --muted:#9aa6ad;
+    --accent:#7cc0d8; --gloss-bg:#20303a; --line:#33404a; --hi:#5a4a12;
+  }
+}
+*{box-sizing:border-box}
+html{font-size:var(--fs)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:16px}
+header{text-align:center;margin:8px 0 14px}
+.kicker{font-size:.8rem;letter-spacing:.06em;color:var(--muted);margin:0}
+h1{font-size:1.75rem;color:var(--accent);margin:.2em 0 .2em;line-height:1.25}
+.sub{font-size:.95rem;color:var(--muted);margin:0 0 .4em}
+.hint{font-size:.85rem;color:var(--muted);font-style:italic;margin:0}
+.toolbar{position:sticky;top:0;z-index:5;display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;
+  padding:8px;background:var(--bg);border-bottom:1px solid var(--line);font-size:15px}
+.toolbar span{color:var(--muted)}
+.toolbar button{font:inherit;min-width:44px;height:36px;border:1px solid var(--line);border-radius:8px;
+  background:var(--paper);color:var(--ink);cursor:pointer}
+.toolbar button:hover{border-color:var(--accent)}
+.toolbar output{min-width:3.5em;text-align:center;color:var(--muted)}
+.nav{display:flex;justify-content:space-between;gap:8px;margin:10px 0;font-size:15px}
+.nav a,.nav span{flex:1;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--paper);text-decoration:none;text-align:center}
+.nav span{visibility:hidden}
+.sheet{background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.head{display:grid;grid-template-columns:61fr 39fr}
+.head div{background:var(--accent);color:#fff;font-weight:700;font-size:.8rem;letter-spacing:.05em;padding:10px 16px}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .head div{color:#0f1a1f}}
+.flow{display:grid;grid-template-columns:61fr 39fr}
+.flow .text{padding:14px 18px;align-self:start}
+.side{background:var(--gloss-bg);border-left:1px solid var(--line);position:relative}
+.side ul{position:relative}
+.side li{position:absolute;left:10px;right:10px;margin:0}
+p{margin:0 0 .7em}
+.w{font-weight:700;border-radius:3px;cursor:pointer;scroll-margin-top:90px}
+.seen{text-decoration:underline dotted;text-decoration-color:var(--muted);text-underline-offset:3px;cursor:help;border-radius:3px}
+ul{list-style:none;margin:0;padding:0}
+li{margin:0 0 .4em;font-size:.88rem;line-height:1.45;border-radius:4px;padding:1px 4px}
+.hw{font-weight:700;color:var(--accent)}
+.pos{font-style:italic;color:var(--muted);font-size:.9em}
+.ipa{color:var(--muted);font-size:.9em}
+.mean::before{content:" – ";color:var(--muted)}
+.on{background:var(--hi)}
+.inline-gloss{display:none}
+.bubble{position:absolute;z-index:20;max-width:320px;background:var(--paper);color:var(--ink);border:1px solid var(--line);
+  border-radius:8px;padding:8px 10px;font-size:.85rem;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.bubble .from{display:block;color:var(--muted);font-size:.9em;margin-top:3px}
+footer{font-size:.8rem;color:var(--muted);font-style:italic;margin:10px 2px 12px}
+@media (max-width:720px){
+  .head{display:none}
+  .flow{grid-template-columns:1fr}
+  .side{display:none}
+  .grp{border-bottom:1px solid var(--line);padding-bottom:.6em;margin-bottom:.8em}
+  .inline-gloss{display:block;background:var(--gloss-bg);border-radius:8px;padding:10px 12px;margin-top:.4em}
+  .inline-gloss li{position:static}
+  h1{font-size:1.45rem}
+}
+@media print{ .toolbar,.nav{display:none} body{background:#fff} }
+</style>
+</head>
+<body>
+<div class="toolbar" role="toolbar" aria-label="Cỡ chữ">
+  <span>Cỡ chữ</span>
+  <button type="button" id="smaller" aria-label="Chữ nhỏ hơn">A−</button>
+  <output id="size">100%</output>
+  <button type="button" id="bigger" aria-label="Chữ lớn hơn">A+</button>
+  <button type="button" id="reset" aria-label="Về cỡ mặc định">↺</button>
+</div>
+<div class="wrap">
+  <nav class="nav"><a href="chuong-37.html">← Chương 37</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-39.html">Chương 39 →</a></nav>
+  <header>
+    <p class="kicker">PRIDE AND PREJUDICE · JANE AUSTEN (1813) · BÀI ĐỌC KÈM TỪ VỰNG</p>
+    <h1>Chapter XXXVIII</h1>
+    <p class="sub">Chương 38 · 1.037 chữ · 35 từ mới</p>
+    <p class="hint">Từ <b>in đậm</b> được giải nghĩa ở cột bên phải. Từ <span class="seen">gạch chân chấm</span> đã giải nghĩa ở chương trước – chạm vào để xem lại. Chạm từ in đậm để tô sáng phần giải nghĩa.</p>
+  </header>
+  <main class="sheet">
+    <div class="head"><div>BÀI ĐỌC</div><div>TỪ VỰNG</div></div>
+<div class="flow"><div class="text"><div class="grp"><p>On Saturday morning Elizabeth and Mr. Collins met for breakfast a few minutes before the others appeared; and he took the opportunity of paying the parting <span class="seen" data-g="{&quot;tu&quot;: &quot;civility&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/səˈvɪləti/&quot;, &quot;nghia&quot;: &quot;lời lẽ lịch sự, phép xã giao&quot;, &quot;chuong&quot;: 9}">civilities</span> which he <b class="w" id="w38-0-1" tabindex="0">deemed</b> <b class="w" id="w38-0-2" tabindex="0">indispensably</b> necessary.</p><ul class="inline-gloss"><li data-for="w38-0-1"><span class="hw">deem</span> <span class="pos">(v)</span> <span class="ipa">/diːm/</span><span class="mean">cho là, coi là</span></li><li data-for="w38-0-2"><span class="hw">indispensably</span> <span class="pos">(adv)</span> <span class="ipa">/ˌɪndɪˈspensəbli/</span><span class="mean">một cách không thể thiếu</span></li></ul></div><div class="grp"><p>“I know not, Miss Elizabeth,” said he, “whether Mrs. Collins has yet expressed her sense of your kindness in coming to us; but I am very certain you will not leave the house without receiving her thanks for it. The <b class="w" id="w38-1-0" tabindex="0">favour</b> of your company has been much felt, I assure you. We know how little there is to <b class="w" id="w38-1-1" tabindex="0">tempt</b> anyone to our <span class="seen" data-g="{&quot;tu&quot;: &quot;humble abode&quot;, &quot;loai&quot;: &quot;cụm từ&quot;, &quot;phien_am&quot;: &quot;&quot;, &quot;nghia&quot;: &quot;nơi ở khiêm tốn, tệ xá (lời nói nhún)&quot;, &quot;chuong&quot;: 16}">humble abode</span>. Our plain manner of living, our small rooms, and few <b class="w" id="w38-1-3" tabindex="0">domestics</b>, and the little we see of the world, must make Hunsford extremely dull to a young lady like yourself; but I hope you will believe us grateful for the condescension, and that we have done everything in our power to prevent you spending your time unpleasantly.”</p><ul class="inline-gloss"><li data-for="w38-1-0"><span class="hw">favour</span> <span class="pos">(n)</span> <span class="ipa">/ˈfeɪvə/</span><span class="mean">nghĩa trong bài: ân huệ, sự chiếu cố</span></li><li data-for="w38-1-1"><span class="hw">tempt</span> <span class="pos">(v)</span> <span class="ipa">/tempt/</span><span class="mean">hấp dẫn, lôi kéo</span></li><li data-for="w38-1-3"><span class="hw">domestic</span> <span class="pos">(n)</span> <span class="ipa">/dəˈmestɪk/</span><span class="mean">người giúp việc trong nhà (cách nói cũ)</span></li></ul></div><div class="grp"><p>Elizabeth was eager with her thanks and <b class="w" id="w38-2-0" tabindex="0">assurances</b> of happiness. She had spent six weeks with great enjoyment; and the pleasure of being with Charlotte, and the kind attention she had received, must make her feel <b class="w" id="w38-2-1" tabindex="0">the obliged</b>. Mr. Collins was gratified; and with a more smiling <span class="seen" data-g="{&quot;tu&quot;: &quot;solemnity&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/səˈlemnəti/&quot;, &quot;nghia&quot;: &quot;vẻ trịnh trọng&quot;, &quot;chuong&quot;: 14}">solemnity</span> replied,—</p><ul class="inline-gloss"><li data-for="w38-2-0"><span class="hw">assurance</span> <span class="pos">(n)</span> <span class="ipa">/əˈʃʊərəns/</span><span class="mean">lời cam đoan</span></li><li data-for="w38-2-1"><span class="hw">the obliged</span> <span class="pos">(cụm từ)</span><span class="mean">người mang ơn (cách nói cũ)</span></li></ul></div><div class="grp"><p>“It gives me the greatest pleasure to hear that you have passed your time not disagreeably. We have certainly done our best; and most fortunately having it in our power to introduce you to very <b class="w" id="w38-3-0" tabindex="0">superior society</b>, and from our connection with Rosings, the frequent means of <span class="seen" data-g="{&quot;tu&quot;: &quot;vary&quot;, &quot;loai&quot;: &quot;v&quot;, &quot;phien_am&quot;: &quot;/ˈveəri/&quot;, &quot;nghia&quot;: &quot;làm thay đổi, đổi không khí&quot;, &quot;chuong&quot;: 10}">varying</span> the humble home scene, I think we may flatter ourselves that your Hunsford visit cannot have been entirely <b class="w" id="w38-3-2" tabindex="0">irksome</b>. Our situation with regard to Lady Catherine’s family is, indeed, the sort of extraordinary advantage and blessing which few can <span class="seen" data-g="{&quot;tu&quot;: &quot;boast&quot;, &quot;loai&quot;: &quot;v&quot;, &quot;phien_am&quot;: &quot;/bəʊst/&quot;, &quot;nghia&quot;: &quot;khoe, tự hào có được&quot;, &quot;chuong&quot;: 8}">boast</span>. You see on what a <span class="seen" data-g="{&quot;tu&quot;: &quot;footing&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈfʊtɪŋ/&quot;, &quot;nghia&quot;: &quot;vị thế, mức thân thiết trong quan hệ&quot;, &quot;chuong&quot;: 21}">footing</span> we are. You see how continually we are engaged there. In truth, I must acknowledge, that, with all the disadvantages of this humble <span class="seen" data-g="{&quot;tu&quot;: &quot;parsonage&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈpɑːsənɪdʒ/&quot;, &quot;nghia&quot;: &quot;nhà ở của mục sư giáo xứ&quot;, &quot;chuong&quot;: 14}">parsonage</span>, I should not think anyone <b class="w" id="w38-3-6" tabindex="0">abiding</b> in it an object of compassion, while they are <b class="w" id="w38-3-7" tabindex="0">sharers</b> of our intimacy at Rosings.”</p><ul class="inline-gloss"><li data-for="w38-3-0"><span class="hw">superior society</span> <span class="pos">(cụm từ)</span><span class="mean">giới thượng lưu, người có địa vị cao hơn</span></li><li data-for="w38-3-2"><span class="hw">irksome</span> <span class="pos">(adj)</span> <span class="ipa">/ˈɜːksəm/</span><span class="mean">tẻ nhạt, phiền chán</span></li><li data-for="w38-3-6"><span class="hw">abide</span> <span class="pos">(v)</span> <span class="ipa">/əˈbaɪd/</span><span class="mean">ở, cư ngụ (cách nói cũ)</span></li><li data-for="w38-3-7"><span class="hw">sharer</span> <span class="pos">(n)</span> <span class="ipa">/ˈʃeərə/</span><span class="mean">người cùng hưởng, cùng dự phần</span></li></ul></div><div class="grp"><p>Words were insufficient for the <b class="w" id="w38-4-0" tabindex="0">elevation</b> of his feelings; and he was obliged to walk about the room, while Elizabeth tried to unite civility and truth in a few short sentences.</p><ul class="inline-gloss"><li data-for="w38-4-0"><span class="hw">elevation</span> <span class="pos">(n)</span> <span class="ipa">/ˌelɪˈveɪʃn/</span><span class="mean">nghĩa trong bài: sự phấn chấn, lâng lâng</span></li></ul></div><div class="grp"><p>“You may, in fact, carry a very <span class="seen" data-g="{&quot;tu&quot;: &quot;favourable&quot;, &quot;loai&quot;: &quot;adj&quot;, &quot;phien_am&quot;: &quot;/ˈfeɪvərəbl/&quot;, &quot;nghia&quot;: &quot;tốt đẹp, có lợi&quot;, &quot;chuong&quot;: 26}">favourable</span> report of us into Hertfordshire, my dear cousin. I flatter myself, at least, that you will be able to do so. Lady Catherine’s great attentions to Mrs. Collins you have been a daily <span class="seen" data-g="{&quot;tu&quot;: &quot;witness&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈwɪtnəs/&quot;, &quot;nghia&quot;: &quot;người chứng kiến&quot;, &quot;chuong&quot;: 14}">witness</span> of; and altogether I trust it does not appear that your friend has drawn an unfortunate—but on this point it will be as well to be silent. Only let me assure you, my dear Miss Elizabeth, that I can from my heart most <b class="w" id="w38-5-2" tabindex="0">cordially</b> wish you equal <span class="seen" data-g="{&quot;tu&quot;: &quot;felicity&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/fəˈlɪsəti/&quot;, &quot;nghia&quot;: &quot;hạnh phúc (từ trang trọng)&quot;, &quot;chuong&quot;: 6}">felicity</span> in marriage. My dear Charlotte and I have but one mind and one way of thinking. There is in everything a most remarkable <b class="w" id="w38-5-4" tabindex="0">resemblance</b> of character and ideas between us. We seem to have been <b class="w" id="w38-5-5" tabindex="0">designed for each other</b>.”</p><ul class="inline-gloss"><li data-for="w38-5-2"><span class="hw">cordially</span> <span class="pos">(adv)</span> <span class="ipa">/ˈkɔːdiəli/</span><span class="mean">một cách chân thành, nồng hậu</span></li><li data-for="w38-5-4"><span class="hw">resemblance</span> <span class="pos">(n)</span> <span class="ipa">/rɪˈzembləns/</span><span class="mean">sự giống nhau</span></li><li data-for="w38-5-5"><span class="hw">be designed for each other</span> <span class="pos">(cụm từ)</span><span class="mean">sinh ra là để dành cho nhau</span></li></ul></div><div class="grp"><p>Elizabeth could safely say that it was a great happiness where that was the case, and with equal <span class="seen" data-g="{&quot;tu&quot;: &quot;sincerity&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/sɪnˈserəti/&quot;, &quot;nghia&quot;: &quot;sự thành thật&quot;, &quot;chuong&quot;: 18}">sincerity</span> could add, that she firmly believed and rejoiced in his <b class="w" id="w38-6-1" tabindex="0">domestic comforts</b>. She was not sorry, however, to have the recital of them interrupted by the entrance of the lady from whom they <b class="w" id="w38-6-2" tabindex="0">sprang</b>. Poor Charlotte! it was melancholy to leave her to such society! But she had chosen it <b class="w" id="w38-6-3" tabindex="0">with her eyes open</b>; and though evidently regretting that her visitors were to go, she did not seem to ask for compassion. Her home and her housekeeping, her <span class="seen" data-g="{&quot;tu&quot;: &quot;parish&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈpærɪʃ/&quot;, &quot;nghia&quot;: &quot;giáo xứ&quot;, &quot;chuong&quot;: 13}">parish</span> and her <span class="seen" data-g="{&quot;tu&quot;: &quot;poultry&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈpəʊltri/&quot;, &quot;nghia&quot;: &quot;gà vịt, gia cầm&quot;, &quot;chuong&quot;: 29}">poultry</span>, and all their <b class="w" id="w38-6-6" tabindex="0">dependent concerns</b>, had not yet lost their charms.</p><ul class="inline-gloss"><li data-for="w38-6-1"><span class="hw">domestic comforts</span> <span class="pos">(cụm từ)</span><span class="mean">những niềm vui êm ấm trong nhà</span></li><li data-for="w38-6-2"><span class="hw">spring from</span> <span class="pos">(cụm động từ)</span><span class="mean">bắt nguồn từ, do ai mà có</span></li><li data-for="w38-6-3"><span class="hw">with one’s eyes open</span> <span class="pos">(thành ngữ)</span><span class="mean">biết rõ mà vẫn chọn</span></li><li data-for="w38-6-6"><span class="hw">dependent concerns</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: mọi việc đi kèm (với nhà cửa, giáo xứ, gà vịt)</span></li></ul></div><div class="grp"><p>At length the <span class="seen" data-g="{&quot;tu&quot;: &quot;chaise&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ʃeɪz/&quot;, &quot;nghia&quot;: &quot;xe ngựa nhẹ, thường thuê để đi đường xa&quot;, &quot;chuong&quot;: 27}">chaise</span> arrived, the trunks were fastened on, the <b class="w" id="w38-7-1" tabindex="0">parcels</b> placed within, and it was pronounced to be ready. After an affectionate parting between the friends, Elizabeth was attended to the carriage by Mr. Collins; and as they walked down the garden, he was <b class="w" id="w38-7-2" tabindex="0">commissioning</b> her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs. Gardiner, though unknown. He then <b class="w" id="w38-7-3" tabindex="0">handed her in</b>, Maria followed, and the door was <span class="seen" data-g="{&quot;tu&quot;: &quot;on the point of&quot;, &quot;loai&quot;: &quot;cụm từ&quot;, &quot;phien_am&quot;: &quot;&quot;, &quot;nghia&quot;: &quot;sắp sửa&quot;, &quot;chuong&quot;: 25}">on the point of</span> being closed, when he suddenly reminded them, with some <b class="w" id="w38-7-5" tabindex="0">consternation</b>, that they had <b class="w" id="w38-7-6" tabindex="0">hitherto</b> forgotten to leave any message for the ladies of Rosings.</p><p>“But,” he added, “you will of course wish to have your humble respects delivered to them, with your grateful thanks for their kindness to you while you have been here.”</p><p>Elizabeth made no objection: the door was then allowed to be shut, and the carriage drove off.</p><ul class="inline-gloss"><li data-for="w38-7-1"><span class="hw">parcel</span> <span class="pos">(n)</span> <span class="ipa">/ˈpɑːsl/</span><span class="mean">gói đồ</span></li><li data-for="w38-7-2"><span class="hw">commission</span> <span class="pos">(v)</span> <span class="ipa">/kəˈmɪʃn/</span><span class="mean">nghĩa trong bài: nhờ, ủy thác (chuyển lời)</span></li><li data-for="w38-7-3"><span class="hw">hand somebody in</span> <span class="pos">(cụm động từ)</span><span class="mean">đỡ ai bước lên xe</span></li><li data-for="w38-7-5"><span class="hw">consternation</span> <span class="pos">(n)</span> <span class="ipa">/ˌkɒnstəˈneɪʃn/</span><span class="mean">sự hốt hoảng, bối rối</span></li><li data-for="w38-7-6"><span class="hw">hitherto</span> <span class="pos">(adv)</span> <span class="ipa">/ˌhɪðəˈtuː/</span><span class="mean">cho đến lúc ấy</span></li></ul></div><div class="grp"><p>“<b class="w" id="w38-10-0" tabindex="0">Good gracious</b>!” cried Maria, after a few minutes’ silence, “it seems but a day or two since we first came! and yet how many things have happened!”</p><p>“A great many indeed,” said her companion, with a sigh.</p><p>“We have dined nine times at Rosings, besides drinking tea there twice! How much I shall have to tell!”</p><p>Elizabeth privately added, “And how much I shall have to conceal!”</p><ul class="inline-gloss"><li data-for="w38-10-0"><span class="hw">good gracious</span> <span class="pos">(thành ngữ)</span><span class="mean">trời đất ơi (câu kêu ngạc nhiên)</span></li></ul></div><div class="grp"><p>Their journey was <b class="w" id="w38-14-0" tabindex="0">performed</b> without much conversation, or any <b class="w" id="w38-14-1" tabindex="0">alarm</b>; and within four hours of their leaving Hunsford they reached Mr. Gardiner’s house, where they were to remain a few days.</p><ul class="inline-gloss"><li data-for="w38-14-0"><span class="hw">perform</span> <span class="pos">(v)</span> <span class="ipa">/pəˈfɔːm/</span><span class="mean">nghĩa trong bài: đi hết (chặng đường). “journey was performed” = chuyến đi diễn ra</span></li><li data-for="w38-14-1"><span class="hw">alarm</span> <span class="pos">(n)</span> <span class="ipa">/əˈlɑːm/</span><span class="mean">nghĩa trong bài: sự cố đáng lo, chuyện hãi hùng</span></li></ul></div><div class="grp"><p>Jane looked well, and Elizabeth had little opportunity of studying her spirits, <span class="seen" data-g="{&quot;tu&quot;: &quot;amidst&quot;, &quot;loai&quot;: &quot;prep&quot;, &quot;phien_am&quot;: &quot;/əˈmɪdst/&quot;, &quot;nghia&quot;: &quot;giữa, giữa lúc&quot;, &quot;chuong&quot;: 28}">amidst</span> the various engagements which the kindness of her aunt had reserved for them. But Jane was to go home with her, and at Longbourn there would be <span class="seen" data-g="{&quot;tu&quot;: &quot;leisure&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/ˈleʒə/&quot;, &quot;nghia&quot;: &quot;thời gian rảnh&quot;, &quot;chuong&quot;: 6}">leisure</span> enough for <b class="w" id="w38-15-2" tabindex="0">observation</b>.</p><ul class="inline-gloss"><li data-for="w38-15-2"><span class="hw">observation</span> <span class="pos">(n)</span> <span class="ipa">/ˌɒbzəˈveɪʃn/</span><span class="mean">sự quan sát</span></li></ul></div><div class="grp"><p>It was not without an effort, meanwhile, that she could wait even for Longbourn, before she told her sister of Mr. Darcy’s <span class="seen" data-g="{&quot;tu&quot;: &quot;proposal&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/prəˈpəʊzl/&quot;, &quot;nghia&quot;: &quot;lời cầu hôn&quot;, &quot;chuong&quot;: 19}">proposals</span>. To know that she had the power of revealing what would so exceedingly <b class="w" id="w38-16-1" tabindex="0">astonish</b> Jane, and must, at the same time, so highly gratify whatever of her own vanity she had not yet been able to <b class="w" id="w38-16-2" tabindex="0">reason away</b>, was such a <span class="seen" data-g="{&quot;tu&quot;: &quot;temptation&quot;, &quot;loai&quot;: &quot;n&quot;, &quot;phien_am&quot;: &quot;/tempˈteɪʃn/&quot;, &quot;nghia&quot;: &quot;sự cám dỗ&quot;, &quot;chuong&quot;: 18}">temptation</span> to <b class="w" id="w38-16-4" tabindex="0">openness</b> as nothing could have <span class="seen" data-g="{&quot;tu&quot;: &quot;conquer&quot;, &quot;loai&quot;: &quot;v&quot;, &quot;phien_am&quot;: &quot;/ˈkɒŋkə/&quot;, &quot;nghia&quot;: &quot;chế ngự, vượt qua&quot;, &quot;chuong&quot;: 34}">conquered</span>, but the state of <b class="w" id="w38-16-6" tabindex="0">indecision</b> in which she remained as to the extent of what she should <b class="w" id="w38-16-7" tabindex="0">communicate</b>, and her fear, if she once <b class="w" id="w38-16-8" tabindex="0">entered on</b> the subject, of being <b class="w" id="w38-16-9" tabindex="0">hurried into</b> repeating something of Bingley, which might only grieve her sister further.</p><ul class="inline-gloss"><li data-for="w38-16-1"><span class="hw">astonish</span> <span class="pos">(v)</span> <span class="ipa">/əˈstɒnɪʃ/</span><span class="mean">làm kinh ngạc</span></li><li data-for="w38-16-2"><span class="hw">reason away</span> <span class="pos">(cụm động từ)</span><span class="mean">dùng lý lẽ để gạt bỏ</span></li><li data-for="w38-16-4"><span class="hw">openness</span> <span class="pos">(n)</span> <span class="ipa">/ˈəʊpənnəs/</span><span class="mean">sự cởi mở, thổ lộ</span></li><li data-for="w38-16-6"><span class="hw">indecision</span> <span class="pos">(n)</span> <span class="ipa">/ˌɪndɪˈsɪʒn/</span><span class="mean">sự lưỡng lự</span></li><li data-for="w38-16-7"><span class="hw">communicate</span> <span class="pos">(v)</span> <span class="ipa">/kəˈmjuːnɪkeɪt/</span><span class="mean">nghĩa trong bài: kể ra, cho biết</span></li><li data-for="w38-16-8"><span class="hw">enter on</span> <span class="pos">(cụm động từ)</span><span class="mean">bắt đầu bàn về</span></li><li data-for="w38-16-9"><span class="hw">be hurried into</span> <span class="pos">(cụm từ)</span><span class="mean">bị cuốn vào (làm gì vội vàng)</span></li></ul></div></div><aside class="side"><ul><li data-for="w38-0-1"><span class="hw">deem</span> <span class="pos">(v)</span> <span class="ipa">/diːm/</span><span class="mean">cho là, coi là</span></li><li data-for="w38-0-2"><span class="hw">indispensably</span> <span class="pos">(adv)</span> <span class="ipa">/ˌɪndɪˈspensəbli/</span><span class="mean">một cách không thể thiếu</span></li><li data-for="w38-1-0"><span class="hw">favour</span> <span class="pos">(n)</span> <span class="ipa">/ˈfeɪvə/</span><span class="mean">nghĩa trong bài: ân huệ, sự chiếu cố</span></li><li data-for="w38-1-1"><span class="hw">tempt</span> <span class="pos">(v)</span> <span class="ipa">/tempt/</span><span class="mean">hấp dẫn, lôi kéo</span></li><li data-for="w38-1-3"><span class="hw">domestic</span> <span class="pos">(n)</span> <span class="ipa">/dəˈmestɪk/</span><span class="mean">người giúp việc trong nhà (cách nói cũ)</span></li><li data-for="w38-2-0"><span class="hw">assurance</span> <span class="pos">(n)</span> <span class="ipa">/əˈʃʊərəns/</span><span class="mean">lời cam đoan</span></li><li data-for="w38-2-1"><span class="hw">the obliged</span> <span class="pos">(cụm từ)</span><span class="mean">người mang ơn (cách nói cũ)</span></li><li data-for="w38-3-0"><span class="hw">superior society</span> <span class="pos">(cụm từ)</span><span class="mean">giới thượng lưu, người có địa vị cao hơn</span></li><li data-for="w38-3-2"><span class="hw">irksome</span> <span class="pos">(adj)</span> <span class="ipa">/ˈɜːksəm/</span><span class="mean">tẻ nhạt, phiền chán</span></li><li data-for="w38-3-6"><span class="hw">abide</span> <span class="pos">(v)</span> <span class="ipa">/əˈbaɪd/</span><span class="mean">ở, cư ngụ (cách nói cũ)</span></li><li data-for="w38-3-7"><span class="hw">sharer</span> <span class="pos">(n)</span> <span class="ipa">/ˈʃeərə/</span><span class="mean">người cùng hưởng, cùng dự phần</span></li><li data-for="w38-4-0"><span class="hw">elevation</span> <span class="pos">(n)</span> <span class="ipa">/ˌelɪˈveɪʃn/</span><span class="mean">nghĩa trong bài: sự phấn chấn, lâng lâng</span></li><li data-for="w38-5-2"><span class="hw">cordially</span> <span class="pos">(adv)</span> <span class="ipa">/ˈkɔːdiəli/</span><span class="mean">một cách chân thành, nồng hậu</span></li><li data-for="w38-5-4"><span class="hw">resemblance</span> <span class="pos">(n)</span> <span class="ipa">/rɪˈzembləns/</span><span class="mean">sự giống nhau</span></li><li data-for="w38-5-5"><span class="hw">be designed for each other</span> <span class="pos">(cụm từ)</span><span class="mean">sinh ra là để dành cho nhau</span></li><li data-for="w38-6-1"><span class="hw">domestic comforts</span> <span class="pos">(cụm từ)</span><span class="mean">những niềm vui êm ấm trong nhà</span></li><li data-for="w38-6-2"><span class="hw">spring from</span> <span class="pos">(cụm động từ)</span><span class="mean">bắt nguồn từ, do ai mà có</span></li><li data-for="w38-6-3"><span class="hw">with one’s eyes open</span> <span class="pos">(thành ngữ)</span><span class="mean">biết rõ mà vẫn chọn</span></li><li data-for="w38-6-6"><span class="hw">dependent concerns</span> <span class="pos">(cụm từ)</span><span class="mean">nghĩa trong bài: mọi việc đi kèm (với nhà cửa, giáo xứ, gà vịt)</span></li><li data-for="w38-7-1"><span class="hw">parcel</span> <span class="pos">(n)</span> <span class="ipa">/ˈpɑːsl/</span><span class="mean">gói đồ</span></li><li data-for="w38-7-2"><span class="hw">commission</span> <span class="pos">(v)</span> <span class="ipa">/kəˈmɪʃn/</span><span class="mean">nghĩa trong bài: nhờ, ủy thác (chuyển lời)</span></li><li data-for="w38-7-3"><span class="hw">hand somebody in</span> <span class="pos">(cụm động từ)</span><span class="mean">đỡ ai bước lên xe</span></li><li data-for="w38-7-5"><span class="hw">consternation</span> <span class="pos">(n)</span> <span class="ipa">/ˌkɒnstəˈneɪʃn/</span><span class="mean">sự hốt hoảng, bối rối</span></li><li data-for="w38-7-6"><span class="hw">hitherto</span> <span class="pos">(adv)</span> <span class="ipa">/ˌhɪðəˈtuː/</span><span class="mean">cho đến lúc ấy</span></li><li data-for="w38-10-0"><span class="hw">good gracious</span> <span class="pos">(thành ngữ)</span><span class="mean">trời đất ơi (câu kêu ngạc nhiên)</span></li><li data-for="w38-14-0"><span class="hw">perform</span> <span class="pos">(v)</span> <span class="ipa">/pəˈfɔːm/</span><span class="mean">nghĩa trong bài: đi hết (chặng đường). “journey was performed” = chuyến đi diễn ra</span></li><li data-for="w38-14-1"><span class="hw">alarm</span> <span class="pos">(n)</span> <span class="ipa">/əˈlɑːm/</span><span class="mean">nghĩa trong bài: sự cố đáng lo, chuyện hãi hùng</span></li><li data-for="w38-15-2"><span class="hw">observation</span> <span class="pos">(n)</span> <span class="ipa">/ˌɒbzəˈveɪʃn/</span><span class="mean">sự quan sát</span></li><li data-for="w38-16-1"><span class="hw">astonish</span> <span class="pos">(v)</span> <span class="ipa">/əˈstɒnɪʃ/</span><span class="mean">làm kinh ngạc</span></li><li data-for="w38-16-2"><span class="hw">reason away</span> <span class="pos">(cụm động từ)</span><span class="mean">dùng lý lẽ để gạt bỏ</span></li><li data-for="w38-16-4"><span class="hw">openness</span> <span class="pos">(n)</span> <span class="ipa">/ˈəʊpənnəs/</span><span class="mean">sự cởi mở, thổ lộ</span></li><li data-for="w38-16-6"><span class="hw">indecision</span> <span class="pos">(n)</span> <span class="ipa">/ˌɪndɪˈsɪʒn/</span><span class="mean">sự lưỡng lự</span></li><li data-for="w38-16-7"><span class="hw">communicate</span> <span class="pos">(v)</span> <span class="ipa">/kəˈmjuːnɪkeɪt/</span><span class="mean">nghĩa trong bài: kể ra, cho biết</span></li><li data-for="w38-16-8"><span class="hw">enter on</span> <span class="pos">(cụm động từ)</span><span class="mean">bắt đầu bàn về</span></li><li data-for="w38-16-9"><span class="hw">be hurried into</span> <span class="pos">(cụm từ)</span><span class="mean">bị cuốn vào (làm gì vội vàng)</span></li></ul></aside></div>
+  </main>
+  <nav class="nav"><a href="chuong-37.html">← Chương 37</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-39.html">Chương 39 →</a></nav>
+  <footer>Nguyên văn: Jane Austen, Pride and Prejudice (1813), bản Project Gutenberg. Phần từ vựng và giải nghĩa soạn thêm; nghĩa ghi theo ngữ cảnh trong bài, có đánh dấu nghĩa cũ thời Austen.</footer>
+</div>
+<script>
+(function(){
+  var BASE=17, MIN=13, MAX=28, KEY="bai-doc-fs";
+  var root=document.documentElement, out=document.getElementById("size");
+  var fs=BASE;
+  try{ var s=parseInt(localStorage.getItem(KEY),10); if(s>=MIN&&s<=MAX) fs=s; }catch(e){}
+  function apply(){
+    root.style.setProperty("--fs", fs+"px");
+    out.textContent=Math.round(fs/BASE*100)+"%";
+    try{ localStorage.setItem(KEY, fs); }catch(e){}
+  }
+  document.getElementById("smaller").onclick=function(){ fs=Math.max(MIN,fs-1); apply(); };
+  document.getElementById("bigger").onclick=function(){ fs=Math.min(MAX,fs+1); apply(); };
+  document.getElementById("reset").onclick=function(){ fs=BASE; apply(); };
+  apply();
+
+  // Xếp mục từ ngang dòng chứa từ (ghi chú bên lề); dồn xuống khi chật, kéo lên tối đa ~5 dòng khi tràn cuối bài
+  var side=document.querySelector(".side"), sideUl=side && side.querySelector("ul");
+  function layout(){
+    if(!sideUl || getComputedStyle(side).display==="none") return;
+    var lis=[].slice.call(sideUl.querySelectorAll("li")), GAP=6;
+    if(!lis.length) return;
+    var base=sideUl.getBoundingClientRect().top;
+    var ps=document.querySelectorAll(".flow .text p");
+    var textEnd=ps[ps.length-1].getBoundingClientRect().bottom-base;
+    var lineH=parseFloat(getComputedStyle(ps[0]).lineHeight)||26, MAXUP=5*lineH;
+    var want=lis.map(function(li){ return document.getElementById(li.dataset.for).getBoundingClientRect().top-base-2; });
+    var h=lis.map(function(li){ return li.offsetHeight; });
+    var top=[], i;
+    for(i=0;i<lis.length;i++) top[i]=Math.max(want[i], i? top[i-1]+h[i-1]+GAP : 0);
+    for(i=lis.length-1;i>=0;i--){
+      var maxTop=(i===lis.length-1? textEnd : top[i+1]-GAP)-h[i];
+      top[i]=Math.max(0, want[i]-MAXUP, Math.min(top[i], maxTop));
+    }
+    for(i=1;i<lis.length;i++) top[i]=Math.max(top[i], top[i-1]+h[i-1]+GAP);
+    lis.forEach(function(li,k){ li.style.top=top[k]+"px"; });
+    sideUl.style.height=(top[lis.length-1]+h[lis.length-1])+"px";
+  }
+  window.addEventListener("resize", layout);
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(layout);
+  window.addEventListener("load", layout);
+  ["smaller","bigger","reset"].forEach(function(id){ document.getElementById(id).addEventListener("click", layout); });
+  layout();
+
+  // Chạm từ in đậm -> tô sáng mục giải nghĩa của nó
+  function clear(){ document.querySelectorAll(".on").forEach(function(x){x.classList.remove("on")}); }
+  document.querySelectorAll(".w").forEach(function(el){
+    function go(){
+      var was=el.classList.contains("on"); clear(); closeBubble();
+      if(was) return;
+      el.classList.add("on");
+      document.querySelectorAll('li[data-for="'+el.id+'"]').forEach(function(li){ li.classList.add("on"); });
+    }
+    el.addEventListener("click", go);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); go(); } });
+  });
+
+  // Chạm từ gạch chân chấm -> bong bóng nhắc lại nghĩa đã học
+  var bubble=null;
+  function closeBubble(){ if(bubble){ bubble.remove(); bubble=null; } }
+  document.querySelectorAll(".seen[data-g]").forEach(function(el){
+    function show(e){
+      e.stopPropagation(); var same=bubble && bubble._for===el; closeBubble(); clear(); if(same) return;
+      var g=JSON.parse(el.dataset.g);
+      bubble=document.createElement("div"); bubble.className="bubble"; bubble._for=el;
+      bubble.innerHTML='<span class="hw"></span> <span class="pos"></span> <span class="ipa"></span><span class="mean"></span><span class="from"></span>';
+      bubble.querySelector(".hw").textContent=g.tu; bubble.querySelector(".pos").textContent="("+g.loai+")";
+      bubble.querySelector(".ipa").textContent=g.phien_am||""; bubble.querySelector(".mean").textContent=g.nghia;
+      bubble.querySelector(".from").textContent="Đã gặp ở Chương "+g.chuong;
+      document.body.appendChild(bubble);
+      var r=el.getBoundingClientRect(), bw=bubble.offsetWidth;
+      var left=Math.min(Math.max(8, r.left+scrollX), scrollX+document.documentElement.clientWidth-bw-8);
+      bubble.style.left=left+"px"; bubble.style.top=(r.bottom+scrollY+6)+"px";
+    }
+    el.setAttribute("tabindex","0");
+    el.addEventListener("click", show);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); show(e); } });
+  });
+  document.addEventListener("click", function(e){ if(bubble && !bubble.contains(e.target)) closeBubble(); });
+  // Mở từ bảng tra A–Z (chuong-NN.html#w…): tô sáng từ đó
+  function fromHash(){
+    var t=location.hash && document.getElementById(location.hash.slice(1));
+    if(t && t.classList.contains("w") && !t.classList.contains("on")){ layout(); t.click(); t.scrollIntoView({block:"center"}); }
+  }
+  window.addEventListener("hashchange", fromHash);
+  window.addEventListener("load", function(){ setTimeout(fromHash, 50); });
+  document.addEventListener("keydown", function(e){ if(e.key==="Escape") closeBubble(); });
+})();
+</script>
+</body>
+</html>
