@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hearts and Hands – O. Henry – Selected Short Stories</title>
+<style>
+:root{
+  --fs:17px;
+  --bg:#f6f7f8; --paper:#ffffff; --ink:#1d2327; --muted:#5f6b72;
+  --accent:#1f5c73; --gloss-bg:#eef4f6; --line:#d3dadf; --hi:#ffe9a8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181b; --paper:#1c2227; --ink:#e4e8eb; --muted:#9aa6ad;
+    --accent:#7cc0d8; --gloss-bg:#20303a; --line:#33404a; --hi:#5a4a12;
+  }
+}
+*{box-sizing:border-box}
+html{font-size:var(--fs)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:16px}
+header{text-align:center;margin:8px 0 14px}
+.kicker{font-size:.8rem;letter-spacing:.06em;color:var(--muted);margin:0}
+h1{font-size:1.75rem;color:var(--accent);margin:.2em 0 .2em;line-height:1.25}
+.sub{font-size:.95rem;color:var(--muted);margin:0 0 .4em}
+.hint{font-size:.85rem;color:var(--muted);font-style:italic;margin:0}
+.toolbar{position:sticky;top:0;z-index:5;display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;
+  padding:8px;background:var(--bg);border-bottom:1px solid var(--line);font-size:15px}
+.toolbar span{color:var(--muted)}
+.toolbar button{font:inherit;min-width:44px;height:36px;border:1px solid var(--line);border-radius:8px;
+  background:var(--paper);color:var(--ink);cursor:pointer}
+.toolbar button:hover{border-color:var(--accent)}
+.toolbar output{min-width:3.5em;text-align:center;color:var(--muted)}
+.nav{display:flex;justify-content:space-between;gap:8px;margin:10px 0;font-size:15px}
+.nav a,.nav span{flex:1;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--paper);text-decoration:none;text-align:center}
+.nav span{visibility:hidden}
+.sheet{background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.head{display:grid;grid-template-columns:61fr 39fr}
+.head div{background:var(--accent);color:#fff;font-weight:700;font-size:.8rem;letter-spacing:.05em;padding:10px 16px}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .head div{color:#0f1a1f}}
+.flow{display:grid;grid-template-columns:61fr 39fr}
+.flow .text{padding:14px 18px;align-self:start}
+.side{background:var(--gloss-bg);border-left:1px solid var(--line);position:relative}
+.side ul{position:relative}
+.side li{position:absolute;left:10px;right:10px;margin:0}
+p{margin:0 0 .7em}
+.w{font-weight:700;border-radius:3px;cursor:pointer;scroll-margin-top:90px}
+.seen{text-decoration:underline dotted;text-decoration-color:var(--muted);text-underline-offset:3px;cursor:help;border-radius:3px}
+ul{list-style:none;margin:0;padding:0}
+li{margin:0 0 .4em;font-size:.88rem;line-height:1.45;border-radius:4px;padding:1px 4px}
+.hw{font-weight:700;color:var(--accent)}
+.pos{font-style:italic;color:var(--muted);font-size:.9em}
+.ipa{color:var(--muted);font-size:.9em}
+.mean::before{content:" – ";color:var(--muted)}
+.on{background:var(--hi)}
+.inline-gloss{display:none}
+.bubble{position:absolute;z-index:20;max-width:320px;background:var(--paper);color:var(--ink);border:1px solid var(--line);
+  border-radius:8px;padding:8px 10px;font-size:.85rem;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.bubble .from{display:block;color:var(--muted);font-size:.9em;margin-top:3px}
+footer{font-size:.8rem;color:var(--muted);font-style:italic;margin:10px 2px 12px}
+@media (max-width:720px){
+  .head{display:none}
+  .flow{grid-template-columns:1fr}
+  .side{display:none}
+  .grp{border-bottom:1px solid var(--line);padding-bottom:.6em;margin-bottom:.8em}
+  .inline-gloss{display:block;background:var(--gloss-bg);border-radius:8px;padding:10px 12px;margin-top:.4em}
+  .inline-gloss li{position:static}
+  h1{font-size:1.45rem}
+}
+@media print{ .toolbar,.nav{display:none} body{background:#fff} }
+</style>
+</head>
+<body>
+<div class="toolbar" role="toolbar" aria-label="Cỡ chữ">
+  <span>Cỡ chữ</span>
+  <button type="button" id="smaller" aria-label="Chữ nhỏ hơn">A−</button>
+  <output id="size">100%</output>
+  <button type="button" id="bigger" aria-label="Chữ lớn hơn">A+</button>
+  <button type="button" id="reset" aria-label="Về cỡ mặc định">↺</button>
+</div>
+<div class="wrap">
+  <nav class="nav"><a href="chuong-05.html">← Truyện 5</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-07.html">Truyện 7 →</a></nav>
+  <header>
+    <p class="kicker">O. HENRY · 30 TRUYỆN NGẮN · BÀI ĐỌC KÈM TỪ VỰNG</p>
+    <h1>Hearts and Hands</h1>
+    <p class="sub">Truyện 6 · Những quả tim và những bàn tay · 865 chữ · 53 từ</p>
+    <p class="hint">Từ <b>in đậm</b> được giải nghĩa ở cột bên phải. Chạm từ in đậm để tô sáng phần giải nghĩa. Mỗi truyện giải nghĩa độc lập.</p>
+  </header>
+  <main class="sheet">
+    <div class="head"><div>BÀI ĐỌC</div><div>TỪ VỰNG</div></div>
+<div class="flow"><div class="text"><div class="grp"><p>At Denver there was an <b class="w" id="w6-0-0" tabindex="0">influx</b> of passengers into the coaches on the <b class="w" id="w6-0-1" tabindex="0">eastbound</b> <b class="w" id="w6-0-2" tabindex="0">B. &amp; M. express</b>. In one coach there sat a very pretty young woman dressed in elegant taste and surrounded by all the luxurious comforts of an experienced traveler. Among the newcomers were two young men, one of handsome <b class="w" id="w6-0-3" tabindex="0">presence</b> with a bold, <b class="w" id="w6-0-4" tabindex="0">frank</b> <b class="w" id="w6-0-5" tabindex="0">countenance</b> and manner; the other a <b class="w" id="w6-0-6" tabindex="0">ruffled</b>, <b class="w" id="w6-0-7" tabindex="0">glum-faced</b> person, <b class="w" id="w6-0-8" tabindex="0">heavily built</b> and roughly dressed. The two were <b class="w" id="w6-0-9" tabindex="0">handcuffed</b> together.</p><ul class="inline-gloss"><li data-for="w6-0-0"><span class="hw">influx</span> <span class="pos">(n)</span> <span class="ipa">/ˈɪnflʌks/</span><span class="mean">dòng người đổ vào</span></li><li data-for="w6-0-1"><span class="hw">eastbound</span> <span class="pos">(adj)</span> <span class="ipa">/ˈiːstbaʊnd/</span><span class="mean">đi về hướng đông</span></li><li data-for="w6-0-2"><span class="hw">B. &amp; M. express</span> <span class="pos">(cụm từ)</span><span class="mean">chuyến tàu tốc hành của hãng đường sắt Burlington &amp; Missouri</span></li><li data-for="w6-0-3"><span class="hw">presence</span> <span class="pos">(n)</span> <span class="ipa">/ˈprezns/</span><span class="mean">nghĩa trong bài: dáng vẻ, phong thái</span></li><li data-for="w6-0-4"><span class="hw">frank</span> <span class="pos">(adj)</span> <span class="ipa">/fræŋk/</span><span class="mean">cởi mở, thẳng thắn</span></li><li data-for="w6-0-5"><span class="hw">countenance</span> <span class="pos">(n)</span> <span class="ipa">/ˈkaʊntənəns/</span><span class="mean">nét mặt, vẻ mặt</span></li><li data-for="w6-0-6"><span class="hw">ruffled</span> <span class="pos">(adj)</span> <span class="ipa">/ˈrʌfld/</span><span class="mean">xộc xệch, nhàu nhĩ</span></li><li data-for="w6-0-7"><span class="hw">glum-faced</span> <span class="pos">(adj)</span> <span class="ipa">/ˈɡlʌm feɪst/</span><span class="mean">mặt mày cau có, ủ ê</span></li><li data-for="w6-0-8"><span class="hw">heavily built</span> <span class="pos">(cụm từ)</span><span class="mean">to con, vạm vỡ</span></li><li data-for="w6-0-9"><span class="hw">handcuff</span> <span class="pos">(v)</span> <span class="ipa">/ˈhændkʌf/</span><span class="mean">còng tay</span></li></ul></div><div class="grp"><p>As they passed down the <b class="w" id="w6-1-0" tabindex="0">aisle</b> of the coach the only vacant seat offered was a <b class="w" id="w6-1-1" tabindex="0">reversed</b> one facing the attractive young woman. Here the linked couple seated themselves. The young woman’s glance fell upon them with a distant, swift <b class="w" id="w6-1-2" tabindex="0">disinterest</b>; then with a lovely smile brightening her countenance and a tender pink <b class="w" id="w6-1-3" tabindex="0">tingeing</b> her rounded cheeks, she held out a little gray-gloved hand. When she spoke her voice, full, sweet, and <b class="w" id="w6-1-4" tabindex="0">deliberate</b>, <b class="w" id="w6-1-5" tabindex="0">proclaimed</b> that its owner was <b class="w" id="w6-1-6" tabindex="0">accustomed to</b> speak and be heard.</p><p>“Well, Mr. Easton, if you will make me speak first, I suppose I must. Don’t you ever recognize old friends when you meet them in the West?”</p><ul class="inline-gloss"><li data-for="w6-1-0"><span class="hw">aisle</span> <span class="pos">(n)</span> <span class="ipa">/aɪl/</span><span class="mean">lối đi giữa các hàng ghế</span></li><li data-for="w6-1-1"><span class="hw">reversed</span> <span class="pos">(adj)</span> <span class="ipa">/rɪˈvɜːst/</span><span class="mean">quay ngược chiều (ghế quay mặt về phía sau tàu)</span></li><li data-for="w6-1-2"><span class="hw">disinterest</span> <span class="pos">(n)</span> <span class="ipa">/dɪsˈɪntrəst/</span><span class="mean">sự thờ ơ</span></li><li data-for="w6-1-3"><span class="hw">tinge</span> <span class="pos">(v)</span> <span class="ipa">/tɪndʒ/</span><span class="mean">nhuốm nhẹ (màu)</span></li><li data-for="w6-1-4"><span class="hw">deliberate</span> <span class="pos">(adj)</span> <span class="ipa">/dɪˈlɪbərət/</span><span class="mean">thong thả, khoan thai</span></li><li data-for="w6-1-5"><span class="hw">proclaim</span> <span class="pos">(v)</span> <span class="ipa">/prəˈkleɪm/</span><span class="mean">cho thấy rõ</span></li><li data-for="w6-1-6"><span class="hw">accustomed to</span> <span class="pos">(cụm từ)</span><span class="mean">quen với</span></li></ul></div><div class="grp"><p>The younger man <b class="w" id="w6-3-0" tabindex="0">roused himself</b> sharply at the sound of her voice, seemed to struggle with a slight embarrassment which he <b class="w" id="w6-3-1" tabindex="0">threw off</b> instantly, and then <b class="w" id="w6-3-2" tabindex="0">clasped</b> her fingers with his left hand.</p><ul class="inline-gloss"><li data-for="w6-3-0"><span class="hw">rouse oneself</span> <span class="pos">(cụm từ)</span><span class="mean">bừng tỉnh, chú ý ngay</span></li><li data-for="w6-3-1"><span class="hw">throw off</span> <span class="pos">(cụm động từ)</span><span class="mean">gạt đi, rũ bỏ</span></li><li data-for="w6-3-2"><span class="hw">clasp</span> <span class="pos">(v)</span> <span class="ipa">/klɑːsp/</span><span class="mean">nắm chặt</span></li></ul></div><div class="grp"><p>“It’s Miss Fairchild,” he said, with a smile. “I’ll ask you to excuse the other hand; it’s <b class="w" id="w6-4-0" tabindex="0">otherwise engaged</b> just at present.”</p><ul class="inline-gloss"><li data-for="w6-4-0"><span class="hw">otherwise engaged</span> <span class="pos">(cụm từ)</span><span class="mean">đang bận việc khác (nói đùa)</span></li></ul></div><div class="grp"><p>He slightly raised his right hand, <b class="w" id="w6-5-0" tabindex="0">bound</b> at the wrist by the shining “<b class="w" id="w6-5-1" tabindex="0">bracelet</b>” to the left one of his companion. The glad look in the girl’s eyes slowly changed to a <b class="w" id="w6-5-2" tabindex="0">bewildered</b> horror. The glow faded from her cheeks. Her lips parted in a vague, relaxing distress. Easton, with a little laugh, as if amused, was about to speak again when the other <b class="w" id="w6-5-3" tabindex="0">forestalled</b> him. The glum-faced man had been watching the girl’s countenance with <b class="w" id="w6-5-4" tabindex="0">veiled</b> glances from his keen, <b class="w" id="w6-5-5" tabindex="0">shrewd</b> eyes.</p><ul class="inline-gloss"><li data-for="w6-5-0"><span class="hw">bind</span> <span class="pos">(v)</span> <span class="ipa">/baɪnd/</span><span class="mean">buộc, trói</span></li><li data-for="w6-5-1"><span class="hw">bracelet</span> <span class="pos">(n)</span> <span class="ipa">/ˈbreɪslət/</span><span class="mean">vòng đeo tay; ở đây (tiếng lóng) là chiếc còng</span></li><li data-for="w6-5-2"><span class="hw">bewildered</span> <span class="pos">(adj)</span> <span class="ipa">/bɪˈwɪldəd/</span><span class="mean">hoang mang, bối rối</span></li><li data-for="w6-5-3"><span class="hw">forestall</span> <span class="pos">(v)</span> <span class="ipa">/fɔːˈstɔːl/</span><span class="mean">chặn trước, nói trước</span></li><li data-for="w6-5-4"><span class="hw">veiled</span> <span class="pos">(adj)</span> <span class="ipa">/veɪld/</span><span class="mean">kín đáo, che giấu</span></li><li data-for="w6-5-5"><span class="hw">shrewd</span> <span class="pos">(adj)</span> <span class="ipa">/ʃruːd/</span><span class="mean">sắc sảo, tinh khôn</span></li></ul></div><div class="grp"><p>“You’ll excuse me for speaking, miss, but, I see you’re <b class="w" id="w6-6-0" tabindex="0">acquainted with</b> the <b class="w" id="w6-6-1" tabindex="0">marshall</b> here. If you’ll ask him to speak a word for me when we get to the <b class="w" id="w6-6-2" tabindex="0">pen</b> he’ll do it, and it’ll make things easier for me there. He’s taking me to <b class="w" id="w6-6-3" tabindex="0">Leavenworth</b> prison. It’s seven years for <b class="w" id="w6-6-4" tabindex="0">counterfeiting</b>.”</p><p>“Oh!” said the girl, with a deep breath and returning color. “So that is what you are doing out here? A marshal!”</p><ul class="inline-gloss"><li data-for="w6-6-0"><span class="hw">acquainted with</span> <span class="pos">(cụm từ)</span><span class="mean">quen biết</span></li><li data-for="w6-6-1"><span class="hw">marshal</span> <span class="pos">(n)</span> <span class="ipa">/ˈmɑːʃl/</span><span class="mean">cảnh sát tư pháp liên bang Mỹ, lo bắt giữ và áp giải tù</span></li><li data-for="w6-6-2"><span class="hw">pen</span> <span class="pos">(n)</span> <span class="ipa">/pen/</span><span class="mean">(tiếng lóng) nhà tù, nói tắt của “penitentiary”</span></li><li data-for="w6-6-3"><span class="hw">Leavenworth</span> <span class="pos">(n)</span> <span class="ipa">/ˈlevənwɜːθ/</span><span class="mean">nhà tù liên bang ở bang Kansas</span></li><li data-for="w6-6-4"><span class="hw">counterfeiting</span> <span class="pos">(n)</span> <span class="ipa">/ˈkaʊntəfɪtɪŋ/</span><span class="mean">tội làm tiền giả</span></li></ul></div><div class="grp"><p>“My dear Miss Fairchild,” said Easton, calmly, “I had to do something. Money has a way of <b class="w" id="w6-8-0" tabindex="0">taking wings unto itself</b>, and you know it takes money to <b class="w" id="w6-8-1" tabindex="0">keep step with</b> our <b class="w" id="w6-8-2" tabindex="0">crowd</b> in Washington. I saw this <b class="w" id="w6-8-3" tabindex="0">opening</b> in the West, and—well, a <b class="w" id="w6-8-4" tabindex="0">marshalship</b> isn’t quite as high a position as that of <b class="w" id="w6-8-5" tabindex="0">ambassador</b>, but—”</p><ul class="inline-gloss"><li data-for="w6-8-0"><span class="hw">take wings</span> <span class="pos">(cụm từ)</span><span class="mean">(lời Kinh Thánh) tiền tự mọc cánh bay đi</span></li><li data-for="w6-8-1"><span class="hw">keep step with</span> <span class="pos">(cụm từ)</span><span class="mean">theo kịp, sánh bước cùng</span></li><li data-for="w6-8-2"><span class="hw">crowd</span> <span class="pos">(n)</span> <span class="ipa">/kraʊd/</span><span class="mean">nghĩa trong bài: nhóm bạn bè cùng giới</span></li><li data-for="w6-8-3"><span class="hw">opening</span> <span class="pos">(n)</span> <span class="ipa">/ˈəʊpənɪŋ/</span><span class="mean">nghĩa trong bài: cơ hội việc làm</span></li><li data-for="w6-8-4"><span class="hw">marshalship</span> <span class="pos">(n)</span> <span class="ipa">/ˈmɑːʃlʃɪp/</span><span class="mean">chức marshal</span></li><li data-for="w6-8-5"><span class="hw">ambassador</span> <span class="pos">(n)</span> <span class="ipa">/æmˈbæsədə/</span><span class="mean">đại sứ</span></li></ul></div><div class="grp"><p>“The ambassador,” said the girl, warmly, “doesn’t <b class="w" id="w6-9-0" tabindex="0">call</b> any more. He needn’t ever have done so. You ought to know that. And so now you are one of these <b class="w" id="w6-9-1" tabindex="0">dashing</b> Western heroes, and you ride and shoot and go into all kinds of dangers. That’s different from the Washington life. You have been missed from the old crowd.”</p><p>The girl’s eyes, fascinated, went back, widening a little, to rest upon the glittering handcuffs.</p><p>“Don’t you worry about them, miss,” said the other man. “All marshals handcuff themselves to their prisoners to keep them from getting away. Mr. Easton knows his business.”</p><p>“Will we see you again soon in Washington?” asked the girl.</p><ul class="inline-gloss"><li data-for="w6-9-0"><span class="hw">call</span> <span class="pos">(v)</span> <span class="ipa">/kɔːl/</span><span class="mean">nghĩa trong bài: đến thăm (lối nói cũ)</span></li><li data-for="w6-9-1"><span class="hw">dashing</span> <span class="pos">(adj)</span> <span class="ipa">/ˈdæʃɪŋ/</span><span class="mean">hào hoa, bảnh bao</span></li></ul></div><div class="grp"><p>“Not soon, I think,” said Easton. “My <b class="w" id="w6-13-0" tabindex="0">butterfly days</b> are over, I fear.”</p><ul class="inline-gloss"><li data-for="w6-13-0"><span class="hw">butterfly days</span> <span class="pos">(cụm từ)</span><span class="mean">những ngày ăn chơi bay bướm</span></li></ul></div><div class="grp"><p>“I love the West,” said the girl <b class="w" id="w6-14-0" tabindex="0">irrelevantly</b>. Her eyes were shining softly. She looked away out the car window. She began to speak truly and simply without the <b class="w" id="w6-14-1" tabindex="0">gloss</b> of style and manner: “Mamma and I spent the summer in Denver. She went home a week ago because father was slightly ill. I could live and be happy in the West. I think the air here <b class="w" id="w6-14-2" tabindex="0">agrees with me</b>. Money isn’t everything. But people always misunderstand things and remain stupid—”</p><ul class="inline-gloss"><li data-for="w6-14-0"><span class="hw">irrelevantly</span> <span class="pos">(adv)</span> <span class="ipa">/ɪˈreləvəntli/</span><span class="mean">lạc đề, chẳng ăn nhập</span></li><li data-for="w6-14-1"><span class="hw">gloss</span> <span class="pos">(n)</span> <span class="ipa">/ɡlɒs/</span><span class="mean">lớp hào nhoáng bề ngoài</span></li><li data-for="w6-14-2"><span class="hw">agree with</span> <span class="pos">(cụm động từ)</span><span class="mean">hợp với (sức khỏe) của tôi</span></li></ul></div><div class="grp"><p>“Say, Mr. Marshal,” <b class="w" id="w6-15-0" tabindex="0">growled</b> the glum-faced man. “This isn’t quite fair. I’m needing a drink, and haven’t had a smoke all day. Haven’t you talked long enough? Take me in the <b class="w" id="w6-15-1" tabindex="0">smoker</b> now, won’t you? I’m half dead for a pipe.”</p><p>The bound travelers rose to their feet, Easton with the same slow smile on his face.</p><ul class="inline-gloss"><li data-for="w6-15-0"><span class="hw">growl</span> <span class="pos">(v)</span> <span class="ipa">/ɡraʊl/</span><span class="mean">gầm gừ, càu nhàu</span></li><li data-for="w6-15-1"><span class="hw">smoker</span> <span class="pos">(n)</span> <span class="ipa">/ˈsməʊkə/</span><span class="mean">nghĩa trong bài: toa hút thuốc</span></li></ul></div><div class="grp"><p>“I can’t deny a <b class="w" id="w6-17-0" tabindex="0">petition</b> for tobacco,” he said, lightly. “It’s the one friend of the <b class="w" id="w6-17-1" tabindex="0">unfortunate</b>. Goodbye, Miss Fairchild. Duty calls, you know.” He held out his hand for a farewell.</p><ul class="inline-gloss"><li data-for="w6-17-0"><span class="hw">petition</span> <span class="pos">(n)</span> <span class="ipa">/pəˈtɪʃn/</span><span class="mean">lời thỉnh cầu (chữ trang trọng, nói vui)</span></li><li data-for="w6-17-1"><span class="hw">unfortunate</span> <span class="pos">(n)</span> <span class="ipa">/ʌnˈfɔːtʃənət/</span><span class="mean">người bất hạnh</span></li></ul></div><div class="grp"><p>“It’s too bad you are not going East,” she said, <b class="w" id="w6-18-0" tabindex="0">reclothing</b> herself with manner and style. “But you must go on to Leavenworth, I suppose?”</p><p>“Yes,” said Easton, “I must go on to Leavenworth.”</p><ul class="inline-gloss"><li data-for="w6-18-0"><span class="hw">reclothe</span> <span class="pos">(v)</span> <span class="ipa">/ˌriːˈkləʊð/</span><span class="mean">khoác lại. Ý: lấy lại vẻ khách sáo, kiểu cách</span></li></ul></div><div class="grp"><p>The two men <b class="w" id="w6-20-0" tabindex="0">sidled</b> down the aisle into the smoker.</p><ul class="inline-gloss"><li data-for="w6-20-0"><span class="hw">sidle</span> <span class="pos">(v)</span> <span class="ipa">/ˈsaɪdl/</span><span class="mean">đi lách nghiêng người</span></li></ul></div><div class="grp"><p>The two passengers in a seat nearby had heard most of the conversation. Said one of them: “That marshal’s a <b class="w" id="w6-21-0" tabindex="0">good sort</b> of chap. Some of these Western fellows are all right.”</p><ul class="inline-gloss"><li data-for="w6-21-0"><span class="hw">good sort</span> <span class="pos">(cụm từ)</span><span class="mean">người tử tế, dễ mến</span></li></ul></div><div class="grp"><p>“Pretty young to <b class="w" id="w6-22-0" tabindex="0">hold an office</b> like that, isn’t he?” asked the other.</p><ul class="inline-gloss"><li data-for="w6-22-0"><span class="hw">hold an office</span> <span class="pos">(cụm từ)</span><span class="mean">giữ một chức vụ</span></li></ul></div><div class="grp"><p>“Young!” exclaimed the first speaker, “why—Oh! didn’t you <b class="w" id="w6-23-0" tabindex="0">catch on</b>? Say—did you ever know an officer to handcuff a prisoner to his right hand?”</p><ul class="inline-gloss"><li data-for="w6-23-0"><span class="hw">catch on</span> <span class="pos">(cụm động từ)</span><span class="mean">hiểu ra, vỡ lẽ</span></li></ul></div></div><aside class="side"><ul><li data-for="w6-0-0"><span class="hw">influx</span> <span class="pos">(n)</span> <span class="ipa">/ˈɪnflʌks/</span><span class="mean">dòng người đổ vào</span></li><li data-for="w6-0-1"><span class="hw">eastbound</span> <span class="pos">(adj)</span> <span class="ipa">/ˈiːstbaʊnd/</span><span class="mean">đi về hướng đông</span></li><li data-for="w6-0-2"><span class="hw">B. &amp; M. express</span> <span class="pos">(cụm từ)</span><span class="mean">chuyến tàu tốc hành của hãng đường sắt Burlington &amp; Missouri</span></li><li data-for="w6-0-3"><span class="hw">presence</span> <span class="pos">(n)</span> <span class="ipa">/ˈprezns/</span><span class="mean">nghĩa trong bài: dáng vẻ, phong thái</span></li><li data-for="w6-0-4"><span class="hw">frank</span> <span class="pos">(adj)</span> <span class="ipa">/fræŋk/</span><span class="mean">cởi mở, thẳng thắn</span></li><li data-for="w6-0-5"><span class="hw">countenance</span> <span class="pos">(n)</span> <span class="ipa">/ˈkaʊntənəns/</span><span class="mean">nét mặt, vẻ mặt</span></li><li data-for="w6-0-6"><span class="hw">ruffled</span> <span class="pos">(adj)</span> <span class="ipa">/ˈrʌfld/</span><span class="mean">xộc xệch, nhàu nhĩ</span></li><li data-for="w6-0-7"><span class="hw">glum-faced</span> <span class="pos">(adj)</span> <span class="ipa">/ˈɡlʌm feɪst/</span><span class="mean">mặt mày cau có, ủ ê</span></li><li data-for="w6-0-8"><span class="hw">heavily built</span> <span class="pos">(cụm từ)</span><span class="mean">to con, vạm vỡ</span></li><li data-for="w6-0-9"><span class="hw">handcuff</span> <span class="pos">(v)</span> <span class="ipa">/ˈhændkʌf/</span><span class="mean">còng tay</span></li><li data-for="w6-1-0"><span class="hw">aisle</span> <span class="pos">(n)</span> <span class="ipa">/aɪl/</span><span class="mean">lối đi giữa các hàng ghế</span></li><li data-for="w6-1-1"><span class="hw">reversed</span> <span class="pos">(adj)</span> <span class="ipa">/rɪˈvɜːst/</span><span class="mean">quay ngược chiều (ghế quay mặt về phía sau tàu)</span></li><li data-for="w6-1-2"><span class="hw">disinterest</span> <span class="pos">(n)</span> <span class="ipa">/dɪsˈɪntrəst/</span><span class="mean">sự thờ ơ</span></li><li data-for="w6-1-3"><span class="hw">tinge</span> <span class="pos">(v)</span> <span class="ipa">/tɪndʒ/</span><span class="mean">nhuốm nhẹ (màu)</span></li><li data-for="w6-1-4"><span class="hw">deliberate</span> <span class="pos">(adj)</span> <span class="ipa">/dɪˈlɪbərət/</span><span class="mean">thong thả, khoan thai</span></li><li data-for="w6-1-5"><span class="hw">proclaim</span> <span class="pos">(v)</span> <span class="ipa">/prəˈkleɪm/</span><span class="mean">cho thấy rõ</span></li><li data-for="w6-1-6"><span class="hw">accustomed to</span> <span class="pos">(cụm từ)</span><span class="mean">quen với</span></li><li data-for="w6-3-0"><span class="hw">rouse oneself</span> <span class="pos">(cụm từ)</span><span class="mean">bừng tỉnh, chú ý ngay</span></li><li data-for="w6-3-1"><span class="hw">throw off</span> <span class="pos">(cụm động từ)</span><span class="mean">gạt đi, rũ bỏ</span></li><li data-for="w6-3-2"><span class="hw">clasp</span> <span class="pos">(v)</span> <span class="ipa">/klɑːsp/</span><span class="mean">nắm chặt</span></li><li data-for="w6-4-0"><span class="hw">otherwise engaged</span> <span class="pos">(cụm từ)</span><span class="mean">đang bận việc khác (nói đùa)</span></li><li data-for="w6-5-0"><span class="hw">bind</span> <span class="pos">(v)</span> <span class="ipa">/baɪnd/</span><span class="mean">buộc, trói</span></li><li data-for="w6-5-1"><span class="hw">bracelet</span> <span class="pos">(n)</span> <span class="ipa">/ˈbreɪslət/</span><span class="mean">vòng đeo tay; ở đây (tiếng lóng) là chiếc còng</span></li><li data-for="w6-5-2"><span class="hw">bewildered</span> <span class="pos">(adj)</span> <span class="ipa">/bɪˈwɪldəd/</span><span class="mean">hoang mang, bối rối</span></li><li data-for="w6-5-3"><span class="hw">forestall</span> <span class="pos">(v)</span> <span class="ipa">/fɔːˈstɔːl/</span><span class="mean">chặn trước, nói trước</span></li><li data-for="w6-5-4"><span class="hw">veiled</span> <span class="pos">(adj)</span> <span class="ipa">/veɪld/</span><span class="mean">kín đáo, che giấu</span></li><li data-for="w6-5-5"><span class="hw">shrewd</span> <span class="pos">(adj)</span> <span class="ipa">/ʃruːd/</span><span class="mean">sắc sảo, tinh khôn</span></li><li data-for="w6-6-0"><span class="hw">acquainted with</span> <span class="pos">(cụm từ)</span><span class="mean">quen biết</span></li><li data-for="w6-6-1"><span class="hw">marshal</span> <span class="pos">(n)</span> <span class="ipa">/ˈmɑːʃl/</span><span class="mean">cảnh sát tư pháp liên bang Mỹ, lo bắt giữ và áp giải tù</span></li><li data-for="w6-6-2"><span class="hw">pen</span> <span class="pos">(n)</span> <span class="ipa">/pen/</span><span class="mean">(tiếng lóng) nhà tù, nói tắt của “penitentiary”</span></li><li data-for="w6-6-3"><span class="hw">Leavenworth</span> <span class="pos">(n)</span> <span class="ipa">/ˈlevənwɜːθ/</span><span class="mean">nhà tù liên bang ở bang Kansas</span></li><li data-for="w6-6-4"><span class="hw">counterfeiting</span> <span class="pos">(n)</span> <span class="ipa">/ˈkaʊntəfɪtɪŋ/</span><span class="mean">tội làm tiền giả</span></li><li data-for="w6-8-0"><span class="hw">take wings</span> <span class="pos">(cụm từ)</span><span class="mean">(lời Kinh Thánh) tiền tự mọc cánh bay đi</span></li><li data-for="w6-8-1"><span class="hw">keep step with</span> <span class="pos">(cụm từ)</span><span class="mean">theo kịp, sánh bước cùng</span></li><li data-for="w6-8-2"><span class="hw">crowd</span> <span class="pos">(n)</span> <span class="ipa">/kraʊd/</span><span class="mean">nghĩa trong bài: nhóm bạn bè cùng giới</span></li><li data-for="w6-8-3"><span class="hw">opening</span> <span class="pos">(n)</span> <span class="ipa">/ˈəʊpənɪŋ/</span><span class="mean">nghĩa trong bài: cơ hội việc làm</span></li><li data-for="w6-8-4"><span class="hw">marshalship</span> <span class="pos">(n)</span> <span class="ipa">/ˈmɑːʃlʃɪp/</span><span class="mean">chức marshal</span></li><li data-for="w6-8-5"><span class="hw">ambassador</span> <span class="pos">(n)</span> <span class="ipa">/æmˈbæsədə/</span><span class="mean">đại sứ</span></li><li data-for="w6-9-0"><span class="hw">call</span> <span class="pos">(v)</span> <span class="ipa">/kɔːl/</span><span class="mean">nghĩa trong bài: đến thăm (lối nói cũ)</span></li><li data-for="w6-9-1"><span class="hw">dashing</span> <span class="pos">(adj)</span> <span class="ipa">/ˈdæʃɪŋ/</span><span class="mean">hào hoa, bảnh bao</span></li><li data-for="w6-13-0"><span class="hw">butterfly days</span> <span class="pos">(cụm từ)</span><span class="mean">những ngày ăn chơi bay bướm</span></li><li data-for="w6-14-0"><span class="hw">irrelevantly</span> <span class="pos">(adv)</span> <span class="ipa">/ɪˈreləvəntli/</span><span class="mean">lạc đề, chẳng ăn nhập</span></li><li data-for="w6-14-1"><span class="hw">gloss</span> <span class="pos">(n)</span> <span class="ipa">/ɡlɒs/</span><span class="mean">lớp hào nhoáng bề ngoài</span></li><li data-for="w6-14-2"><span class="hw">agree with</span> <span class="pos">(cụm động từ)</span><span class="mean">hợp với (sức khỏe) của tôi</span></li><li data-for="w6-15-0"><span class="hw">growl</span> <span class="pos">(v)</span> <span class="ipa">/ɡraʊl/</span><span class="mean">gầm gừ, càu nhàu</span></li><li data-for="w6-15-1"><span class="hw">smoker</span> <span class="pos">(n)</span> <span class="ipa">/ˈsməʊkə/</span><span class="mean">nghĩa trong bài: toa hút thuốc</span></li><li data-for="w6-17-0"><span class="hw">petition</span> <span class="pos">(n)</span> <span class="ipa">/pəˈtɪʃn/</span><span class="mean">lời thỉnh cầu (chữ trang trọng, nói vui)</span></li><li data-for="w6-17-1"><span class="hw">unfortunate</span> <span class="pos">(n)</span> <span class="ipa">/ʌnˈfɔːtʃənət/</span><span class="mean">người bất hạnh</span></li><li data-for="w6-18-0"><span class="hw">reclothe</span> <span class="pos">(v)</span> <span class="ipa">/ˌriːˈkləʊð/</span><span class="mean">khoác lại. Ý: lấy lại vẻ khách sáo, kiểu cách</span></li><li data-for="w6-20-0"><span class="hw">sidle</span> <span class="pos">(v)</span> <span class="ipa">/ˈsaɪdl/</span><span class="mean">đi lách nghiêng người</span></li><li data-for="w6-21-0"><span class="hw">good sort</span> <span class="pos">(cụm từ)</span><span class="mean">người tử tế, dễ mến</span></li><li data-for="w6-22-0"><span class="hw">hold an office</span> <span class="pos">(cụm từ)</span><span class="mean">giữ một chức vụ</span></li><li data-for="w6-23-0"><span class="hw">catch on</span> <span class="pos">(cụm động từ)</span><span class="mean">hiểu ra, vỡ lẽ</span></li></ul></aside></div>
+  </main>
+  <nav class="nav"><a href="chuong-05.html">← Truyện 5</a><a href="index.html">Mục lục · Tra từ</a><a href="chuong-07.html">Truyện 7 →</a></nav>
+  <footer>Nguyên văn: O. Henry (1862–1910), bản Short Fiction của Standard Ebooks (phạm vi công cộng, CC0). Phần từ vựng và giải nghĩa soạn thêm; nghĩa ghi theo ngữ cảnh trong bài. Mỗi truyện giải nghĩa độc lập.</footer>
+</div>
+<script>
+(function(){
+  var BASE=17, MIN=13, MAX=28, KEY="bai-doc-fs";
+  var root=document.documentElement, out=document.getElementById("size");
+  var fs=BASE;
+  try{ var s=parseInt(localStorage.getItem(KEY),10); if(s>=MIN&&s<=MAX) fs=s; }catch(e){}
+  function apply(){
+    root.style.setProperty("--fs", fs+"px");
+    out.textContent=Math.round(fs/BASE*100)+"%";
+    try{ localStorage.setItem(KEY, fs); }catch(e){}
+  }
+  document.getElementById("smaller").onclick=function(){ fs=Math.max(MIN,fs-1); apply(); };
+  document.getElementById("bigger").onclick=function(){ fs=Math.min(MAX,fs+1); apply(); };
+  document.getElementById("reset").onclick=function(){ fs=BASE; apply(); };
+  apply();
+
+  // Xếp mục từ ngang dòng chứa từ (ghi chú bên lề); dồn xuống khi chật, kéo lên tối đa ~5 dòng khi tràn cuối bài
+  var side=document.querySelector(".side"), sideUl=side && side.querySelector("ul");
+  function layout(){
+    if(!sideUl || getComputedStyle(side).display==="none") return;
+    var lis=[].slice.call(sideUl.querySelectorAll("li")), GAP=6;
+    if(!lis.length) return;
+    var base=sideUl.getBoundingClientRect().top;
+    var ps=document.querySelectorAll(".flow .text p");
+    var textEnd=ps[ps.length-1].getBoundingClientRect().bottom-base;
+    var lineH=parseFloat(getComputedStyle(ps[0]).lineHeight)||26, MAXUP=5*lineH;
+    var want=lis.map(function(li){ return document.getElementById(li.dataset.for).getBoundingClientRect().top-base-2; });
+    var h=lis.map(function(li){ return li.offsetHeight; });
+    var top=[], i;
+    for(i=0;i<lis.length;i++) top[i]=Math.max(want[i], i? top[i-1]+h[i-1]+GAP : 0);
+    for(i=lis.length-1;i>=0;i--){
+      var maxTop=(i===lis.length-1? textEnd : top[i+1]-GAP)-h[i];
+      top[i]=Math.max(0, want[i]-MAXUP, Math.min(top[i], maxTop));
+    }
+    for(i=1;i<lis.length;i++) top[i]=Math.max(top[i], top[i-1]+h[i-1]+GAP);
+    lis.forEach(function(li,k){ li.style.top=top[k]+"px"; });
+    sideUl.style.height=(top[lis.length-1]+h[lis.length-1])+"px";
+  }
+  window.addEventListener("resize", layout);
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(layout);
+  window.addEventListener("load", layout);
+  ["smaller","bigger","reset"].forEach(function(id){ document.getElementById(id).addEventListener("click", layout); });
+  layout();
+
+  // Chạm từ in đậm -> tô sáng mục giải nghĩa của nó
+  function clear(){ document.querySelectorAll(".on").forEach(function(x){x.classList.remove("on")}); }
+  document.querySelectorAll(".w").forEach(function(el){
+    function go(){
+      var was=el.classList.contains("on"); clear(); closeBubble();
+      if(was) return;
+      el.classList.add("on");
+      document.querySelectorAll('li[data-for="'+el.id+'"]').forEach(function(li){ li.classList.add("on"); });
+    }
+    el.addEventListener("click", go);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); go(); } });
+  });
+
+  // Chạm từ gạch chân chấm -> bong bóng nhắc lại nghĩa đã học
+  var bubble=null;
+  function closeBubble(){ if(bubble){ bubble.remove(); bubble=null; } }
+  document.querySelectorAll(".seen[data-g]").forEach(function(el){
+    function show(e){
+      e.stopPropagation(); var same=bubble && bubble._for===el; closeBubble(); clear(); if(same) return;
+      var g=JSON.parse(el.dataset.g);
+      bubble=document.createElement("div"); bubble.className="bubble"; bubble._for=el;
+      bubble.innerHTML='<span class="hw"></span> <span class="pos"></span> <span class="ipa"></span><span class="mean"></span><span class="from"></span>';
+      bubble.querySelector(".hw").textContent=g.tu; bubble.querySelector(".pos").textContent="("+g.loai+")";
+      bubble.querySelector(".ipa").textContent=g.phien_am||""; bubble.querySelector(".mean").textContent=g.nghia;
+      bubble.querySelector(".from").textContent="Đã gặp ở Chương "+g.chuong;
+      document.body.appendChild(bubble);
+      var r=el.getBoundingClientRect(), bw=bubble.offsetWidth;
+      var left=Math.min(Math.max(8, r.left+scrollX), scrollX+document.documentElement.clientWidth-bw-8);
+      bubble.style.left=left+"px"; bubble.style.top=(r.bottom+scrollY+6)+"px";
+    }
+    el.setAttribute("tabindex","0");
+    el.addEventListener("click", show);
+    el.addEventListener("keydown", function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); show(e); } });
+  });
+  document.addEventListener("click", function(e){ if(bubble && !bubble.contains(e.target)) closeBubble(); });
+  // Mở từ bảng tra A–Z (chuong-NN.html#w…): tô sáng từ đó
+  function fromHash(){
+    var t=location.hash && document.getElementById(location.hash.slice(1));
+    if(t && t.classList.contains("w") && !t.classList.contains("on")){ layout(); t.click(); t.scrollIntoView({block:"center"}); }
+  }
+  window.addEventListener("hashchange", fromHash);
+  window.addEventListener("load", function(){ setTimeout(fromHash, 50); });
+  document.addEventListener("keydown", function(e){ if(e.key==="Escape") closeBubble(); });
+})();
+</script>
+</body>
+</html>
