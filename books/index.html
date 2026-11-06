@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tủ sách đọc kèm từ vựng – PHT Learning Hub</title>
+<style>
+:root{--bg:#f6f7f8;--paper:#fff;--ink:#1d2327;--muted:#5f6b72;--accent:#1f5c73;--line:#d3dadf}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14181b;--paper:#1c2227;--ink:#e4e8eb;--muted:#9aa6ad;--accent:#7cc0d8;--line:#33404a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+.wrap{max-width:920px;margin:0 auto;padding:24px 16px 48px}
+.back{font-size:.9rem;color:var(--muted);text-decoration:none}.back:hover{color:var(--accent)}
+header{margin:22px 0 26px}
+.kicker{font-size:.78rem;letter-spacing:.08em;color:var(--muted);margin:0}
+h1{font-size:2rem;color:var(--accent);margin:.15em 0 .3em;line-height:1.2}
+.lead{color:var(--muted);margin:0;max-width:640px}
+.books{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.book{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:22px;text-decoration:none;color:var(--ink);transition:transform .15s,border-color .15s}
+.book:hover{transform:translateY(-3px);border-color:var(--accent)}
+.book small{color:var(--muted);letter-spacing:.06em;font-size:.72rem}
+.book h2{margin:.35em 0 .1em;font-size:1.45rem;color:var(--accent)}
+.book .vi{color:var(--muted);margin:0 0 .7em}
+.book p{margin:0 0 .9em;font-size:.93rem}
+.book .go{margin-top:auto;font-weight:650;color:var(--accent)}
+.how{margin-top:26px;padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper);font-size:.9rem}
+.how p{margin:.25em 0}
+@media (max-width:640px){.books{grid-template-columns:1fr}h1{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="/pht-learning-hub/">← PHT Learning Hub</a>
+  <header>
+    <p class="kicker">ĐỌC TIẾNG ANH KÈM TỪ VỰNG</p>
+    <h1>Tủ sách đọc kèm từ vựng</h1>
+    <p class="lead">Đọc nguyên văn tiểu thuyết tiếng Anh. Từ khó được in đậm và giải nghĩa tiếng Việt ở cột bên cạnh, ngang dòng với từ đó.</p>
+  </header>
+  <div class="books">
+    <a class="book" href="pride-and-prejudice/index.html">
+      <small>JANE AUSTEN · 1813</small>
+      <h2>Pride and Prejudice</h2>
+      <p class="vi">Kiêu hãnh và định kiến</p>
+      <p>61 chương, 4.788 từ giải nghĩa tiếng Việt theo đúng câu, có ghi chú nghĩa cũ thời Austen. Kèm bảng tra từ A–Z.</p>
+      <span class="go">Mở sách →</span>
+    </a>
+    <a class="book" href="siddhartha/index.html">
+      <small>HERMANN HESSE · 1922</small>
+      <h2>Siddhartha</h2>
+      <p class="vi">Câu chuyện dòng sông</p>
+      <p>12 chương, 1.695 từ giải nghĩa. Thuật ngữ Phật học, Ấn Độ ghi kèm tên Hán-Việt (Bà-la-môn, Sa-môn, Niết-bàn…). Kèm bảng tra từ A–Z.</p>
+      <span class="go">Mở sách →</span>
+    </a>
+  </div>
+  <div class="how">
+    <p><b>Cách đọc:</b> chạm từ in đậm để tô sáng phần giải nghĩa. Từ gạch chân chấm là từ đã gặp ở chương trước, chạm vào để xem lại nghĩa. Nút A− / A+ ở đầu trang đổi cỡ chữ.</p>
+    <p>Nguyên văn lấy từ Project Gutenberg, tự do chia sẻ. Phần từ vựng và giải nghĩa soạn thêm.</p>
+  </div>
+</div>
+</body>
+</html>
