@@ -97,7 +97,7 @@ Thẻ 08, 09 và 10 trên trang chủ, cùng mục **Đọc sách** trên thanh 
 - `/books/siddhartha/`: *Siddhartha* (Hermann Hesse, bản dịch Project Gutenberg), 12 chương, 1.695 từ giải nghĩa, thuật ngữ Phật học kèm tên Hán-Việt.
 - `/books/o-henry/`: tuyển tập 30 truyện ngắn O. Henry (nguyên văn Standard Ebooks, CC0), 71.490 chữ, 4.330 từ giải nghĩa, mỗi truyện giải nghĩa độc lập. Thẻ 10 trên trang chủ.
 - `/ve-dep-thanh-hanh/`: tập tổng hợp 959 hình ảnh về vẻ đẹp và Thánh Hạnh, tìm và lọc ngay trên trang. Phần thuật là lời người tổng hợp. Thẻ 11 trên trang chủ.
-- `/combo-dao-dien/`: tài liệu học 216 combo thủ pháp của 34 đạo diễn (sử thi, DC, Marvel, châu Á, hoạt hình), xếp theo 20 loại khoảnh khắc, có bộ lọc, hồ sơ từng đạo diễn kèm nguồn, và 487 link YouTube xem cảnh (202/205 thẻ). Học từ bài viết và video phân tích, không đo trên cảnh phim. Thẻ 12 trên trang chủ.
+- `/combo-dao-dien/`: tài liệu học 216 combo thủ pháp của 34 đạo diễn (sử thi, DC, Marvel, châu Á, hoạt hình) và 41 cảnh phim kinh điển, tổng 246 thẻ. Hai lối tra: theo 20 loại tình huống, hoặc theo 13 lớp cảm xúc của cảnh (nhãn cảm xúc do AI gắn). Có bộ lọc, hồ sơ từng đạo diễn kèm nguồn, và 607 link YouTube xem cảnh. Học từ bài viết và video phân tích, không đo trên cảnh phim. Thẻ 12 trên trang chủ.
 
 Mỗi cuốn là một thư mục HTML tự chứa: `index.html` là mục lục và bảng tra từ, `chuong-NN.html` là từng chương, có nút đổi cỡ chữ. Nguyên văn lấy từ Project Gutenberg và Standard Ebooks, tự do chia sẻ. Bộ dựng (tách chương, từ vựng, kiểm tra) nằm ngoài repo, trong thư mục dự án `Hoc_tieng_Anh` trên máy. Khi dựng lại, chép thư mục `web` mới đè vào `dist/books/<tên sách>/`, rồi chèn lại link "← Tủ sách" ở `index.html` của mỗi cuốn.
 
