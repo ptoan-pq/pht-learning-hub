@@ -72,6 +72,10 @@ Mục Sống Mỹ trên trang chủ và thanh điều hướng mở [website Git
 
 Thẻ Thuộc Lòng trên trang chủ mở [website GitHub Pages](https://ptoan-pq.github.io/thuoc-long/) để học thuộc kinh, thơ và lời thoại. Mã nguồn ở [repo thuoc-long](https://github.com/ptoan-pq/thuoc-long). Bài học và tiến độ được lưu riêng trong trình duyệt tại website đó.
 
+## Tứ Diệu Đế: Khổ Đế 1 trực quan
+
+Thẻ số 13 trên trang chủ mở `/tu-dieu-de/kho-de-1/`: sơ đồ tư duy 8 nhánh và infographic một trang cho bài giảng Khổ Đế 1, loạt Tứ Diệu Đế. Trang độc lập nằm trong `dist/tu-dieu-de/kho-de-1/index.html`, nội dung lấy từ bản tóm tắt bài giảng đã qua soát; biểu tượng tải từ thư viện Lucide (unpkg).
+
 ## GitHub và triển khai public
 
 - Mã nguồn: https://github.com/ptoan-pq/pht-learning-hub
