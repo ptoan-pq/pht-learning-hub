@@ -117,3 +117,23 @@ node qa-navigation.cjs /absolute/export-directory https://ptoan-pq.github.io/pht
 ```
 
 Trang `/thu-vien-nikaya/` dưới Hub chỉ chuyển tiếp về website thư viện để khôi phục địa chỉ lỗi của bản điều hướng cũ.
+
+## Trắc nghiệm vận dụng từ vựng Thiền học vấn đáp
+
+Bộ mẫu nằm dưới bài đọc của Câu hỏi 1, 8 và 25: lần lượt 20, 16 và 12 câu. Có 30 câu vận dụng tình huống, 10 câu phân tích sửa sai và 8 câu suy luận. Nhãn khó do biên tập lựa chọn, chưa hiệu chuẩn bằng kết quả học viên. Các tình huống được soạn mới từ nội dung bài; nhận định về thiền được xét theo lập luận của nguồn.
+
+Mỗi lượt tối đa 6 câu, đảo thứ tự câu và đáp án, ẩn nghĩa và lời giải trước khi trả lời. Sau khi chấm có nghĩa từ, giải thích lựa chọn và đoạn gốc kèm trang PDF. Bộ mẫu có ít nhất một tình huống cho mỗi đầu mục từ vựng của ba bài; đây là bản thử cách hỏi, chưa phải ngân hàng hai câu cho mỗi từ ở toàn sách. Kết quả không được dùng để tuyên bố người học đã ghi nhớ lâu dài.
+
+Đáp án đang chọn, trạng thái phân vân và kết quả lưu riêng theo bài trong localStorage `thien-vocab-application-pilot-v1`. Phiên ôn giữ lại lượt chính. Nguồn câu hỏi và giao diện nằm trong `content/thien-quiz-pilot/`; dựng lại HTML tự chứa bằng:
+
+```sh
+node build-thien-quiz-pilot.mjs
+```
+
+Kiểm tra bằng Playwright và Chrome sau khi phục vụ bản xuất ở đúng tiền tố `/pht-learning-hub/`:
+
+```sh
+node qa-thien-quiz-pilot.cjs http://127.0.0.1:4188/pht-learning-hub/books/thien-hoc-van-dap/
+```
+
+Kiểm tra gồm chấm đủ 48 câu, nhóm cuối ít hơn 6 câu, tải lại khi đang chọn và sau khi chấm, không chấm hai lần, tách lượt chính với lượt ôn, tách tiến độ ba bài, liên kết nguồn, màn hình điện thoại và bài đọc cũ.
