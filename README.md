@@ -74,7 +74,7 @@ Thẻ Thuộc Lòng trên trang chủ mở [website GitHub Pages](https://ptoan-
 
 ## Tứ Diệu Đế: Khổ Đế 1 trực quan
 
-Thẻ số 13 trên trang chủ mở `/tu-dieu-de/kho-de-1/`: sơ đồ tư duy 8 nhánh và infographic một trang cho bài giảng Khổ Đế 1, loạt Tứ Diệu Đế. Trang độc lập nằm trong `dist/tu-dieu-de/kho-de-1/index.html`, nội dung lấy từ bản tóm tắt bài giảng đã qua soát; biểu tượng tải từ thư viện Lucide (unpkg).
+Thẻ số 14 trên trang chủ mở `/tu-dieu-de/kho-de-1/`: sơ đồ tư duy 8 nhánh và infographic một trang cho bài giảng Khổ Đế 1, loạt Tứ Diệu Đế. Trang độc lập nằm trong `dist/tu-dieu-de/kho-de-1/index.html`, nội dung lấy từ bản tóm tắt bài giảng đã qua soát; biểu tượng tải từ thư viện Lucide (unpkg).
 
 ## GitHub và triển khai public
 
@@ -95,15 +95,16 @@ Khi chuyển từ địa chỉ cũ, vào **Tiến độ** ở web cũ để xu�
 
 ## Tủ sách đọc kèm từ vựng
 
-Thẻ 08, 09 và 10 trên trang chủ, cùng mục **Đọc sách** trên thanh điều hướng, mở `/books/`. Đây là trang tĩnh nằm ngay trong Hub, giống `/music/`: các link dùng `data-document` để bộ điều hướng của Hub không chặn.
+Thẻ 08, 09, 10 và 11 trên trang chủ, cùng mục **Đọc sách** trên thanh điều hướng, mở `/books/`. Đây là trang tĩnh nằm ngay trong Hub, giống `/music/`: các link dùng `data-document` để bộ điều hướng của Hub không chặn.
 
 - `/books/pride-and-prejudice/`: *Pride and Prejudice* (Jane Austen), 61 chương nguyên văn, 4.788 từ in đậm có nghĩa tiếng Việt bên cạnh, bảng tra A–Z.
 - `/books/siddhartha/`: *Siddhartha* (Hermann Hesse, bản dịch Project Gutenberg), 12 chương, 1.695 từ giải nghĩa, thuật ngữ Phật học kèm tên Hán-Việt.
 - `/books/o-henry/`: tuyển tập 30 truyện ngắn O. Henry (nguyên văn Standard Ebooks, CC0), 71.490 chữ, 4.330 từ giải nghĩa, mỗi truyện giải nghĩa độc lập. Thẻ 10 trên trang chủ.
-- `/ve-dep-thanh-hanh/`: tập tổng hợp 959 hình ảnh về vẻ đẹp và Thánh Hạnh, tìm và lọc ngay trên trang. Phần thuật là lời người tổng hợp. Thẻ 11 trên trang chủ.
-- `/combo-dao-dien/`: tài liệu học 216 combo thủ pháp của 34 đạo diễn (sử thi, DC, Marvel, châu Á, hoạt hình) và 41 cảnh phim kinh điển, tổng 246 thẻ. Hai lối tra: theo 20 loại tình huống, hoặc theo 13 lớp cảm xúc của cảnh (nhãn cảm xúc do AI gắn). Mỗi combo viết thành vài đoạn văn liền mạch cho người mới, có bảng giải nghĩa từ nghề. Có bộ lọc, hồ sơ từng đạo diễn kèm nguồn, và 607 link YouTube xem cảnh. Học từ bài viết và video phân tích, không đo trên cảnh phim. Thẻ 12 trên trang chủ.
+- `/books/thien-hoc-van-dap/`: *Thiền học vấn đáp* (JANNA), lời nói đầu và 145 câu hỏi đáp tiếng Anh từ PDF được cung cấp; 443 từ/cụm có loại từ, IPA và nghĩa tiếng Việt, hướng tới IELTS 6.5 trở lên. Mục lục, tra từ, tô sáng từ và cỡ chữ nằm trong một file HTML; bản DOCX tải ngay tại trang đọc. Thẻ 11 trên trang chủ.
+- `/ve-dep-thanh-hanh/`: tập tổng hợp 959 hình ảnh về vẻ đẹp và Thánh Hạnh, tìm và lọc ngay trên trang. Phần thuật là lời người tổng hợp. Thẻ 12 trên trang chủ.
+- `/combo-dao-dien/`: tài liệu học 216 combo thủ pháp của 34 đạo diễn (sử thi, DC, Marvel, châu Á, hoạt hình) và 41 cảnh phim kinh điển, tổng 246 thẻ. Hai lối tra: theo 20 loại tình huống, hoặc theo 13 lớp cảm xúc của cảnh (nhãn cảm xúc do AI gắn). Mỗi combo viết thành vài đoạn văn liền mạch cho người mới, có bảng giải nghĩa từ nghề. Có bộ lọc, hồ sơ từng đạo diễn kèm nguồn, và 607 link YouTube xem cảnh. Học từ bài viết và video phân tích, không đo trên cảnh phim. Thẻ 13 trên trang chủ.
 
-Mỗi cuốn là một thư mục HTML tự chứa: `index.html` là mục lục và bảng tra từ, `chuong-NN.html` là từng chương, có nút đổi cỡ chữ. Nguyên văn lấy từ Project Gutenberg và Standard Ebooks, tự do chia sẻ. Bộ dựng (tách chương, từ vựng, kiểm tra) nằm ngoài repo, trong thư mục dự án `Hoc_tieng_Anh` trên máy. Khi dựng lại, chép thư mục `web` mới đè vào `dist/books/<tên sách>/`, rồi chèn lại link "← Tủ sách" ở `index.html` của mỗi cuốn.
+Các tác phẩm văn học là các thư mục HTML tự chứa: `index.html` là mục lục và bảng tra từ, `chuong-NN.html` là từng chương, có nút đổi cỡ chữ. Nguyên văn lấy từ Project Gutenberg và Standard Ebooks, tự do chia sẻ. Bộ dựng (tách chương, từ vựng, kiểm tra) nằm ngoài repo, trong thư mục dự án `Hoc_tieng_Anh` trên máy. Khi dựng lại, chép thư mục `web` mới đè vào `dist/books/<tên sách>/`, rồi chèn lại link "← Tủ sách" ở `index.html` của mỗi cuốn.
 
 ## Thư viện Nikāya
 
